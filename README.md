@@ -1,2 +1,3 @@
-# -lukasvermeer.github.io
-My website.
+# lukasvermeer.nl
+
+My website, also redirected from [lukasvermeer.nl](http://lukasvermeer.nl).
