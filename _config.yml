@@ -29,8 +29,8 @@ twitter_username: lukasvermeer
 github_username:  lukasvermeer
 
 # Build settings
-# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+# theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-include-cache
