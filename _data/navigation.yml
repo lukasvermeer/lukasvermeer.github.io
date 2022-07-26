@@ -1,0 +1,13 @@
+main:
+  - title: "Speaking"
+    url: /speaking/
+    description: "Lukas Vermeer is a public speaker who uses simple stories to help people understand complex topics like Data Science, Big Data, and statistics."
+  - title: "Consulting"
+    url: /consulting/
+    description: "Lukas Vermeer is an experienced experimentation practitioner. His specialty is designing and building the infrastructure and processes required to start and scale A/B testing to drive business growth."
+  - title: "Publications"
+    url: /publications/
+    description: "This is a collection of things I have written in the past. I may add more things in the future. Writing the right words is difficult."
+  - title: "Projects"
+    url: "https://github.com/lukasvermeer"
+    description: "This is a collection of projects I have created in the past. I may add more things in the future. There is not enough time in a day!"
