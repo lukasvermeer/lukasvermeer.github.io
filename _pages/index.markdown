@@ -42,7 +42,7 @@ feature_row2:
     alt: "Lukas sitting in the crows raising his hand high to ask a question at a Booking Data Science Conference in Amsterdam, 2018."
     image_caption: "Booking Data Science Conference, Amsterdam (2018)"
     title: "Asking questions is my superpower"
-    excerpt: 'Are you familiar with the Socratic method? If not, perhaps you should Google it. Asking questions is a powerful way to stimulate critical thinking and foster understanding. My strength as a speaker and advisor does not stem from having all the answer, but from relentlessly asking the right questions.'
+    excerpt: 'Are you familiar with the Socratic method? If not, perhaps you should Google it. Asking questions is a powerful way to stimulate critical thinking and foster understanding. My strength as a speaker and advisor does not stem from having all the answers, but from relentlessly asking the right questions.'
 feature_row3:
   - image_path: /assets/images/header-feedback.webp
     alt: "Lukas on stage with hands behind ears listening to the crowd at Predictive Analytics World in Berlin, 2017."
