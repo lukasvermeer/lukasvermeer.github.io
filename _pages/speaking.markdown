@@ -70,50 +70,6 @@ feature_row4:
 
 {% include feature_row %}
 
-### “Fantastic speaker”
-
-*Lukas spoke at an event I organised for a group of 200+ analysts at Google. He was a fantastic speaker; relaxed yet engaging. He hosted a particularly insightful live Q+A session. I've heard unanimously positive feedback from attendees, all of whom were impressed by Lukas's content, style and delivery.*
-
-— Colm O'Grada, Google
-{: .text-right}
-
-### “Super quotable”
-
-*His distinct ability to take complex mathematical concepts and break them down into easy-to-understand stories has made Lukas a leader not only in Booking.com but also in the tech world at large. He gets his points across with his own brand of dry humor and no-nonsense logic--wrapped up with some nonsense fun. He is pithy, super quotable, and never fails to ask the right question at the right time.*
-
-— Erin Weigel, Booking.com
-{: .text-right}
-
-### “Genuine and infectious enthusiasm”
-
-*There is no question that Lukas is one of the most knowledgable people on the topic of online experiments. Beyond his mastery of the topic, Lukas is a passionate and entertaining speaker who knows how to keep things engaging by varying his pace, interacting with the audience and projecting his genuine and infectious enthusiasm for the topic.*
-
-— Ben Dressler, Spotify
-{: .text-right}
-
-### “Knows his stuff”
-
-*Lukas is a fearless and charming speaker who really knows his stuff. He's not afraid to be controversial, and will keep the audience entertained while delivering unconventional insights.*
-
-— Peep Laja, ConversionXL
-{: .text-right}
-
-### “Professional approach”
-
-*I've invited Lukas to speak at Marketing Festival 2016 in Ostrava. I really value his professional approach, reliability and in-depth knowledge of his subject matter – overall, I'm really grateful for having had the opportunity to work with Lukas.*
-
-— Jindrich Faborsky, Marketing Festival
-{: .text-right}
-
-### “Great session about data science”
-
-*Lukas is one of the few people that can deliver a great session about data science that doesn't require attendees to have a PhD. I highly recommend Lukas when you are looking for an expert speaker who does not only have the knowledge and experience dealing with data in the real world, but is also able to convey his lessons learned to the audience.*
-
-— Bram Smeets, GOTO Conference
-{: .text-right}
-
----
-
 {% include feature_row id="feature_row2" type="right" %}
 
 {% include feature_row id="feature_row3" type="left" %}
@@ -166,6 +122,48 @@ feature_row4:
 </div>
 </div>
 </div>
+
+### “Fantastic speaker”
+
+*Lukas spoke at an event I organised for a group of 200+ analysts at Google. He was a fantastic speaker; relaxed yet engaging. He hosted a particularly insightful live Q+A session. I've heard unanimously positive feedback from attendees, all of whom were impressed by Lukas's content, style and delivery.*
+
+— Colm O'Grada, Google
+{: .text-right}
+
+### “Super quotable”
+
+*His distinct ability to take complex mathematical concepts and break them down into easy-to-understand stories has made Lukas a leader not only in Booking.com but also in the tech world at large. He gets his points across with his own brand of dry humor and no-nonsense logic--wrapped up with some nonsense fun. He is pithy, super quotable, and never fails to ask the right question at the right time.*
+
+— Erin Weigel, Booking.com
+{: .text-right}
+
+### “Genuine and infectious enthusiasm”
+
+*There is no question that Lukas is one of the most knowledgable people on the topic of online experiments. Beyond his mastery of the topic, Lukas is a passionate and entertaining speaker who knows how to keep things engaging by varying his pace, interacting with the audience and projecting his genuine and infectious enthusiasm for the topic.*
+
+— Ben Dressler, Spotify
+{: .text-right}
+
+### “Knows his stuff”
+
+*Lukas is a fearless and charming speaker who really knows his stuff. He's not afraid to be controversial, and will keep the audience entertained while delivering unconventional insights.*
+
+— Peep Laja, ConversionXL
+{: .text-right}
+
+### “Professional approach”
+
+*I've invited Lukas to speak at Marketing Festival 2016 in Ostrava. I really value his professional approach, reliability and in-depth knowledge of his subject matter – overall, I'm really grateful for having had the opportunity to work with Lukas.*
+
+— Jindrich Faborsky, Marketing Festival
+{: .text-right}
+
+### “Great session about data science”
+
+*Lukas is one of the few people that can deliver a great session about data science that doesn't require attendees to have a PhD. I highly recommend Lukas when you are looking for an expert speaker who does not only have the knowledge and experience dealing with data in the real world, but is also able to convey his lessons learned to the audience.*
+
+— Bram Smeets, GOTO Conference
+{: .text-right}
 
 {% include feature_row id="pricing" type="right" %}
 
