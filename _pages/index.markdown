@@ -54,9 +54,9 @@ feature_row4:
     alt: "Lukas on stage explaining p-values to a crowd of Marketing professionals at Digital Growth Unleashed in London, 2017."
     image_caption: "Digital Growth Unleashed, London (2017)"
     title: "Let's talk"
-    excerpt: 'Interested? Reach out over LinkedIn for a chat.'
-    url: "https://www.linkedin.com/in/lukasvermeer/"
-    btn_label: "My LinkedIn"
+    excerpt: 'Interested? Reach out over [LinkedIn](https://www.linkedin.com/in/lukasvermeer/) or [book some of my time](/booktime/) for a chat or an email.'
+    url: "/booktime/"
+    btn_label: "Book my time"
     btn_class: "btn--primary"
 ---
 

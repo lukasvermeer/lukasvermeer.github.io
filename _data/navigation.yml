@@ -1,4 +1,7 @@
 main:
+  - title: "Book my time"
+    url: /booktime/
+    description: "Book some of my time for an existing engagement, to explore a new potential engagement, for just a chat or an email."
   - title: "Speaking"
     url: /speaking/
     description: "Lukas Vermeer is a public speaker who uses simple stories to help people understand complex topics like Data Science, Big Data, and statistics."
