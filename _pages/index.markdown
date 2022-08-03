@@ -36,36 +36,14 @@ feature_row:
     url: "/publications/"
     btn_label: "Read my work"
     btn_class: "btn--inverse"
-
-feature_row2:
-  - image_path: /assets/images/header-questions.webp
-    alt: "Lukas sitting in the crows raising his hand high to ask a question at a Booking Data Science Conference in Amsterdam, 2018."
-    image_caption: "Booking Data Science Conference, Amsterdam (2018)"
-    title: "Asking questions is my superpower"
-    excerpt: 'Are you familiar with the Socratic method? If not, perhaps you should Google it. Asking questions is a powerful way to stimulate critical thinking and foster understanding. My strength as a speaker and advisor does not stem from having all the answers, but from relentlessly asking the right questions.'
-feature_row3:
-  - image_path: /assets/images/header-feedback.webp
-    alt: "Lukas on stage with hands behind ears listening to the crowd at Predictive Analytics World in Berlin, 2017."
-    image_caption: "Predictive Analytics World, Berlin (2017)"
-    title: "Listening is my secret weapon"
-    excerpt: 'Being able to speak is not enough. Great presenters pay close attention to their audience and invite authentic interactions with the crowd. Expert advisors will watch and observe before they speak. I understand my role—as a presenter or consultant—is not just to talk, but perhaps more importantly to listen.'
-feature_row4:
-  - image_path: /assets/images/header-teaching.webp
-    alt: "Lukas on stage explaining p-values to a crowd of Marketing professionals at Digital Growth Unleashed in London, 2017."
-    image_caption: "Digital Growth Unleashed, London (2017)"
-    title: "Let's talk"
-    excerpt: 'Interested? Reach out over [LinkedIn](https://www.linkedin.com/in/lukasvermeer/) or [book some of my time](/booktime/) for a chat or an email.'
-    url: "/booktime/"
-    btn_label: "Book my time"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="right" %}
+{% include feature_row id="feature_row_questions" type="right" %}
 
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row_listening" type="left" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row_bookme" type="center" %}
