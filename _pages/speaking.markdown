@@ -30,7 +30,7 @@ pricing:
   - image_path: /assets/images/header-speaking.webp
     image_caption: "Marketing Festival, Ostrava (2016)"
     title: "Pricing"
-    excerpt: 'Speaking fee for an in-person 60-minute presentation + Q&A using existing (or lightly altered) content is between &euro;10.000,- and &euro;20.000,- (excluding VAT and travel) depending on the nature of the event and the amount of travel involved. There is a 50% discount for virtual events.'
+    excerpt: 'Speaking fee for an in-person 60-minute presentation including Q&A using existing or lightly altered content starting from &euro;10.000,- excluding VAT and travel depending on the nature of the event and the amount of travel involved. There is a 50% discount for virtual events.'
 
 press_kit:
   - image_path: /assets/images/header-presskit.webp
