@@ -2,7 +2,7 @@
 layout: splash
 permalink: /speaking/
 
-title: Lukas&nbsp;Vermeer, Keynote&nbsp;Speaker
+title: Keynote Speaker
 header:
   overlay_color: "#000"
   overlay_filter: "0.6"
