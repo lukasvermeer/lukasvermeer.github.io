@@ -18,15 +18,43 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+locale: "en-US"
 title: "Lukas Vermeer"
+title_separator: "|"
+subtitle: "Chief Experiment Officer"
+name: "Lukas Vermeer"
 email: lukas@lukasvermeer.nl
 description: >- # this means to ignore newlines until "baseurl:"
   I help people run experiments to make better products for customers. I explain
   science using historical narratives and teach statistics through storytelling.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.lukasvermeer.nl" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: lukasvermeer
+teaser: /assets/images/header-bg.webp
+og_image: /assets/images/header-bg.webp
+repository: lukasvermeer/lukasvermeer.github.io
+
+twitter:
+  username: "lukasvermeer"
 github_username:  lukasvermeer
+
+social:
+  type: "Person" # Person or Organization (defaults to Person)
+  name: "Lukas Vermeer" # If the user or organization name differs from the site's name
+  links:
+    - "https://twitter.com/lukasvermeer"
+    - "https://www.linkedin.com/in/lukasvermeer"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/lukasvermeer"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lukasvermeer"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/lukasvermeer"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -38,10 +66,12 @@ plugins:
 atom_feed:
   hide: true
 
+compress_html:
+  clippings: all
+
 minimal_mistakes_skin: dirt
-breadcrumbs: true
+breadcrumbs: false
 show_date: true
-name: "Lukas Vermeer"
 
 author:
   name     : "Lukas Vermeer"
