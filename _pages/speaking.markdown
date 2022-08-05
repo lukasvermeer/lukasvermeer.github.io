@@ -23,26 +23,25 @@ feature_row:
     image_caption: "Predictive Analytics World, Berlin (2017)"
     title: "Science"
     excerpt: "Doing science might seem straightforward, but the devil is in the details. I use historical narratives to illustrate the numerous practical pitfalls involved in applying the Scientific Method."
-  - image_path: /assets/images/header-statistics.webp
+  - image_path: /assets/images/action-booking-data-science-meetup-amsterdam-2017-s.webp
     image_caption: "Booking Data Science Meetup, Amsterdam (2017)"
     title: "Statistics"
     excerpt: "Statistics sounds scary, but it doesn't have to be. By explaining statistical concepts through compelling stories and concrete examples, I make statistics accessible for any audience."
 
 pricing:
-  - image_path: /assets/images/header-speaking.webp
+  - image_path: /assets/images/action-marketing-festival-ostrava-2016-1-s.webp
     image_caption: "Marketing Festival, Ostrava (2016)"
     title: "Pricing"
     excerpt: 'Speaking fee for an in-person 60-minute presentation including Q&A using existing or lightly altered content starting from &euro;10.000,- excluding VAT and travel depending on the nature of the event and the amount of travel involved. There is a 50% discount for virtual events.'
 
-press_kit:
-  - image_path: /assets/images/header-presskit.webp
-    alt: ""
-    image_caption: ""
-    title: "Speaker press kit"
-    excerpt: 'Curious to learn more about me? Your audience will be too! That is why I have prepared this speaker press kit with all the information you might need to advertise that I am speaking at your event.'
-    url: "speaking/press_kit/"
-    btn_label: "Get the press kit"
-    btn_class: "btn--primary"
+mediakit:
+  - image_path: /assets/images/header-2017-pawb7-s.webp
+    image_caption: "Predictive Analytics World, Berlin (2017)"
+    title: "Speaker media kit"
+    excerpt: 'Curious to learn more about me? Your audience will be too! That is why I have prepared this speaker media kit with all the information you might need to advertise that I am speaking at your event.'
+    url: "speaking/mediakit/"
+    btn_label: "Get the media kit &#8594;"
+    btn_class: "btn--inverse"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -172,8 +171,8 @@ Lukas is such an inspiring and charming person! He presented us a great keynote 
 — Bram Smeets, GOTO Conference
 {: .text-right}
 
-{% include feature_row id="pricing" type="right" %}
+{% include feature_row id="mediakit" type="left" %}
 
-<!-- {% include feature_row id="press_kit" type="left" %} -->
+{% include feature_row id="pricing" type="right" %}
 
 {% include feature_row id="feature_row_bookme" type="center" %}
