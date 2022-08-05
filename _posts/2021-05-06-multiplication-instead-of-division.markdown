@@ -5,6 +5,11 @@ tags: ["user research", "experimentation", "user experience", "product developme
 original:
   source_name: Medium
   source_url: https://medium.com/booking-product/multiplication-instead-of-division-7b57d9d7800b
+header:
+  overlay_image: assets/2021-05-06-multiplication-instead-of-division.jpg
+  overlay_filter: 0.8
+  teaser: assets/2021-05-06-multiplication-instead-of-division.jpg
+excerpt: 'we will examine in some detail why we consider research and experimentation to be the “peanut butter and jelly” of the customer insights world — two unique things that are even better together.'
 ---
 
 **Research and experimentation are the “peanut butter and jelly” of customer insights — here’s why**

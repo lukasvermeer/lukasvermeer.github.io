@@ -7,7 +7,7 @@ original:
   source_url: https://lukasvermeer.wordpress.com/2013/03/22/restaurant-reviews-and-the-availability-heuristic/
 ---
 
-You could say fine dining is a bit of a hobby of mine; and as I've [mentioned before](http://lukasvermeer.wordpress.com/2012/01/02/from-restaurant-advice-to-recommending-associates/), I've composed quite a few [restaurant reviews](https://plus.google.com/106518479241050228896/reviews) over the years. I enjoy writing about food almost as much as I love eating it.
+You could say fine dining is a bit of a hobby of mine; and as I've [mentioned before]({{site.baseurl}}{% post_url 2012-01-02-from-restaurant-advice-to-recommending-associates %}), I've composed quite a few [restaurant reviews](https://plus.google.com/106518479241050228896/reviews) over the years. I enjoy writing about food almost as much as I love eating it.
 
 Whilst fantasising about fancy food with a colleague the other day, we wondered whether there is any relation between the lengthiness of my reviews and the associated score. In some strange way it made intuitive sense to me that I would devote more words to describe why a particular restaurant did not live up to my expectations.
 
@@ -23,7 +23,7 @@ Conversely, the first positive review that popped into my brain was this rather 
 > Om nom nom.
 Judging by this tiny sample there might indeed be something to the hypothesis that review length and review score are negatively correlated. To confirm my hunch, I decided to load my reviews into [R](http://www.r-project.org/) for a proper statistical analysis.
 
-[sourcecode language="R"]
+{% highlight r %}
 > cor.test(nn_reviews$char_count, nn_reviews$score)
 
 Pearson's product-moment correlation
@@ -36,13 +36,13 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
    cor
 0.02041319
-[/sourcecode]
+{% endhighlight %}
 
 To my surprise, the analysis shows there is practically no relation between length and score. Contrary to what the two reviews above seem to suggest I do not require more letters to describe an unpleasant dining experience as opposed to a pleasant one.
 
 A simple plot of the two variables gives some insight into a possible cause for my misconception.
 
-[caption id="attachment_1616" align="aligncenter" width="650"]![Review scores vs review length]({{site.baseurl}}{% link assets/2013-03-22-restaurant-reviews-and-the-availability-heuristic-review_scores_vs_length.jpeg %}) Review scores vs review length[/caption]
+![Review scores vs review length]({{site.baseurl}}{% link assets/2013-03-22-restaurant-reviews-and-the-availability-heuristic-review_scores_vs_length.jpeg %})
 
 The outlier in the bottom right happens to represent my review for the Good View. All my other reviews are much shorter in length and seem to be quite evenly distributed over the different scores.
 

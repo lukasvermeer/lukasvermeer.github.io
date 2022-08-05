@@ -31,9 +31,10 @@ In addition to the facet based category events model configured earlier we will 
 
 Previously, we would record feedback events only for our facet based model. As we now have two models at different levels of granularity, we will alter our code slightly to ensure we record any event against both models.
 
-[sourcecode language="java"]
+{% highlight java %}
 // create a new choice to represent the product
 ProductsChoice p = Products.getChoice(request.getChoice());
+
 // create a new choice to represent the category attribute
 CategoriesChoice c = new CategoriesChoice(Categories.getPrototype());
 
@@ -43,7 +44,7 @@ c.setSDOId("Categories$" + p.getCategory());
 // record choice in models (catching an exception just in case)
 try { p.recordEvent(request.getEvent()); } catch (Exception e) { logError(e); }
 try { c.recordEvent(request.getEvent()); } catch (Exception e) { logError(e); }
-[/sourcecode]
+{% endhighlight %}
 
 Note that we are recording the same event twice, but against two separate choices p and c representing the two different levels of granularity. The Oracle Real-Time Decisions framework will automatically ensure the relevant models are updated accordingly.
 
@@ -51,9 +52,10 @@ Note that we are recording the same event twice, but against two separate choice
 
 In this implementation, a new function will be used to predict likelihoods for our products. Rather than just returning the likelihood at the category level like before, this function will first check whether the more granular model has received enough feedback (in this case 100 positive events) to be considered mature. If the product model is deemed sufficiently trained, the function will use this model instead of the more general facet base one.
 
-[sourcecode language="java"]
+{% highlight java %}
 // get instance of the model used for predicting Product Events
 ProductEvents productmodel = ProductEvents.getInstance();
+
 // get instance of the model used for predicting Category Events
 CategoryEvents categorymodel = CategoryEvents.getInstance();
 
@@ -68,7 +70,7 @@ else {
     // return the likelihood based on the Category Event model
     return categorymodel.getChoiceEventLikelihood("Categories$"+product.getCategory(), event);
 }
-[/sourcecode]
+{% endhighlight %}
 
 ![Waterfall Function]({{site.baseurl}}{% link assets/2012-04-16-waterfall-predictions-in-oracle-real-time-decisions-waterfallfunction.jpg %} "Waterfall Function")
 

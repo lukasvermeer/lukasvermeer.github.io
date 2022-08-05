@@ -27,7 +27,7 @@ All we need is a view<del> and a join</del>.
 
 <del>The join operations glues the original data and the prediction models together;</del> The view allows us to look at the harmonised results directly. When a customer record is selected from the view the source data for this record is passed to the model to generate the predicted values in real-time. When source data changes so does the prediction. When new source records are added they are automatically processed in the same way.
 
-[sourcecode language="sql"]
+{% highlight sql %}
 -- Create a new customer.
 INSERT INTO INSUR_CUST_LTV_SAMPLE (CUSTOMER_ID, LAST, FIRST) VALUES ('CU123', 'VERMEER', 'LUKAS');
 1 rows inserted.
@@ -51,7 +51,7 @@ CUSTOMER_ID INSUR_PRED INSUR_PROB
 ----------- ---------- ----------
 CU123       Yes        0.6261398
 Elapsed: 00:00:00.004
-[/sourcecode]
+{% endhighlight %}
 
 Seamless. Any system that can read data from an Oracle database can now utilise Oracle Data Mining models. No need to move your data. No need to build new applications.
 

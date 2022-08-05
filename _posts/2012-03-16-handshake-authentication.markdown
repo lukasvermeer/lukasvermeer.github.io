@@ -7,7 +7,7 @@ original:
   source_url: https://lukasvermeer.wordpress.com/2012/03/16/handshake-authentication/
 ---
 
-[![Bruce And Me]({{site.baseurl}}{% link assets/2012-03-16-handshake-authentication-bruce.jpg?w=300 %} "Bruce And Me")](https://twitter.com/#!/lukasvermeer/status/180338968192237568)
+[![Bruce And Me]({{site.baseurl}}{% link assets/2012-03-16-handshake-authentication-bruce.jpg %} "Bruce And Me")](https://twitter.com/#!/lukasvermeer/status/180338968192237568)
 
 London on a Thursday afternoon. The man sitting a few feet away from me reminds me of that infamous [security guru](http://www.economist.com/node/11090522) whose work I greatly admire; a man who I'd been reading about for years.
 

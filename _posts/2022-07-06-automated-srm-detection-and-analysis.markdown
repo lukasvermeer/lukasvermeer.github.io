@@ -5,6 +5,11 @@ tags: ["experimentation", "srm", "automation"]
 original:
   source_name: Vista DnA Blog
   source_url: https://vista.io/blog/automated-sample-ratio-mismatch-srm-detection-and-analysis
+header:
+  overlay_image: assets/2022-07-06-alert.png
+  overlay_filter: 0.8
+  teaser: assets/2022-07-06-alert.png
+excerpt: 'SRM checks are straightforward to automate and can be useful for data quality monitoring even for companies who rely on third-party experimentation platforms.'
 ---
 
 *Written by Lukas Vermeer, Kevin Anderson, and Mauricio Acebal.*
