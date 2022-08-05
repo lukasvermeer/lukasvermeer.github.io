@@ -95,6 +95,9 @@ defaults:
       author_profile: true
       layout: single
       permalink: /publications/:categories/:year/:month/:day/:title:output_ext
+      read_time: true
+      share: true
+      related: true
   - scope:
       path: ""
       type: "pages"
