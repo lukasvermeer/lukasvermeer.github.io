@@ -10,8 +10,10 @@ header:
   caption: "Growth Marketing Summit, Frankfurt (2019)"
   alt: "Lukas on stage presenting at Growth Marketing Summit in Frankfurt, 2019"
 excerpt: "Explaining experimentation for everyone to understand."
+
 intro: 
   - excerpt: "Statistics sounds scary, but it doesn't have to be. By explaining statistical concepts through compelling stories and concrete examples, I make statistics accessible for any audience. Through practical examples and live simulations, I help audiences understand how data can be used to gain valuable insights and support key business decisions."
+
 feature_row:
   - image_path: /assets/images/header-data.webp
     image_caption: "Marketing Festival, Ostrava (2016)"
@@ -62,7 +64,7 @@ press_kit:
 <div class="archive__item-body">
 <div class="archive__item-excerpt" markdown="1">
 
-[One neat trick to run better experiments](https://vimeo.com/376028124) at [Conversion Hottel](https://conversionhotel.com/session/keynote-2019-run-better-experiments-srm-checks/).
+[One neat trick to run better experiments](https://vimeo.com/376028124) at [Conversion Hotel](https://conversionhotel.com/session/keynote-2019-run-better-experiments-srm-checks/).
 
 </div>
 </div>
@@ -100,6 +102,20 @@ press_kit:
 </div>
 </div>
 
+### “Going way beyond the typical innovation buzzwords”
+
+*We hired Lukas to deliver a keynote to a Global audience of Coca-Cola leaders on Experimentation. His speech was inspiring, full of insights and meaning, going way beyond the typical innovation buzzwords. He was also super professional throughout our partnership. I would recommend Lukas to anyone without any hesitation.*
+
+— Giorgos Vareloglou, REBORRN
+{: .text-right}
+
+### “Will get heads spinning sustainably”
+
+Lukas is such an inspiring and charming person! He presented us a great keynote about Experimental Culture which surely will get heads spinning sustainably more than once (in a positive way of course). I can highly recommend Lukas and his work which is for me key part in being successful as a company now and in the future. 
+
+—Denis Majnaric, dmTECH GmbH
+{: .text-right}
+
 ### “Fantastic speaker”
 
 *Lukas spoke at an event I organised for a group of 200+ analysts at Google. He was a fantastic speaker; relaxed yet engaging. He hosted a particularly insightful live Q+A session. I've heard unanimously positive feedback from attendees, all of whom were impressed by Lukas's content, style and delivery.*
@@ -107,11 +123,25 @@ press_kit:
 — Colm O'Grada, Google
 {: .text-right}
 
+### “Thoroughly understands the subject matter”
+
+*I invited Lukas to be a keynote speaker at Mind the Product Engage in Hamburg 2018 and he met my high expectations: Lukas thoroughly understands the subject matter and has the personal experiences to make it tangible. At the same time he also is a strong storyteller. Despite his professional talking skills I found Lukas presentation style to be very original, authentic and I liked the fact that he took a clear stance and was not shy to provoke the audience to think outside their comfort zone.*
+
+—Arne Kittler, Mind the Product
+{: .text-right}
+
 ### “Super quotable”
 
 *His distinct ability to take complex mathematical concepts and break them down into easy-to-understand stories has made Lukas a leader not only in Booking.com but also in the tech world at large. He gets his points across with his own brand of dry humor and no-nonsense logic--wrapped up with some nonsense fun. He is pithy, super quotable, and never fails to ask the right question at the right time.*
 
 — Erin Weigel, Booking.com
+{: .text-right}
+
+### “Leading mind”
+
+*You won’t be disappointed hearing from the leading mind in the democratisation of online controlled experiments.*
+
+— Colin McFarland, Netflix
 {: .text-right}
 
 ### “Genuine and infectious enthusiasm”

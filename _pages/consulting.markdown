@@ -51,7 +51,7 @@ As an experienced experimentation practitioner, my specialty is designing and bu
 As an acknowledged leader in the field of online experimentation, I have co-authored multiple influential academic [papers](/publications/) on the topic of online experimentation. I have [spoken](/speaking/) at 30+ conferences, including Growth Marketing Summit, CXL Live, and Google Catalyst Conference, SIGIR and KDD. I have accepted two [Experimentation Culture Awards](https://experimentationcultureawards.com/); once on behalf of Booking.com and once on behalf of the [Vista Experimentation Hub](https://vista.io/blog/building-a-culture-of-experimentation). My impact was recognised in the Harvard Business Review story “[Building a Culture of Experimentation](https://hbr.org/2020/03/building-a-culture-of-experimentation)” (March - April 2020 issue).
 
 
-Currently I am employed as Director of Experimentation at Vista. I am also available as a freelance consultant and [speaker](/speaking/) to help businesses grow their experimentation culture.
+Currently I am employed as Director of Experimentation at Vista. I am also available as a freelance [speaker](/speaking/) and consultant to help businesses grow their experimentation culture.
 
 ## How I can help you
 
@@ -78,6 +78,13 @@ Past stories strengthen arguments and move decisions faster.*
 *Lukas helped my team prioritize and move our experimentation flywheel faster. Generating interest and reducing the cost of testing were our most impactful projects. A wise mind easy to work with.*
 
 — John Ostrowski, PositiveExperiments
+{: .text-right}
+
+### “Very crisp, clear, and fact-based”
+
+*We invited Lukas for a 7 x 1 hour [office hours] sessions engagement to learn from his experience about building democratized experimentation at Booking.com. Lukas's insights were very crisp, clear, and fact-based. He helped our team understand what we were lacking in helping build a powerful experimentation platform and how we can scale our platform to the next level.*
+
+— Abhishek Rathore, Indeed
 {: .text-right}
 
 {% include feature_row id="pricing" type="right" %}
