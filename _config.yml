@@ -111,7 +111,7 @@ defaults:
           title: "Let's talk"
           excerpt: 'Interested? Reach out over [LinkedIn](https://www.linkedin.com/in/lukasvermeer/) or [book some of my time](/booktime/) for a chat or an email.'
           url: "/booktime/"
-          btn_label: "Book my time"
+          btn_label: "Book my time &#8594;"
           btn_class: "btn--primary"
 
 include: ["_pages"]
