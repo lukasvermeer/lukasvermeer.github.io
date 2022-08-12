@@ -101,6 +101,13 @@ mediakit:
 </div>
 </div>
 
+### “9.12/10 rating”
+
+*With a 9.12/10 rating, Lukas Vermeer was very much appreciated during our Decathlon internal event. Inviting experts from outside the company helped us learn how to improve from another perspective. Just after Lukas' talk, we had an after-work session during which Lukas took the time to stay and exchange with the different teams to go deeper and be able to exchange. Thanks a lot Lukas!*
+
+— Charlotte Demeestere, Decathlon
+{: .text-right}
+
 ### “Going way beyond the typical innovation buzzwords”
 
 *We hired Lukas to deliver a keynote to a Global audience of Coca-Cola leaders on Experimentation. His speech was inspiring, full of insights and meaning, going way beyond the typical innovation buzzwords. He was also super professional throughout our partnership. I would recommend Lukas to anyone without any hesitation.*
