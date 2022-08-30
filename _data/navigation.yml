@@ -11,6 +11,3 @@ main:
   - title: "Publications"
     url: /publications/
     description: "This is a collection of things I have written in the past. I may add more things in the future. Writing the right words is difficult."
-  - title: "Projects"
-    url: "https://github.com/lukasvermeer"
-    description: "This is a collection of projects I have created in the past. I may add more things in the future. There is not enough time in a day!"
