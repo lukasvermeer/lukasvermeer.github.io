@@ -44,6 +44,9 @@ social:
     - "https://twitter.com/lukasvermeer"
     - "https://www.linkedin.com/in/lukasvermeer"
 
+analytics:
+  provider: "custom"
+
 footer:
   links:
     - label: "Twitter"
