@@ -7,7 +7,7 @@ original:
   source_url: https://lukasvermeer.wordpress.com/2010/05/07/i-am-a-business-ninja/
 ---
 
-At first, the term [Business Intelligence](http://en.wikipedia.org/wiki/Business_intelligence) (abbr. BI) had me a bit confused. Contrary to my initial interpretation, BI does not concern the mental acuity of corporations or their employees.
+At first, the term [Business Intelligence](http://en.wikipedia.org/wiki/Business_intelligence) (abbr. BI) had me a bit confused. Contrary to my initial interpretation, BI does not concern the mental acuity of corporations or their employees[^1].
 
 **Business**, as in '[From that moment on I had a much better idea as to how I should go about my business.](http://en.wikipedia.org/wiki/Herakles_(film))'
 
@@ -19,4 +19,4 @@ We are not trying to make business people smart. We are simply working to give b
 
 We are Corporate Ninjas.
 
-<span style="color:#bbb;">[Disclaimer: I have no intention of implying that BI specialists or business people lack mental skills, but simply trying to explain how I think the term BI should be interpreted; and consequently what my focus as a consultant should be.]</span>
+[^1]: Disclaimer: I have no intention of implying that BI specialists or business people lack mental skills, but simply trying to explain how I think the term BI should be interpreted; and consequently what my focus as a consultant should be.

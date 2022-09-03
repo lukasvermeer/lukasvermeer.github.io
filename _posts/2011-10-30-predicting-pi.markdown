@@ -7,7 +7,7 @@ original:
   source_url: https://lukasvermeer.wordpress.com/2011/10/30/predicting-pi/
 ---
 
-A few weeks ago, I showed a colleague* [my little visual demo](http://www.xs4all.nl/~destack/projects/pi/) of [my favorite algorithm for estimating the number Pi](http://lukasvermeer.wordpress.com/2010/05/06/estimating-pi/). His immediate response was so obvious I am almost ashamed it did not occur to me before he mentioned it.
+A few weeks ago, I showed a colleague[^1] [my little visual demo](http://www.xs4all.nl/~destack/projects/pi/) of [my favorite algorithm for estimating the number Pi](http://lukasvermeer.wordpress.com/2010/05/06/estimating-pi/). His immediate response was so obvious I am almost ashamed it did not occur to me before he mentioned it.
 
 **"RTD could do that!"**
 
@@ -59,4 +59,4 @@ RTD not only good for [986% ROI](http://www.oracle.com/us/corporate/analystrepor
 
 And this cake is [no lie](http://knowyourmeme.com/memes/the-cake-is-a-lie--5).
 
-<span style="color:#bbb;">[* I forget who exactly suggested this. Either Alan, Simon or Tim. ]</span>
+[^1]: I forget who exactly suggested this. Either Alan, Simon or Tim.

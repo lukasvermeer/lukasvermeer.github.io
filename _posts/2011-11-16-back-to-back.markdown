@@ -19,7 +19,7 @@ I guess I never really considered the "Where?" question to be important. I alway
 
 Conversely.
 
-When I click my Android hardware Back button after moving from one application to the next (for instance when opening a map, webpage or dialing a number from within an app) Android does _exactly_ what I would expect; it goes back to the previous screen. As long as I keep tapping that button, Android will take me back; even if I have been moving acros a multitude of applications. Right up until I return to the Home screen.*
+When I click my Android hardware Back button after moving from one application to the next (for instance when opening a map, webpage or dialing a number from within an app) Android does _exactly_ what I would expect; it goes back to the previous screen. As long as I keep tapping that button, Android will take me back; even if I have been moving acros a multitude of applications. Right up until I return to the Home screen[^1].
 
 [This](http://developer.android.com/guide/topics/fundamentals/tasks-and-back-stack.html) makes total sense to me.
 
@@ -27,4 +27,4 @@ When I click my Android hardware Back button after moving from one application t
 
 For me, this consistent Back functionality across applications is a big reason why Android's Back button is better than the iPhone's on-screen buttons. Even if they do have fancier labels.
 
-<span style="color:#bbb;">[* As a side note, I've always felt the Android applications integrate more often and more nicely producing a more natural flow between apps. Perhaps this point is not a salient to those used to the more clunky iOS flow where manual application switching is more common, at least for me. ]</span>
+[^1]: As a side note, I've always felt the Android applications integrate more often and more nicely producing a more natural flow between apps. Perhaps this point is not a salient to those used to the more clunky iOS flow where manual application switching is more common, at least for me.

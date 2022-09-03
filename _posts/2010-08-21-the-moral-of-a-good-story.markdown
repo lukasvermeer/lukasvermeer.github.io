@@ -21,6 +21,6 @@ If you are like the vast majority (~85%) of the participants, you feel the secon
 
 The perceived probability, it seems, depends on how well the answer fits in our internalized story of Linda, not logic or statistics. A good story is viewed as more likely than a poorly framed fact. This is important, if your job is helping people make decisions based on numbers and statistics.
 
-What do you think is more likely: that you understand the implications of this study _or_ that you understand the implications of this study because I've provided you with a vivid (and self-referential) example of its application?
+What do you think is more likely: that you understand the implications of this study _or_ that you understand the implications of this study because I've provided you with a vivid (and self-referential[^1]) example of its application?
 
-<span style="color:#bbb;">[do you see [what I did there](http://www.google.com/images?q=I+see+what+you+did+there)?]</span>
+[^1]: Do you see [what I did there](http://www.google.com/images?q=I+see+what+you+did+there)?

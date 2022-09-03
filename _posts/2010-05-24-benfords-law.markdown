@@ -26,5 +26,3 @@ I encourage you to [try it out yourself on your own data](http://www.lukasvermee
 * * *
 
 **Update (april 2nd 2011):** Code for this project is now available on [Github](https://github.com/lukasvermeer/benford).
-
-&nbsp;

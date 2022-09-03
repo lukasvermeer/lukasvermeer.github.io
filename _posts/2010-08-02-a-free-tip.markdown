@@ -21,8 +21,8 @@ Politics ...
 
 I'm glad to report that, in the end, everything worked out and everyone lived happily ever after. But for future reference, here's a free ([as in beer, not as in speech](http://en.wikipedia.org/wiki/Gratis_versus_Libre)) tip.
 
-**Backup. Your. Production. Database.**
+**Backup. Your. Production. Database.**[^1]
 
 You're welcome.
 
-<span style="color:#bbb;">[Also, do not [attempt to dry your poodle in a microwave oven](http://www.snopes.com/horrors/techno/microwavedpet.asp)]</span>
+[^1]: Also, do not [attempt to dry your poodle in a microwave oven](http://www.snopes.com/horrors/techno/microwavedpet.asp).

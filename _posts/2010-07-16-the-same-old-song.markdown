@@ -15,7 +15,7 @@ A few months ago my friend and neighbor [Olav](http://laudy.net/) was fiddling a
 
 The IMDb site offers [lots of different datasets for download](http://www.imdb.com/interfaces#plain), and we quickly found that one of them contains soundtrack listings (the aptly named file [soundtracks.list.gz](ftp://ftp.fu-berlin.de/pub/misc/movies/database/soundtracks.list.gz)). Now it was just a matter of filtering out the unnecessary contextual data and counting songs. Quickly Olav, who does datamining for a living, managed to get all this done using spiffy point-and-click tools. I proceeded to [ask twitter what people thought the answer would be](http://twitter.com/lukasvermeer/status/6962168925).
 
-The top five results turned out to be a collection of classics. The songs played in movies (according to the IMDb data) is as follows.
+The top five results turned out to be a collection of classics. The songs played in movies (according to the IMDb data) is as follows.[^1]
 
 1.  ["Jingle Bells"](http://en.wikipedia.org/wiki/Jingle_Bells) (220x)
 2.  ["William Tell Overture"](http://en.wikipedia.org/wiki/William_Tell_Overture) (204x)
@@ -26,4 +26,4 @@ Not at all what we were expecting, but quite obvious when you think about how ma
 
 **It's the same song, but it never gets old.**
 
-<span style="color:#bbb;">[Much later, a friend (can't remember exactly who) noted that the song that is played most often in theaters is probably not listed in the data set the IMDb provides. It's the [20th Century Fox intro](http://www.youtube.com/watch?v=LTgRm6Qgscc).]</span>
+[^1]: Much later, a friend (can't remember exactly who) noted that the song that is played most often in theaters is probably not listed in the data set the IMDb provides. It's the [20th Century Fox intro](http://www.youtube.com/watch?v=LTgRm6Qgscc).

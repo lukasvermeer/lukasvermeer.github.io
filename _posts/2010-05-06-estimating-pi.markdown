@@ -33,7 +33,7 @@ Based on all this, all we have to do is the following.
 2.  Determine how many of those points are in the circle using the Pythagorean theorem (say C of them are in the circle).
 3.  Calculate the ratio between C and N and multiply by 4.
 4.  Presto! You have now estimated Pi.
-Written down in Perl and compressed to fit into a [single tweet](http://twitter.com/lukasvermeer/status/9197883776) this [1] can be expressed as:
+Written down in Perl and compressed to fit into a [single tweet](http://twitter.com/lukasvermeer/status/9197883776) this [^1] can be expressed as:
 
 `perl -e 'for(;$i<999999;++$i){rand()**2+rand()**2>1?0:++$c}print 4*$c/$i." is (probably) pretty damn close to Pi!\n"'`
 
@@ -57,4 +57,4 @@ Which is obviously wrong, but still pretty close to the actual number. Also note
 
 Isn't computing science cool!?
 
-[1] As my friend Daan [pointed out before](http://twitter.com/daanbroekhuizen/status/9218973798) my original tweet was not quite optimal; hence the different code in this post.
+[^1]: As my friend Daan [pointed out before](http://twitter.com/daanbroekhuizen/status/9218973798) my original tweet was not quite optimal; hence the different code in this post.

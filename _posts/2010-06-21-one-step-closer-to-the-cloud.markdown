@@ -11,4 +11,6 @@ Because of the continuing [lack of internet connectivity](http://twitter.com/luk
 
 Nothing 's changed; it just loads faster.
 
-[Update after an inquiry from my colleague Willem: yes, the site now includes 20% [more fluff](http://www.sheldoncomics.com/archive/091115.html).]
+* * *
+
+**Update after an inquiry from my colleague Willem:** yes, the site now includes 20% [more fluff](http://www.sheldoncomics.com/archive/091115.html).

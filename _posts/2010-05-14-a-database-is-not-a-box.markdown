@@ -9,7 +9,7 @@ original:
 
 I've seen people using and building upon databases in lots of different ways; many of them surprisingly original. However, it seems to me that some people do not fully grasp the concept of a database. Using a database is clearly not the same as understanding how one works.
 
-I think we need to take a step back and consider the basic question "what is a database". You might think you know the answer. You might be one of those people who thinks the answer is not important as long as you know how to use it. I disagree, and I'm going to explain why. If you are one of those people, this article is for you.
+I think we need to take a step back and consider the basic question "what is a database". You might think you know the answer. You might be one of those people who thinks the answer is not important as long as you know how to use it. I disagree, and I'm going to explain why. If you are one of those people, this article is for you.[^1]
 
 **A database is not a box of data.**
 
@@ -31,4 +31,4 @@ Every query you send to the database goes through this process. There is no way 
 
 I hope that working together will be easier now you know she exists. Next time, I will discuss some of the decisions the optimizer can take.
 
-<span style="color:#bbb;">[This article is based on a presentation I prepared for [Ortec](http://www.ortec.com/), the company where I completed my Master thesis.]</span>
+[^1]: This article is based on a presentation I prepared for [Ortec](http://www.ortec.com/), the company where I completed my Master thesis.

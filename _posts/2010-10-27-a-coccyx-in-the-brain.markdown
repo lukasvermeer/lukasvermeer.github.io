@@ -13,7 +13,7 @@ You might not realize it, but your brain is running some pretty wonky [legacy co
 
 > Which is greater: the number of six-letter English words having n as their fifth letter or the number of six-letter English words ending in ing? Most people choose the group of words ending in ing. Why? Because words ending in ing are easier to think of than generic six-letter words having n as their fifth letter.
 
-If you have no difficulty coming up with six-letter English words that have an n as their fifth letter, then you've probably been playing too much [Words with Friends](http://itunes.apple.com/us/app/words-with-friends/id322852954?mt=8) (I am certainly [guilty as charged](http://twitter.com/#!/lukasvermeer/status/28054982637) on that count). Anyway, Mlodinow continues:
+If you have no difficulty coming up with six-letter English words that have an n as their fifth letter, then you've probably been playing too much [Words with Friends](http://itunes.apple.com/us/app/words-with-friends/id322852954?mt=8)[^1] (I am certainly [guilty as charged](http://twitter.com/#!/lukasvermeer/status/28054982637) on that count). Anyway, Mlodinow continues:
 
 > But you don't have to survey the Oxford English Dictionary-or even know how to count-to prove that guess wrong: the group of six-letter words having n as their fifth letter includes all six-letter words ending in ing.
 
@@ -39,4 +39,4 @@ Caveman fears ending with a bang more than the end of the road, because bangs ma
 
 I think it's about time for a patch. Caveman needs an upgrade. Until [then](http://en.wikipedia.org/wiki/Technological_singularity), please be wary of the [bugs](http://en.wikipedia.org/wiki/Software_bug) in your brain.
 
-<span style="color:#bbb;"><span style="color:#bbbbbb;">[Just so you know, the word '</span>[coccyx](http://en.wikipedia.org/wiki/Coccyx)<span style="color:#bbbbbb;">' is worth a whopping 4+1+4+4+3+8 = 24 points (excluding bonuses) in </span>[Words with Friends](http://itunes.apple.com/us/app/words-with-friends/id322852954?mt=8)<span style="color:#bbbbbb;">. However, as there are only two c's available in each game, you would need both c's and a joker (or two jokers and a c) in order to be able to play it for twenty points (sixteen with double jokers).]</span></span>
+[^1]: Just so you know, the word '[coccyx](http://en.wikipedia.org/wiki/Coccyx)' is worth a whopping 4+1+4+4+3+8 = 24 points (excluding bonuses) in [Words with Friends](http://itunes.apple.com/us/app/words-with-friends/id322852954?mt=8). However, as there are only two c's available in each game, you would need both c's and a joker (or two jokers and a c) in order to be able to play it for twenty points (sixteen with double jokers).
