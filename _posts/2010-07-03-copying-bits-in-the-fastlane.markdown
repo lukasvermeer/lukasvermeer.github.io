@@ -25,11 +25,13 @@ Rooting the G1 is not as complicated as you might expect from the [enormous amou
 > <span style="color:#888888;"><span style="color:#c0c0c0;">14. Click on the Removable Disk tab (Your SD Card) and select offset 00000000 to 00000170 then click on the Edit tab and click </span><span style="text-decoration:underline;"><span style="color:#c0c0c0;">Paste</span></span><span style="color:#c0c0c0;"> Write.</span></span>> 
 > 
 > <span style="color:#888888;"><span style="color:#c0c0c0;">15. Click on File then click </span><span style="text-decoration:underline;"><span style="color:#c0c0c0;">Save</span></span><span style="color:#c0c0c0;">.</span></span>
+
 Translation: download software of dubious origin, run software as Administrator, open disk, click a few things, copy/paste a few bits, save. Apparently all we want to do here is copy some bits from a file to (the beginning of) a disk. Copying a few bits can't be this hard, right?
 
 **I mean, this is a computer; it copies bits all the time!**
 
 Luckily I was not the only Android enthusiast stumped by these Windows-only (and frankly, rather convoluted, manual  and error-prone) steps. [Someone else had already solved the problem for me](http://mapleator.de/?p=19) (thanks, Sven). The steps in his guide (for Mac or Linux) seems a lot simpler to me (again, underlining mine and translation below).
+
 > <span style="color:#c0c0c0;">1 .Open your Mac's Terminal under Applications -> Utilities ->Terminal (Or your Linux-Terminal)</span>> 
 > 
 > <span style="color:#c0c0c0;">2. Enter </span>_<span style="color:#c0c0c0;">diskutil list </span>_<span style="color:#c0c0c0;">and confirm</span>> 
@@ -39,6 +41,7 @@ Luckily I was not the only Android enthusiast stumped by these Windows-only (and
 > <span style="color:#c0c0c0;">4. Now unmount the card the folowing way: If your identifier was disk2s1 enter </span>_<span style="color:#c0c0c0;">diskutil unmountDisk /dev/disk2</span>_<span style="color:#c0c0c0;"> and confirm. If not, you have to replace the 2 with your value (the value that is written right after the word disk).</span>> 
 > 
 > <span style="color:#c0c0c0;">5. Now create your goldcard with </span>_<span style="color:#888888;"><span style="text-decoration:underline;"><span style="color:#c0c0c0;">sudo dd bs=512 if=~/goldcard.img of=/dev/disk2</span></span></span>_<span style="color:#c0c0c0;">. If you need to, replace the 2 again. Confirm, wait, enter your users password (or under linux your roots password) and confirm again.</span>
+
 Translation: figure out which disk you need, copy bits to disk. The [dd command](http://en.wikipedia.org/wiki/Dd_(Unix)) used here is available in every flavor of *nix I've ever encountered. Let me break that crucial fifth step down for you.
 
 **[sudo](http://xkcd.com/149/)** I am the Administrator, do the following as I say! (normal users are not allowed copy bits this way, that would be a Very Bad Idea)

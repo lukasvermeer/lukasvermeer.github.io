@@ -11,8 +11,6 @@ I consider myself to be well organized. Both in my professional and personal lif
 
 **If I ever actually _forget_ to do something, it's probably because I forgot to write it down.**
 
-[caption id="" align="alignleft" width="240" caption="Adding an Idea to the List"][![Adding an Idea to the List]({{site.baseurl}}{% link assets/2010-10-15-the-curse-of-getting-things-done-3468438281_c2a524da69_m.jpg %} "Adding an Idea to the List")](http://www.flickr.com/photos/lukasvermeer/3468438281)[/caption]
-
 But being super-organized does not make one super-human (sadly), so the fact that I do not forget does not mean I can actually do everything I intend to. At the end of the day many of the things I want to get done are not; they get postponed, put off, perhaps indefinitely.
 
 I have a repeating weekly task that reminds me to write a post for this blog every Friday. As you might have noticed, that does not result in weekly posts. I didn't forget, but as much as I want to write, I had other things to do.

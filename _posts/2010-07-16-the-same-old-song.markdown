@@ -11,8 +11,6 @@ original:
 
 A few months ago my friend and neighbor [Olav](http://laudy.net/) was fiddling around with a dataset of movie plot descriptions he downloaded from the [Internet Movie Database](http://www.imdb.com/) (IMDb). If I recall correctly, he was taking a stab at the [Netflix Prize](http://www.netflixprize.com/). We discussed this for a while over coffee, but (as usual) our conversations were all over the place; and somewhere along the line we wondered what songs are used most often in movies.
 
-[caption id="" align="alignright" width="240" caption="Play!"][![Play]({{site.baseurl}}{% link assets/2010-07-16-the-same-old-song-48997287_678eb48f77_m.jpg %} "Play")](http://www.flickr.com/photos/lukasvermeer/48997287)[/caption]
-
 **What is that song they always play? The one that goes like '#****_dun dun dun dun dudun dun dun duuuuun#_'. You know?**
 
 The IMDb site offers [lots of different datasets for download](http://www.imdb.com/interfaces#plain), and we quickly found that one of them contains soundtrack listings (the aptly named file [soundtracks.list.gz](ftp://ftp.fu-berlin.de/pub/misc/movies/database/soundtracks.list.gz)). Now it was just a matter of filtering out the unnecessary contextual data and counting songs. Quickly Olav, who does datamining for a living, managed to get all this done using spiffy point-and-click tools. I proceeded to [ask twitter what people thought the answer would be](http://twitter.com/lukasvermeer/status/6962168925).

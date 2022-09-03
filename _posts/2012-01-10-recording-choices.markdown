@@ -15,10 +15,10 @@ There is always more than one way to skin a cat; it's just that some ways to exc
 
 A common approach to record events against static choices is to use the getChoice API.
 
-[sourcecode language="java"]
+{% highlight java %}
 Choice ch = MyChoiceGroup.getChoice("MyChoiceId");
 ch.recordEvent("Clicked");
-[/sourcecode]
+{% endhighlight %}
 
 On the first line, we are asking RTD to go through the list of all choices in MyChoiceGroup and retrieve one particular choice keyed MyChoiceId. On the second, we record a Clicked event against the returned choice.
 
@@ -34,11 +34,11 @@ For recording an event, it is sufficient that we have a choice that has the desi
 
 We can instantiate an empty dynamic choice using the getPrototype API.
 
-[sourcecode language="java"]
+{% highlight java %}
 Choice ch = new MyDynamicGroupChoice(MyDynamicGroup.getPrototype());
 ch.setSDOId("MyDynamicGroup" + "$" + "MyChoiceId");
 ch.recordEvent("Clicked");
-[/sourcecode]
+{% endhighlight %}
 
 This approach can provide significant performance improvements in implementations with a large number of dynamic choices; or in implementations where retrieving dynamic choices is a non-trivial complex operation and entity caching proves insufficient.
 

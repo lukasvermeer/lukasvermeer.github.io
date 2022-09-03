@@ -16,9 +16,13 @@ Actually, he looks _a lot_ like [Bruce Schneier](http://www.schneier.com/).
 But I hesitate; he seems so _normal_. No cohort of press, no masses of screaming fans and no burly bodyguards; if I can muster the courage I can simply walk up to him and ask.
 
 So I did.
+
 > I don't want to be rude, but is it you?
+
 In retrospect, that was probably one of the most moronic questions I have ever put forward to anyone ever. But Bruce seemed unfazed. I probably wasn't the first star-struck geek dazzled by his appearance.
+
 > Yes, I am him.
+
 Completely flabbergasted I mumbled something about that I read his blog. He asked if I had also read [his latest book](http://www.amazon.com/Liars-Outliers-Enabling-Society-Thrive/dp/1118143302). I was ashamed to admit that I had not. Someone took our picture and we shook hands.
 
 He had a pretty firm grip and a mighty powerful handshake; that's when I was certain that this was the man who [already has a backup plan for when a 2nd person discovers that P = NP](http://www.schneierfacts.com/fact/532).

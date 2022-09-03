@@ -27,7 +27,7 @@ Even worse, assuming they both want to win, the two players have completely diam
 
 One easy way to deal with the uncertainty of the opponent's decisions when looking ahead is to assume the other player will always make the move that leads to the worst possible result for the computer. The opponent is not trying to win, he is trying to stop the computer from winning. When plotting a path (succession of possible moves) we alternate between making the best (maximum) move when it's our turn and the worst (minimum) when the opponent is up to make a move.
 
-[caption id="attachment_659" align="alignright" width="309"][![A game of connect four]({{site.baseurl}}{% link assets/2011-09-24-connect-four-and-minimax-connectfour.jpg %} "Connect Four")](http://destack.home.xs4all.nl/projects/minimax/) Connect Four[/caption]
+![A game of connect four]({{site.baseurl}}{% link assets/2011-09-24-connect-four-and-minimax-connectfour.jpg %})
 
 This approach is called [minimax](http://en.wikipedia.org/wiki/Minimax). It is not particularly clever, but it does the trick and is relatively easy to implement.
 

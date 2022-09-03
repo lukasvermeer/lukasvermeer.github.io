@@ -25,11 +25,11 @@ RTD can only predict the likelihoods related to choices, so we'll need a couple 
 
 <span style="color:#bbb;">[ You can click on the screenshots below for a closer look. ]</span>
 
-[caption id="attachment_684" align="aligncenter" width="720" caption="The "In Circle" choice"][![Two choices modeled in RTD representing a dart landing inside or outside the circle.](http://lukasvermeer.files.wordpress.com/2011/10/choice.png "The "In Circle" choice")]({{site.baseurl}}{% link assets/2011-10-30-predicting-pi-choice.png %})[/caption]
+![Two choices modeled in RTD representing a dart landing inside or outside the circle.]({{site.baseurl}}{% link assets/2011-10-30-predicting-pi-choice.png %})
 
 As you can see, I've already included the likelihood as a choice attribute to be returned to the calling application. This attribute will be populated by a model aptly named _Pi_.
 
-[caption id="attachment_685" align="aligncenter" width="720" caption="The "Pi" model"][![RTD model configuration screen for the "Pi" model.](http://lukasvermeer.files.wordpress.com/2011/10/model.png "The "Pi" model")]({{site.baseurl}}{% link assets/2011-10-30-predicting-pi-model.png %})[/caption]
+![RTD model configuration screen for the "Pi" model.]({{site.baseurl}}{% link assets/2011-10-30-predicting-pi-model.png %})
 
 The _Pi_ model could hardly be simpler. It will predict the likelihood of mutually exclusive choices (hence the checkbox at the bottom of the configuration) from the choice group _Choices_.
 
@@ -37,11 +37,11 @@ Note that _Pi_ is configured as a simple so-called _Choice Model_, not the more 
 
 We'll use a client application similar to the one used in the earlier Pi experiments to simulate the throwing of darts. This application will also show the predicted value of Pi. For this client to tell RTD about darts thrown and RTD to respond with the predicted value we will use a single advisor. The RTD server will generate a web service based on this configuration.
 
-[caption id="attachment_691" align="aligncenter" width="720" caption="The "Get Prediction" advisor request"][![RTD advisor configuration screen with one boolean input parameter.](http://lukasvermeer.files.wordpress.com/2011/10/request.png "The "Get Prediction" advisor request")]({{site.baseurl}}{% link assets/2011-10-30-predicting-pi-request.png %})[/caption]
+![RTD advisor configuration screen with one boolean input parameter.]({{site.baseurl}}{% link assets/2011-10-30-predicting-pi-request.png %})
 
 Each request to this advisor will tell RTD about a single dart thrown. The _Dart Was In Circle_ boolean input parameter seems pretty self-explanatory. To process this input and feed the model we will need some simple logic.
 
-[caption id="attachment_692" align="aligncenter" width="720" caption="Advisor logic"][![Advisor logic to process the boolean input](http://lukasvermeer.files.wordpress.com/2011/10/logic.png "Advisor logic")]({{site.baseurl}}{% link assets/2011-10-30-predicting-pi-logic.png %})[/caption]
+![Advisor logic to process the boolean input]({{site.baseurl}}{% link assets/2011-10-30-predicting-pi-logic.png %})
 
 This is all that is needed to allow RTD to build a model that can predict the likelihoods for the darts landing inside or outside the circle.
 
@@ -53,7 +53,7 @@ It takes RTD a while (about a thousand darts or so) to come up with a prediction
 
 The prediction RTD makes seems to be less sensitive to fluctuations resulting from the randomized input. At times, RTD's guess was even closer to the actual number Pi than the value calculated mathematical function I'd used in previous experiments (and of course, I couldn't resist taking a screenshot when it was).
 
-[caption id="attachment_693" align="aligncenter" width="720" caption="Results"][![A screenshot of the RTD logs and the client application](http://lukasvermeer.files.wordpress.com/2011/10/estimatepi.png "Results")]({{site.baseurl}}{% link assets/2011-10-30-predicting-pi-estimatepi.png %})[/caption]
+![A screenshot of the RTD logs and the client application]({{site.baseurl}}{% link assets/2011-10-30-predicting-pi-estimatepi.png %})
 
 RTD not only good for [986% ROI](http://www.oracle.com/us/corporate/analystreports/infrastructure/forrester-tei-rtd-432543.pdf), but also for predicting Pi.
 

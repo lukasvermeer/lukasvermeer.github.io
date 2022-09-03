@@ -16,6 +16,7 @@ To give you some guidance I've compiled a summary of how I interpret each star r
 3.  [I like turtles](http://knowyourmeme.com/memes/i-like-turtles)! (meh)
 4.  [Orly](http://knowyourmeme.com/memes/o-rly)? [Om nom nom](http://knowyourmeme.com/memes/om-nom-nom-nom)!
 5.  [Double Rainbow](http://knowyourmeme.com/memes/double-rainbow) / [Over 9000](http://knowyourmeme.com/memes/its-over-9000)!!!1111one
+
 Please take the time to consider how you feel about my past and future posts and use the star ratings to let me know. Thanks!
 
 Also, feel free to come up with your own interpretation of the five star scale and share it in the comments.

@@ -23,8 +23,6 @@ I didn't agree.
 
 I thought, and still think, that 'intelligence' is something that is always defined and evaluated within a domain of possibilities. While it may be extremely difficult to create a piece of software that makes decisions perceived to be intelligent in a large domain, this can be almost trivial if the domain is sufficiently small.
 
-[caption id="attachment_442" align="alignright" width="195" caption="Three Snakes Converging on the Target"][![Detail of a screenshot of the Snake Project](http://lukasvermeer.files.wordpress.com/2010/12/snakes-detail.png "Snakes")]({{site.baseurl}}{% link assets/2010-12-17-snakes-on-a-two-dimensional-plane-snakes-detail.png %})[/caption]
-
 **Small, like the realm of a game of Snake.**
 
 In Snake, the world consists of a two-dimensional plane divided into a limited number of squares (or pixels). Some of these are occupied by the snake itself and only one is occupied by the target (or food pellet). At any given point in the game, a player has exactly four possible actions. Should he go op, down, left or right? When the snake steps on the target he grows in length and the target moves to a new location on the plane. When a snake steps off the plane (hits a wall) or on itself the game is over. Simple.

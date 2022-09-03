@@ -27,28 +27,30 @@ Note that we never intend to return any choices from the _Categories_ choice gro
 
 Similar to the [example for analytical models](http://blogs.oracle.com/rtd/en/entry/analytical_models), we will record events against a dynamically generated choice representing a facet value rather than against the actual choice. In this example, both the actual choice and the event to record will be passed through a request represented as Strings.
 
-[sourcecode language="java"]
+{% highlight java %}
 // create a new choice to represent the category facet
 CategoriesChoice c = new CategoriesChoice(Categories.getPrototype());
 // set properties of the choice (SDOId should be of the form "{ChoiceGroupId}${ChoiceLabel}")
 c.setSDOId("Category" + "$" + Products.getChoice(request.getChoice()).getCategory());
 // record event in model (catching an exception just in case)
 try { c.recordEvent(request.getEvent()); } catch (Exception e) { logError("Exception: " + e); }
-[/sourcecode]
+{% endhighlight %}
 
 **Model Setup**
+
 Our model setup is practically identical to before, but this time we'll enable "_Use for prediction_".
 
 ![Model Setup]({{site.baseurl}}{% link assets/2012-02-17-facet-based-predictions-in-oracle-real-time-decisions-categoriesmodel.jpg %} "CategoriesModel") 
 
 **Predicting Likelihoods**
 <div>A function _PredictLikelihood_ will be used to predict likelihoods for our products. The function takes a _Products_ choice and an _Event (String)_ as parameters and returns a _Double_ value representing the predicted likelihood.</div>
-[sourcecode language="java"]
+
+{% highlight java %}
 // get instance of the model used for predicting Category Events
 CategoryEvents m = CategoryEvents.getInstance();
 // return the likelihood based on the generated SDOId and the "Accepted" event
 return m.getChoiceEventLikelihood("Categories$"+product.getCategory(), event );
-[/sourcecode]
+{% endhighlight %}
 
 ![Prediction Function]({{site.baseurl}}{% link assets/2012-02-17-facet-based-predictions-in-oracle-real-time-decisions-categoryfunction.jpg %} "CategoryFunction")
 

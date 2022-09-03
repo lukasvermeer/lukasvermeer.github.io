@@ -9,8 +9,6 @@ original:
 
 I've seen people using and building upon databases in lots of different ways; many of them surprisingly original. However, it seems to me that some people do not fully grasp the concept of a database. Using a database is clearly not the same as understanding how one works.
 
-[caption id="attachment_77" align="alignleft" width="300" caption="Not a Database (image by Jared Tarbell)"][![Not a Database]({{site.baseurl}}{% link assets/2010-05-14-a-database-is-not-a-box-junk.jpg?w=300 %} "Not a Database (image by Jared Tarbell)")](http://www.flickr.com/photos/generated/3313311558/)[/caption]
-
 I think we need to take a step back and consider the basic question "what is a database". You might think you know the answer. You might be one of those people who thinks the answer is not important as long as you know how to use it. I disagree, and I'm going to explain why. If you are one of those people, this article is for you.
 
 **A database is not a box of data.**
@@ -18,8 +16,6 @@ I think we need to take a step back and consider the basic question "what is a d
 A database is not a file drawer you put stuff in for later retrieval. A database is not a spreadsheet. A database is not a collection of arrays. Of course you know this, but many programmers forget this when they start coding. They treat the data in the database as if they need to manage it; as if it were their responsibility. 
 
 Surprise! It's not.
-
-[caption id="" align="alignright" width="500" caption="A better metaphor (image from The U.S. National Archives)"][![A better metaphor]({{site.baseurl}}{% link assets/2010-05-14-a-database-is-not-a-box-3930932575_e9798b89f4_d.jpg %} "A better metaphor (image from The U.S. National Archives)")](http://www.flickr.com/photos/usnationalarchives/3930932575/)[/caption]
 
 A database is more like a library. Access to data (books) is the most important thing for a library; it is its reason for existence. And although the purpose of a library is to give you easy access to books, you are not expected to know exactly where each book is stored, nor are you expected to put them back on a shelve when you return them. You are not, in other words, the one who decides how the books are organized. That's the librarians job. 
 

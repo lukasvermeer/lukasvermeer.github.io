@@ -9,7 +9,7 @@ original:
 
 Analyzing website traffic can lead to unexpected insights. This incoming search term caught my eye.
 
-![]({{site.baseurl}}{% link assets/2012-01-18-waste-of-search-screen-shot-2012-01-18-at-2-22-29-pm.png %} "Waste Of Search")
+![Waste of search]({{site.baseurl}}{% link assets/2012-01-18-waste-of-search-screen-shot-2012-01-18-at-2-22-29-pm.png %})
 
 I'm not entirely sure why someone would even search for [something like this](https://www.google.com/search?q=), but I'm pretty confident this person did not find what he or she was looking for.
 

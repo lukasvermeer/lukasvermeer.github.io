@@ -15,6 +15,4 @@ Analysis without action is a crippling affliction that affects individuals as we
 
 Time to stop thinking and start typing.
 
-[youtube http://www.youtube.com/watch?v=16fBF3Bgd3M&w=560&h=315]
-
-&nbsp;
+{% include video id="16fBF3Bgd3M" provider="youtube" %}

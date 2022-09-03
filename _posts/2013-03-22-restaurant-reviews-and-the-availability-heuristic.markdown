@@ -12,6 +12,7 @@ You could say fine dining is a bit of a hobby of mine; and as I've [mentioned be
 Whilst fantasising about fancy food with a colleague the other day, we wondered whether there is any relation between the lengthiness of my reviews and the associated score. In some strange way it made intuitive sense to me that I would devote more words to describe why a particular restaurant did not live up to my expectations.
 
 Thinking about this, the first negative review that came to my mind was one I wrote for ["The Good View" in Chiang Mai, Thailand](https://plus.google.com/106395365263529906125/about).
+
 > If service were any slower than it already is, cobwebs would certainly overrun the place. When food and drinks eventually do arrive they're hardly worth the wait.> 
 > 
 > Fruit juice contained more sugar than a Banglamphu brothel and cocktails had less alcohol in them than a Buddhist monk. The mixed Northern specialties appetizer revealed itself to be three kinds of sausage and some raw chillies; very special indeed.> 
@@ -21,6 +22,7 @@ Thinking about this, the first negative review that came to my mind was one I wr
 > Also, the view is terribly overrated.
 Conversely, the first positive review that popped into my brain was this rather terse piece for ["Opium" in Utrecht, the Netherlands](https://plus.google.com/116496292311938777959/about).
 > Om nom nom.
+
 Judging by this tiny sample there might indeed be something to the hypothesis that review length and review score are negatively correlated. To confirm my hunch, I decided to load my reviews into [R](http://www.r-project.org/) for a proper statistical analysis.
 
 {% highlight r %}

@@ -36,7 +36,9 @@ But when the task at hand involves more difficult Sudoku puzzles, or when you ar
 **There's a tool for every job.**
 
 When we were discussing how Peter had generated the graphs he used in his article, I remarked (tongue-in-cheek) that copying and pasting execution times into a spreadsheet sounded a lot like brute-force manual labour to me. I think his response summarizes this whole exercise for me quite well.
+
 > Yes, but sometimes a little brute force is easier than figuring out how to do an elegant solution.
+
 It seems to me now that sometimes a little brute force is not only easier, but that it can be faster than a more elegant solution as well. Many thanks to Peter for posing questions and pushing me to dig a little deeper.
 
 **Sir, I stand corrected!**

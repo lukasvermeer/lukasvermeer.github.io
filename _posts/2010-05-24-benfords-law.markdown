@@ -17,7 +17,7 @@ I'd never really though about this before. Implicitly I had always assumed that 
 
 The answers [according to Benford's Law](http://en.wikipedia.org/wiki/Benford) are "probably about thirty percent" and "probably about twelve percent". And using my own bank transaction amounts and [some javascript gimmickry](http://www.lukasvermeer.nl/projects/benford/) we can see that he is closer to the actual numbers than I was.
 
-[caption id="attachment_120" align="aligncenter" width="372" caption="Tally of the first digits of bank transaction amounts"][![Benford]({{site.baseurl}}{% link assets/2010-05-24-benfords-law-benford.jpg %} "Benford")](http://www.lukasvermeer.nl/projects/benford/)[/caption]
+![Tally of the first digits of bank transaction amounts]({{site.baseurl}}{% link assets/2010-05-24-benfords-law-benford.jpg %} )
 
 Real-life data is obviously not random data, and when you think about it there are [perfectly logical explanations for this result](http://en.wikipedia.org/wiki/Benford). Still, for me, this is something I had to see in order to believe.
 

@@ -53,7 +53,7 @@ We will therefore be using a single _All Offers_ choice to represent all offers 
 
 In Oracle Real-Time Decisions, models can only learn based on attributes stored on the session. Therefore, just before generating a combined prediction for a given choice, we will temporarily copy the facet based scores-stored on the choice earlier as an _Analytical Scores_ entity-to the session. The code for the _Predict Combined Likelihood Event_ function is outlined below.
 
-[sourcecode language="java"]
+{% highlight java %}
 // set session attribute to contain facet based scores.
 // (this is the only input for the combined model)
 session().setAnalyticalScores(choice.getAnalyticalScores);
@@ -67,7 +67,7 @@ session().setAnalyticalScores(null);
 
 // return likelihood.
 return la;
-[/sourcecode]
+{% endhighlight %}
 
 This sleight of hand will allow the _Combined Likelihood Acceptance_ model to predict the likelihood of acceptance for the _All Offers_ choice using these choice specific scores. After the prediction is made, we will clear the _Analytical Scores_ session attribute to ensure it does not pollute any of the other (facet) models.
 
@@ -79,7 +79,7 @@ To guarantee our combined likelihood model will learn based on the facet based s
 
 In order for the combined likelihood model to learn correctly, we must ensure that the _Analytical Scores_ session attribute is set correctly at the moment RTD records any events related to a particular choice. We apply essentially the same switching technique as before in a _Record Combined Likelihood Event_ function.
 
-[sourcecode language="java"]
+{% highlight java %}
 // set session attribute to contain facet based scores
 // (this is the only input for the combined model).
 session().setAnalyticalScores(choice.getAnalyticalScores);
@@ -95,7 +95,7 @@ Application.getPredictor().learn(InternalLearn.modelArray,
 
 // clear session attribute of facet based scores.
 session().setAnalyticalScores(null);
-[/sourcecode]
+{% endhighlight %}
 
 In this example, _Internal Learn_ is a special informant configured as the learn location for the combined likelihood model. The informant itself has no particular configuration and does nothing in itself; it is used only to force the model to learn at the exact instant we have set the _Analytical Scores_ session attribute to the correct values.
 
@@ -129,10 +129,8 @@ As always, if you have any questions about the above-or any Oracle Real-Time Dec
 
 * * *
 
-**Update (19th September, 2012)**:_ Please note that the above is intended only as an example_. The implementation details shown here have been simplified so as to keep the application comprehensive enough for a single blog post. Most notably, an unhighlighted shortcut has been taken with regards to the way feedback events are recorded.
+**Update (19th September, 2012)**: _Please note that the above is intended only as an example_. The implementation details shown here have been simplified so as to keep the application comprehensive enough for a single blog post. Most notably, an unhighlighted shortcut has been taken with regards to the way feedback events are recorded.
 
 When implementing combined likelihood models in production systems, care must be taken to assure that the analytical scores used when recording feedback for a choice are _exactly identical_ to the scores used when this particular choice was recommended. In real world applications, this will require that all scores for recommended choices are stored separately on the session for later retrieval, rather than recalculating the scores when feedback occurs (which is what the example above will do).
 
 The method described here is far from trivial. We therefore would not recommend you apply these techniques in an initial implementation of Oracle Real-Time Decisions and that you enlist the help of experienced RTD resources to ensure the resulting implementation is correct.
-
-&nbsp;

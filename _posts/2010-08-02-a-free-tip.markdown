@@ -13,8 +13,6 @@ A representative of a large company (which shall remain unnamed) recently called
 
 Now, you're probably thinking that is pretty silly for a large company to not have backups of a production system. Well, wait until you hear what happened next.
 
-[caption id="" align="alignright" width="240" caption="Oops..."][![Trucking accident]({{site.baseurl}}{% link assets/2010-08-02-a-free-tip-4103063366_bde78ac79a_m.jpg %} "Oops...")](http://www.flickr.com/photos/lukasvermeer/4103063366/)[/caption]
-
 A few days later, a different representative from the same company demanded to know where exactly in the documentation we had explained that they were expected to create backups of their production system. How were they supposed to know that anything could possibly go wrong? It wasn't their fault that they had not anticipated this disaster, right?
 
 Politics ... 

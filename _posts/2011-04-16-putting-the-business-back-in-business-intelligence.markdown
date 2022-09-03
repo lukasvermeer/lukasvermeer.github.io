@@ -8,6 +8,7 @@ original:
 ---
 
 > The reason why a large percentage of business intelligence (BI) applications fail is not due to technology. To a large degree these applications fail because of organizational, cultural, and infrastructure dysfunctions.
+
 This observation from [an article by Larissa T. Moss](http://businessintelligence.com/article/120) seems to be common knowledge in the BI community. Too often have we built wonderful BI applications; only to discover that the business has changed its mind, want something else, or has no idea how to use the reports available. Our baby is [thrown out with the bathwater](http://en.wikipedia.org/wiki/Throw_out_the_baby_with_the_bath_water).
 
 We sigh, shrug, consider the money spent on the project wasted and move on. [Unused report are unused](http://knowyourmeme.com/memes/x-y-is-x-redundant-adjectives-are-redundant), so no real harm done there. Obviously there is also some business opportunity lost, but it is difficult to estimate the real cost of a failed BI project.

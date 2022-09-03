@@ -8,7 +8,9 @@ original:
 ---
 
 [Seth Godin](http://en.wikipedia.org/wiki/Seth_Godin) on the topic of perception, memory and marketing [concludes](http://sethgodin.typepad.com/seths_blog/2011/10/memories-of-bitterness.html).
+
 > Your accountant might care about the facts. You, the marketer, need to care about the conversations and the memories.
+
 I recognize the sentiment, but think that's only partially true.
 
 Individual consumer perception might be the result of conversations and memories, but marketing to consumers  as a group is also about numbers. Results should be [measurable](http://lukasvermeer.wordpress.com/2011/08/28/scientific-advertising-on-steroids/), lest a company risk investing a lot of money not just in stories, but in fairytales.

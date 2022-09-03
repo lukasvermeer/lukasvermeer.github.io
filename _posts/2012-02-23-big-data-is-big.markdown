@@ -7,7 +7,7 @@ original:
   source_url: https://lukasvermeer.wordpress.com/2012/02/23/big-data-is-big/
 ---
 
-[![]({{site.baseurl}}{% link assets/2012-02-23-big-data-is-big-img_1204.jpg?w=224 %} "Disks in the Big Data Appliance")](http://lukasvermeer.files.wordpress.com/2012/02/img_1204.jpg)[![]({{site.baseurl}}{% link assets/2012-02-23-big-data-is-big-img_1200.jpg?w=224 %} "Big Data Appliance")](http://lukasvermeer.files.wordpress.com/2012/02/img_1200.jpg)
+![Disks in the Big Data Appliance]({{site.baseurl}}{% link assets/2012-02-23-big-data-is-big-img_1200.jpg %})
 
 > We happen to have one sat in the next building over. Would you guys like to see it?> 
 > 

@@ -13,9 +13,7 @@ But conditioning can be a&nbsp;powerful&nbsp;tool for self-improvement.&nbsp;I'v
 
 In effect, I've brainwashed myself to work better in response to a particular tune.
 
-[youtube=http://www.youtube.com/watch?v=6UDA_bAlu00]
-
-&nbsp;
+{% include video id="pZ6V8pH4HPY" provider="youtube" %}
 
 There is nothing special about this trick. Anyone can do it and almost no real effort is required.
 

@@ -10,7 +10,9 @@ original:
 The Wall Street Journal has [an interesting article](http://online.wsj.com/article/SB10000872396390443890304578006252019616768.html) explaining how companies are starting to use (big) data to support their recruiting efforts. It provides a good example of the more general trend in businesses towards evidence-based decisioning and [data science](http://radar.oreilly.com/2010/06/what-is-data-science.html), but it also shows how some crucial aspects of these techniques are easily overlooked or oversimplified.
 
 My big-data-science-bogus-alarm started ringing upon reading the last sentence in this short paragraph.
+
 > Applicants for the job take a 30-minute test that screens them for personality traits and puts them through scenarios they might encounter on the job. Then the program spits out a score: red for low potential, yellow for medium potential or green for high potential. Xerox accepts some yellows if it thinks it can train them, but mostly hires greens.
+
 Sounds smart, right? Well, maybe.
 
 If Xerox never hires any "reds" and only very few "yellows", how will they know the program is actually working? How will they know that all that complicated math is doing something more than simply returning random colour values? An evidence-based approach should always include some form of [scientific control](http://en.wikipedia.org/wiki/Scientific_control). If it doesn't, it might as well be [snake oil](http://en.wikipedia.org/wiki/Snake_oil).

@@ -29,14 +29,14 @@ A choice group Reason is used to store codes passed through the informant. Durin
 
 When invoked, a RecordReason informant will record an event for the ReasonCode input parameter. The logic for this informant is pretty straightforward.
 
-[sourcecode language="java"]
+{% highlight java %}
 // create a new choice based on the request attribute (a string that describes the reason)
 ReasonChoice c = new ReasonChoice(Reason.getPrototype());
 // set properties of the choice (SDOId should be of the form "{ChoiceGroupId}${ChoiceLabel}")
 c.setSDOId("Reason" + "$" + request.getReasonCode());
 // record choice in model (catching an exception just in case)
 try { c.recordChoice(); } catch (Exception e) { logTrace("Exception: " + e); }
-[/sourcecode]
+{% endhighlight %}
 
 **Model Setup**
 

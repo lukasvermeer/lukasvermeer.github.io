@@ -10,13 +10,17 @@ original:
 It seems that [my little rant](http://lukasvermeer.wordpress.com/2011/07/10/come-on-learn/) against the apparent lack of scientific rigor and the use of data to analyse performance in the world of advertising is nothing new. [Scientific Advertising](http://en.wikipedia.org/wiki/Scientific_Advertising), written in 1923 by advertising icon [Claude C. Hopkins](http://en.wikipedia.org/wiki/Claude_C._Hopkins), lays out a convincing argument in favor of the use of an empirical and results-oriented approach in all marketing.
 
 The bottom line of this argument is the same as the true bottom line for every company. [It's all about the money](http://www.youtube.com/watch?v=PUYdi43qXHc).
+
 > Scientific advertising is impossible without [knowing your results]. So is safe advertising. So is maximum profit.> 
 > 
 > Groping in the dark in this field has probably cost enough money to pay the national debt. That is what has filled the advertising graveyards. That is what has discouraged thousands who could profit in this field. And the dawn of knowledge is what is bringing a new day in the advertising world.
+
 Hopkins pioneered the use of keyed coupons to track the success of different campaigns and ads. He believed that the only purpose of advertising was to sell more products and that the effects of such efforts should be measurable and those responsible be held accountable. New ideas and concepts should be tried in a small, controlled and safe setting so that their (monetary) results could be measured and analyzed.
 
 Only when a new approach proved to be successful in a number of trails could it be trusted to be applied at larger scale. Take this passage from his autobiography [My Life in Advertising](http://www.amazon.com/Life-Advertising-Scientific-Classics-Library/dp/0844231010).
+
 > How have I been able to win from this situation so many great successes? Simply because I made so many mistakes in a small way, and learned something from each. I made no mistake twice. Every once in a while I developed some great advertising principle. That endured.
+
 The technology of the time allowed Hopkins et al. to try new things and make mistakes only on a per town basis. Results had to be analyzed manually and each iteration required significant effort and some investment. Still, what knowledge could be gleaned from these relatively small scale ventures proved key to Hopkins' success in advertising.
 
 Judging by his own accounts it never occurred to Hopkins that different ads would have different results for different towns or different people. He was simply empirically searching for the perfect ad; one town at a time. Once found, this super ad would be unleashed upon the entire nation.

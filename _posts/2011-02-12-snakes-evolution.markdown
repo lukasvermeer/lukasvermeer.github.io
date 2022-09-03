@@ -8,7 +8,9 @@ original:
 ---
 
 After [one of my previous posts](http://lukasvermeer.wordpress.com/2010/12/17/snakes-on-a-two-dimensional-plane/) about the [snake project](http://www.xs4all.nl/~destack/projects/snake/) Casper [had some questions](http://www.facebook.com/lukas.vermeer/posts/1768491377794).
+
 > Are they retaining their knowledge beyond death? Sometimes it doesn't seem so. Also, you say they learn to keep themselves alive and how to get to the pellet, is the need to feed programmed (say, as an instinct) or are they learning that feeding = more length? :)
+
 These are good questions, and I understand the confusion. But it seems to me that Casper is looking at this the wrong way around. The snakes as a group can be said to learn to play the game, but individual snakes do not change their behavior during their lifetime. Individuals do not learn. Snakes die and new ones appear, but these are really new snakes; mutations and clones of the previous generation, not the same specimens.
 
 The questions are understandable, but in light of the technique used they do not make any sense. Allow me to try and explain.
@@ -25,7 +27,7 @@ Because length defines fitness the population will evolve towards snakes that ea
 
 Each snake has a digital set of genes each represented by a number between minus and plus one hundred.
 
-[sourcecode language="javascript"]
+{% highlight javascript %}
 basic_need	= genes[1]; // starting score for each direction.
 wall_need	= genes[2]; // added when the snake is adjacent to a wall.
 snake_need	= genes[3]; // added when the snake is adjacent to another snake.
@@ -34,7 +36,7 @@ bitex2_need	= genes[5]; // added when the pellet is down.
 bitey_need	= genes[6]; // added when the pellet is left.
 bitey2_need	= genes[7]; // added when the pellet is right.
 last_need	= genes[8]; // added when the snake moved this direction in previous step.
-[/sourcecode]
+{% endhighlight %}
 
 These values are combined with limited boolean knowledge of the current environment to assign a score to each direction (up, down, left and right). Each step, the snake will move in the direction with the highest score (above zero that is, the snakes will commit [sepuku](http://nl.wikipedia.org/wiki/Seppuku) if all scores are negative).
 
@@ -46,7 +48,8 @@ But eventually (by accident or chance or fate; or whatever you want to call it) 
 
 To ensure that the population is somewhat stable (mostly for esthetic reasons), the algorithm will introduce four new snakes as soon as four old ones have ended their game. To keep things simple I used a deterministic version of [tournament selection](http://en.wikipedia.org/wiki/Tournament_selection) and implemented only [mutation](http://en.wikipedia.org/wiki/Mutation_(genetic_algorithm)) without [crossover](http://en.wikipedia.org/wiki/Crossover_(genetic_algorithm)).
 
-[sourcecode language="javascript"]
+{% highlight javascript %}
+basic_need	= genes[1]; // starting score for each direction.
 function compare_and_breed(p) { // This code has been slightly altered for clarity.
 	score = new Array;
 	genes = new Array;
@@ -67,11 +70,11 @@ function compare_and_breed(p) { // This code has been slightly altered for clari
 	AddSnake(mutateGenes(p[bestman]));
 	AddSnake(mutateGenes(p[bestman]));
 }
-[/sourcecode]
+{% endhighlight %}
 
 Of the four old snakes, the one who is deemed the most fit (the longest) will be selected for procreation. The next generation will consist of one clone of the champion and three mutations. In the mutated snakes, each gene value has a 1 in 8 chance of being raised or lowered slightly and the same odds of being completely randomized.
 
-[sourcecode language="javascript"]
+{% highlight javascript %}
 function mutateGenes(p) { // This code has been slightly altered for clarity.
 	oldgenes = historyL[p]
 	newgenes = new Array();
@@ -89,7 +92,7 @@ function mutationInhibitor()			{ return (Math.round(Math.random()*8) == 1); }
 function unstableMutationInhibitor()	{ return (Math.round(Math.random()*8) == 1); }
 function mutateGene(x)					{ return x + ((Math.round(Math.random()*10)/2) - 5); }
 function randomGene()					{ return (Math.round(Math.random()*200)/2-50); }
-[/sourcecode]
+{% endhighlight %}
 
 And that is really all there is too it. The rest is just repetition of tweaking and testing; recombining and re-evaluating; mutation and measuring fitness.
 

@@ -13,6 +13,4 @@ After consulting [the Interwebs](https://twitter.com/#!/lukasvermeer/status/1364
 
 <span style="color:#bbb;">[ Video [<span style="color:#bbb;">is related</span>](http://knowyourmeme.com/memes/picture-unrelated). ]</span>
 
-[youtube=http://www.youtube.com/watch?v=eWM2joNb9NE]
-
-&nbsp;
+{% include video id="eWM2joNb9NE" provider="youtube" %}

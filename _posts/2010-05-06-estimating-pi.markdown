@@ -13,7 +13,7 @@ I want to share with you my favorite algorithm. It may not be pretty, efficient 
 
 Don't worry, this is not some complicated computer-gizmo-thing that only super-nerds can translate. I'll take you through it nice and slow. You will need to recall some basic arithmetic you learned in high-school.
 
-To _estimate _Pi, we rely on the following truths.
+To _estimate_ Pi, we rely on the following truths.
 
 1.  The surface area of a circle is equal to πr² (Pi times the radius of the circle squared, definition of Pi).
 2.  We can make a square in which the circle fits with sides that are of length 2r (easy, just try it).
