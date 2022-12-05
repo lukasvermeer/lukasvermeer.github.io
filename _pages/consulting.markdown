@@ -70,6 +70,17 @@ You can hire me to help you find answers to questions such as:
 
 {% include feature_row id="feature_row_listening" type="left" %}
 
+### “4.9 on a scale of 1 to 5”
+
+*I recently invited Lukas to deliver a talk on Experimentation at our internal event with senior Data Science leaders from portfolio companies of Prosus.*
+
+*It was a pleasure to engage with him from the first go. He took time to understand our context and audience, to assess what level of details would be needed and what value he could bring to the table. He even shared some pre-read material, and suggested for participants to take a survey on experimentation growth to understand where they stand. This exercise was very useful for our group.*
+
+*And finally, he delivered a great session with various learning points for even most senior leaders in the group. There were moments when people literally shouted that this is a great piece of information that they learned today. His talk touched at topics related to experimentation, both at an organisation/culture and technical level. On a survey, we did at the end of session, his talk was highly rated. It got a score of 4.9 on a scale of 1 to 5. Lukas is clearly an expert on experimentation and I would recommend him very strongly to anyone looking for an advice on that topic.*
+
+— Nishikant Dhanuka, Prosus Group
+{: .text-right}
+
 ### “A wise mind easy to work with”
 
 *Lukas has a unique perspective on the future of our industry. His vision for lean operation is effective to scale experimentation. The advisor mindset will influence frameworks. 
