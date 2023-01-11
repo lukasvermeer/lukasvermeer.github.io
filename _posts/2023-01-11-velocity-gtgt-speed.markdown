@@ -1,5 +1,5 @@
 ---
-title: "Velocity >> Speed"
+title: "Speed is not velocity"
 date: 2023-01-11
 tags: ["Experimentation", "Velocity", "Agile", "Scrum"]
 original:
