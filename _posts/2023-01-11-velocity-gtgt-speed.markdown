@@ -6,6 +6,7 @@ original:
   source_name: LinkedIn
   source_url: https://www.linkedin.com/posts/lukasvermeer_experimentation-velocity-agile-activity-7018895295996403714-4TFS
 header:
+  image: assets/2023-01-11-velocity-gtgt-speed.webp
   overlay_image: assets/2023-01-11-velocity-gtgt-speed.webp
   overlay_filter: 0.6
   show_overlay_excerpt: false
