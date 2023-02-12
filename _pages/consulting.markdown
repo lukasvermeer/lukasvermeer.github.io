@@ -21,7 +21,7 @@ feature_row:
     image_caption: "Predictive Analytics World, Berlin (2017)"
     title: "Office Hours"
     alt: "Lukas on stage answering questions from the audience at Predictive Analytics World in Berlin, 2017."
-    excerpt: "Aks me anything, and I will do my best to provide actionable answers and meaningful insights. Recurring office hours are a cost effective method for boosting knowlege and efficiency of internal experimentation teams in your company."
+    excerpt: "Ask me anything, and I will do my best to provide actionable answers and meaningful insights. Recurring office hours are a cost effective method for boosting knowlege and efficiency of internal experimentation teams in your company."
   - image_path: /assets/images/header-2017-dgul2.webp
     image_caption: "Digital Growth Unleashed, London (2017)"
     title: "Content Reviews"
