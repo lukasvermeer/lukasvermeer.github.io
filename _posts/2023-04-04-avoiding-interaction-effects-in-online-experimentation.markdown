@@ -50,7 +50,7 @@ It is worth noting that this approach solves both functional conflicts and inter
 
 **When We Recommend This Approach:** When teams cannot agree on optimal sequencing, and it is unlikely that experiments from different lanes will eventually be rolled out to all users.
 
-## The Factorial Strategy: Combining Treatments Into a Single Experiment
+## The Combined Strategy: Combining Treatments Into a Single Experiment
 
 Rather than isolating experiments in separate lanes, we could also isolate changes in separate variations. Instead of setting up two experiments (control vs. treatment_1 and control vs. treatment_2), we could set up one A/B/C experiment (control vs. treatment_1 vs. treatment_2 and optionally treatment_3, which combines elements from treatment_1 and treatment_2).
 
@@ -58,7 +58,7 @@ One constraint of this approach is that it only works if the experiments involve
 
 As with the isolated lanes approach, this method reduces the sample size available for each variation. However, because the control is shared, this effect is less pronounced. In total throughput time, this approach is more efficient than sequential and isolated lanes approaches.
 
-Although it does require tight coordination between teams to carry out effectively, the factorial strategy is usually fairly straightforward to implement. In addition, functional interactions are made impossible when a variation is rolled out to production because no variations have both changes enabled at once (unless treatment_3 is included).
+Although it does require tight coordination between teams to carry out effectively, the combined strategy is usually fairly straightforward to implement. In addition, functional interactions are made impossible when a variation is rolled out to production because no variations have both changes enabled at once (unless treatment_3 is included).
 
 **When We Recommend This Approach:** When teams cannot agree on optimal sequencing but can agree to coordinate their experiments with a large overlap in traffic.
 
@@ -123,6 +123,6 @@ Clearly, documenting experiments is probably one of the most effective methods f
 
 # Avoid Some, Detect Others
 
-When a potential functional conflict is identified, the experiments involved might be owned by different teams within the organization. Thus, there may be conflicting priorities between the two or more teams when deciding whether or not to employ one of the avoidance strategies. If so, which one: sequential, isolation, or factorial?
+When a potential functional conflict is identified, the experiments involved might be owned by different teams within the organization. Thus, there may be conflicting priorities between the two or more teams when deciding whether or not to employ one of the avoidance strategies. If so, which one: sequential, isolation, or combined?
 
 If the relevant teams cannot agree that there is a potential conflict to be avoided or which avoidance strategy to use, detection remains a valid option. In the upcoming third and final post in the series, we will discuss how we can detect interactions and share code and tools we have built at Vista to address this issue.
