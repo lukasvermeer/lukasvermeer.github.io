@@ -58,6 +58,21 @@ mediakit:
 <div class="feature__item">
 <div class="archive__item">
 <div class="archive__item-teaser">
+<p><a href="https://www.niosummit.com/videos-2023/?wchannelid=ydlt845b3o&amp;wmediaid=6v2u9dph7s&amp;wvideo=6v2u9dph7s"><img src="https://embed-ssl.wistia.com/deliveries/a824e5f10adc439d62fb4441630fb4f31bc225d7.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=f5c635e0" style="width: 400px; height: 225px;" width="400" height="225"></a></p>
+</div>
+<div class="archive__item-body">
+<div class="archive__item-excerpt" markdown="1">
+
+[Building A Culture Of Experimentation](https://www.niosummit.com/videos-2023/?wchannelid=ydlt845b3o&amp;wmediaid=6v2u9dph7s&amp;wvideo=6v2u9dph7s) at [NIO Summit 2023](https://www.niosummit.com/videos-2023/).
+
+</div>
+</div>
+</div>
+</div>
+
+<div class="feature__item">
+<div class="archive__item">
+<div class="archive__item-teaser">
 {% include video id="376028124" provider="vimeo" %}
 </div>
 <div class="archive__item-body">

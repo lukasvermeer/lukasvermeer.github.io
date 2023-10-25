@@ -117,6 +117,16 @@ This biography was written such that it can be easily adapted to the length appr
 
 # Videos of previous talks
 
+## Building A Culture Of Experimentation
+
+<p><a href="https://www.niosummit.com/videos-2023/?wchannelid=ydlt845b3o&amp;wmediaid=6v2u9dph7s&amp;wvideo=6v2u9dph7s"><img src="https://embed-ssl.wistia.com/deliveries/a824e5f10adc439d62fb4441630fb4f31bc225d7.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=f5c635e0" style="width: 636px; height: 358px;" width="400" height="225"></a></p>
+
+[Building A Culture Of Experimentation](https://www.niosummit.com/videos-2023/?wchannelid=ydlt845b3o&amp;wmediaid=6v2u9dph7s&amp;wvideo=6v2u9dph7s) at [NIO Summit](https://www.niosummit.com/videos-2023/) (2023).
+
+> In this talk, you will learn why you should care about business experimentation, and what you can do to foster experimentation inside your organisation. Using practical examples and anecdotes from industry experience, as well as original academic work, we will dive into what makes a culture of experimentation work. We will also highlight some key levers that will help you start fostering your own experimentation culture.
+
+*Audience rating 4.82 out of 5.*
+
 ## Moving fast, breaking things, and fixing them as quickly as possible
 
 {% include video id="648968790" provider="vimeo" %}
@@ -161,6 +171,7 @@ This biography was written such that it can be easily adapted to the length appr
 
 This is a selection of past public engagements. Internal company events for clients are not included.
 
+- NIO Summit, Dallas (September 20th, 2023)
 - Conversion Hotel, Texel (November 20th, 2021)
 - UXRConf Anywhere 2021, Online Event (February 24th, 2021)
 - Nonprofit Innovation & Optimization Summit, Online Event (October 1st, 2020)
