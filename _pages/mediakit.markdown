@@ -167,6 +167,61 @@ This biography was written such that it can be easily adapted to the length appr
 
 *No audience ratings available from this conference.*
 
+# Talk synopses
+
+## Building A Culture Of Experimentation.
+
+Most suitable for companies that are just getting started on their experimentation journey, and which want to increase broad awareness and understanding of the power of experimentation.
+
+### Key takeaways
+- Why companies should care about experimentation. Illustrated using practical examples from industry experience.
+- What is a culture of experimentation. Supported by engaging anecdotes from my own experience as well as academic work
+- How companies can start fostering their own experimentation culture. Using a practical flywheel model described in an academic paper published at the international SEAA conference.
+
+## One Neat Trick To Run Better Experiments.
+
+Most suitable for companies that have started running experiments in one or two teams, and which are looking to increase the reliability of their results.
+
+### Key takeaways
+- Understanding sample ratio mismatch (SRM). Learn what SRM is, why it matters in experimentation, and how it can impact the reliability and validity of A/B testing results.
+- Detecting and addressing SRM. Gain insights into methods for detecting SRM and the tools available to manage and correct for it in the experimental design process.
+- Practical implications of SRM. Explore real-world scenarios where SRM has affected experimental outcomes and discuss strategies to mitigate such issues to improve the accuracy of experimental conclusions.
+
+### Summary
+There are many pitfalls to avoid when running online experiments. In this presentation, Lukas will teach you one neat  trick to run better experiments: the sample ratio mismatch check. Using this technique, you will make fewer mistakes, and make better decisions, while running experiments.
+
+## How To Run Many Tests At Once: Interaction Avoidance & Detection.
+
+Most suitable for companies that have started experimentation in multiple teams already, and which are running into scaling a concurrency problems.
+
+### Key takeaways
+- The importance of orthogonality. How to design experiments so they can run simultaneously without affecting each other’s outcomes.
+- Utilising interaction avoidance tools and techniques. How to use advanced tools and simulations to identify and manage interactions between concurrent tests.
+- Applying practical detection models. Applying regression analysis for addressing and visualising interactions between experiments.
+
+### Summary
+Experiments allow us to test how changes to our products affect the behavior of our users. We make many such changes in many experiments running at the same time. As we scale up our experimentation volume at Vista, there will be an increased risk of interactions between experiments occurring.
+
+We say an interaction has occurred when the effects of two—or more—experiments on a metric combined is different from a linear combination of each of those experiments in isolation. For example, two individual changes help customers find what they need more easily, while the two combined have the opposite effect.
+
+In some cases, this interaction might result from a functional conflict between two changes; they are functionally incompatible, causing a difference in effect. In other cases, the changes might be functionally compatible but still interact to change our measurement or user behavior more subtly.
+
+Experience from other organizations suggests that these kinds of interactions tend to be rare in practice. However, since the consequences for the user experience and our learning can be dire, we should still consider their possibility and ensure we take precautions to avoid or detect them.
+
+In this talk, we will define two kinds of interaction effects and their potential consequences, discuss possible strategies for avoiding these interactions, and explain how we can detect them. We will also share some of the tools and processes we have built at Vista to address this issue.
+
+## A/B Testing 101: Statistical Foundations For Causal Inference.
+
+Most suitable for teams or individuals who have started running experiments, do not have a mathematical background, but are looking for an entertaining introduction into the statistical foundations.
+
+### Key takeaways
+- Causal inference foundations. Understand the statistical foundations for determining causal relationships in experiments, emphasizing the distinction between correlation and causation.
+- Importance of randomization. Learn how randomization supports causal inference by minimizing bias and providing a fair comparison between treatment effects.
+- Dealing with experimental errors. Explore how to handle potential errors in experimental results, including Type-I and Type-II errors, and the concept of statistical significance in hypothesis testing.
+
+### Summary
+This presentation on A/B testing statistics elucidates the importance of using proper statistical methods to ascertain causality, not just correlations, in experimental data. It emphasizes the critical role of randomization in achieving reliable results by minimizing selection bias and ensuring that the treatment and control groups are comparable. Additionally, the talk covers common errors in experimentation such as Type I (false positives) and Type II (false negatives) errors, and discusses the significance of statistical power and significance levels in determining the robustness of experimental findings. For a deeper understanding, you can view the full presentation [here](http://lukasvermeer.nl/ab-stats/presentation.html).
+
 # List of past engagements.
 
 This is a selection of past public engagements. Internal company events for clients are not included.
