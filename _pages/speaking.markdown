@@ -52,7 +52,7 @@ mediakit:
 
 {% include feature_row id="feature_row_listening" type="left" %}
 
-## Example talks
+## Videos
 
 <div class="feature__wrapper">
 <div class="feature__item">
@@ -115,6 +115,8 @@ mediakit:
 </div>
 </div>
 </div>
+
+## Reviews
 
 ### “9.12/10 rating”
 
