@@ -73,7 +73,7 @@ atom_feed:
 compress_html:
   clippings: all
 
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: contrast
 breadcrumbs: false
 show_date: true
 

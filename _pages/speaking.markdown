@@ -41,7 +41,7 @@ mediakit:
     excerpt: 'Curious to learn more about me? Your audience will be too! That is why I have prepared this speaker media kit with all the information you might need to advertise that I am speaking at your event.'
     url: "speaking/mediakit/"
     btn_label: "Get the media kit &#8594;"
-    btn_class: "btn--inverse"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
