@@ -1,0 +1,16 @@
+---
+title: "From A to B podcast"
+date: 2025-04-09
+tags: ["Experimentation", "Podcast", "Interview"]
+categories: ["Podcast"]
+header:
+  image: assets/2025-04-09-from-a-to-b-podcast.webp
+  overlay_image: assets/2025-04-09-from-a-to-b-podcast.webp
+  overlay_filter: 0.6
+  show_overlay_excerpt: false
+  teaser: assets/2025-04-09-from-a-to-b-podcast.webp
+---
+
+I was interviewed for the [From A to B](https://creators.spotify.com/pod/profile/from-a-to-b/episodes/Leadership-impact-in-growing-CRO-ft--Lukas-Vermeer-e3155fd) podcast. We talked about tacos, as well as some other less important things.
+
+[![A teaser image for the From A to B podcast episode.]({{ site.url }}{{ site.baseurl }}/assets/2025-04-09-from-a-to-b-podcast.webp)](https://creators.spotify.com/pod/profile/from-a-to-b/episodes/Leadership-impact-in-growing-CRO-ft--Lukas-Vermeer-e3155fd)
