@@ -2,6 +2,7 @@
 title: "Three key checklists and remedies for trustworthy analysis of online controlled experiments at scale"
 date: 2019-08-19
 categories: papers
+tag: ["Paper"]
 author: Lukas Vermeer
 link: "https://ieeexplore.ieee.org/abstract/document/8804459"
 ---
