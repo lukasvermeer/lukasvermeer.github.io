@@ -8,9 +8,6 @@ author: Lukas Vermeer
 link: "https://arxiv.org/abs/1710.08217"
 ---
 
-Read the full paper: [Democratizing online controlled experiments at Booking.com](https://arxiv.org/abs/1710.08217)
-
-
 **Abstract:**
 There is an extensive literature about online controlled experiments, both on the statistical methods available to analyze experiment results as well as on the infrastructure built by several large scale Internet companies but also on the organizational challenges of embracing online experiments to inform product development. At Booking.com we have been conducting evidenced based product development using online experiments for more than ten years. Our methods and infrastructure were designed from their inception to reflect Booking.com culture, that is, with democratization and decentralization of experimentation and decision making in mind.
 
