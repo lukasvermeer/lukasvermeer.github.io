@@ -1,0 +1,11 @@
+---
+title: "A/B testing intuition busters: Common misunderstandings in online controlled experiments"
+date: 2022-08-14
+categories: papers
+author: Lukas Vermeer
+link: "https://dl.acm.org/doi/abs/10.1145/3534678.3539160"
+
+Read the full paper: [A/B testing intuition busters: Common misunderstandings in online controlled experiments](https://dl.acm.org/doi/abs/10.1145/3534678.3539160)
+
+**Abstract:**
+A/B tests, or online controlled experiments, are heavily used in industry to evaluate implementations of ideas. While the statistics behind controlled experiments are well documented and some basic pitfalls known, we have observed some seemingly intuitive concepts being touted, including by A/B tool vendors and agencies, which are misleading, often badly so. Our goal is to describe these misunderstandings, the "intuition" behind them, and to explain and bust that intuition with solid statistical reasoning. We provide recommendations that experimentation platform designers can implement to make it harder for experimenters to make these intuitive mistakes.
