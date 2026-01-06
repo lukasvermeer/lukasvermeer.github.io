@@ -23,6 +23,10 @@ gallery_headshots:
     image_path: /assets/images/headshot-lukas-2022-s.webp
     alt: "A headshot of Lukas Vermeer (2022)."
     title: "Lukas (2022)"
+  - url: /assets/images/originals/headshot-lukas-2024.jpg
+    image_path: /assets/images/headshot-lukas-2024-s.webp
+    alt: "A headshot of Lukas Vermeer (2024)."
+    title: "Lukas (2022)"
 
 gallery_action:
   - url: /assets/images/originals/action-marketing-festival-ostrava-2016-1.jpg
