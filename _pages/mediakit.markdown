@@ -97,6 +97,46 @@ gallery_action:
     image_path: /assets/images/action-growth-marketing-summit-frankfurt-2019-s.webp
     alt: "Lukas on stage presenting at Growth Marketing Summit in Frankfurt, 2019."
     title: "Growth Marketing Summit, Frankfurt (2019)"
+  - url: assets/images/originals/action-conversion-hotel-2019.jpg
+    image_path: assets/images/action-conversion-hotel-2019-s.webp
+    alt: "Lukas on stage presenting at Conversion Hotel in the Netherlands, 2019."
+    title: "Conversion Hotel, Texel (2019)"
+  - url: assets/images/originals/action-exp-elite-2023-1.jpg
+    image_path: assets/images/action-exp-elite-2023-1-s.webp
+    alt: "Lukas on stage presenting at Exp Elite in Birmingham, 2023."
+    title: "Exp Elite, Birmingham (2023)"
+  - url: assets/images/originals/action-exp-elite-2023-2.jpg
+    image_path: assets/images/action-exp-elite-2023-2-s.webp
+    alt: "Lukas on stage presenting at Exp Elite in Birmingham, 2023."
+    title: "Exp Elite, Birmingham (2023)"
+  - url: assets/images/originals/action-nio-summit-2023-1.jpg
+    image_path: assets/images/action-nio-summit-2023-1-s.webp
+    alt: "Lukas on stage presenting at NIO Summit in Dallas, 2023."
+    title: "NIO Summit, Dallas (2023)"
+  - url: assets/images/originals/action-nio-summit-2023-2.jpg
+    image_path: assets/images/action-nio-summit-2023-2-s.webp
+    alt: "Lukas on stage presenting at NIO Summit in Dallas, 2023."
+    title: "NIO Summit, Dallas (2023)"
+  - url: assets/images/originals/action-experimentation-heroes-2023-1.jpg
+    image_path: assets/images/action-experimentation-heroes-2023-1-s.webp
+    alt: "Lukas on stage presenting at Experimentation Heroes in Amsterdam, 2023."
+    title: "Experimentation Heroes, Amsterdam (2023)"
+  - url: assets/images/originals/action-cxl-2024-1.jpg
+    image_path: assets/images/action-cxl-2024-1-s.webp
+    alt: "Lukas on stage presenting at CXL in Austin, 2024."
+    title: "CXL, Austin (2024)"
+  - url: assets/images/originals/action-cxl-2024-2.jpg
+    image_path: assets/images/action-cxl-2024-2-s.webp
+    alt: "Lukas on stage presenting at CXL in Austin, 2024."
+    title: "CXL, Austin (2024)"
+  - url: assets/images/originals/action-cxl-2024-3.jpg
+    image_path: assets/images/action-cxl-2024-3-s.webp
+    alt: "Lukas on stage presenting at CXL in Austin, 2024."
+    title: "CXL, Austin (2024)"
+  - url: assets/images/originals/action-cxl-2024-4.jpg
+    image_path: assets/images/action-cxl-2024-4-s.webp
+    alt: "Lukas on stage presenting at CXL in Austin, 2024."
+    title: "CXL, Austin (2024)"
 ---
 
 {% include feature_row id="intro" type="center" %}
