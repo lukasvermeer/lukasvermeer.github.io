@@ -1,0 +1,33 @@
+name: Link Checker
+
+on:
+  push:
+    branches: [ master, main ]
+  pull_request:
+    branches: [ master, main ]
+  schedule:
+    - cron: '0 0 * * 1' # Run every Monday at midnight
+
+jobs:
+  link-checker:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '2.7'
+        bundler-cache: true
+
+    - name: Build site
+      run: bundle exec jekyll build
+
+    - name: Check links
+      run: |
+        bundle exec htmlproofer ./_site \
+          --allow-hash-href \
+          --check-html \
+          --disable-external \
+          --url-ignore "/{{site.baseurl}}{% post_url .*%}/,/https://www.linkedin.com/in/lukasvermeer/" \
+          --alt-ignore "/.*/"
