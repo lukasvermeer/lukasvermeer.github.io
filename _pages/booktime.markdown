@@ -1,6 +1,7 @@
 ---
+title: "Book my time"
 permalink: /booktime/
-layout: default
+layout: single
 ---
 
 <!-- Calendly inline widget begin -->
