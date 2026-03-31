@@ -33,15 +33,12 @@ teaser: /assets/images/header-bg.webp
 og_image: /assets/images/header-bg.webp
 repository: lukasvermeer/lukasvermeer.github.io
 
-twitter:
-  username: "lukasvermeer"
 github_username:  lukasvermeer
 
 social:
   type: "Person" # Person or Organization (defaults to Person)
   name: "Lukas Vermeer" # If the user or organization name differs from the site's name
   links:
-    - "https://twitter.com/lukasvermeer"
     - "https://www.linkedin.com/in/lukasvermeer"
 
 analytics:
@@ -49,9 +46,6 @@ analytics:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/lukasvermeer"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lukasvermeer"
@@ -82,9 +76,6 @@ author:
   avatar   : "/assets/images/bio-photo.webp"
   bio      : "I help people run experiments to make better products for customers."
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/lukasvermeer"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lukasvermeer"
