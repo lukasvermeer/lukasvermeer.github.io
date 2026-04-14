@@ -13,7 +13,7 @@ header:
 
 <span style="color:#bbb;">[I've [tweeted ](https://twitter.com/lukasvermeer/status/6962168925)[about ](https://twitter.com/lukasvermeer/status/7029674362)[this ](https://twitter.com/lukasvermeer/status/7029711378)[before](https://twitter.com/lukasvermeer/status/7029745604).]</span>
 
-A few months ago my friend and neighbor [Olav](http://laudy.net/) was fiddling around with a dataset of movie plot descriptions he downloaded from the [Internet Movie Database](https://www.imdb.com/) (IMDb). If I recall correctly, he was taking a stab at the [Netflix Prize](https://www.netflixprize.com/). We discussed this for a while over coffee, but (as usual) our conversations were all over the place; and somewhere along the line we wondered what songs are used most often in movies.
+A few months ago my friend and neighbor Olav was fiddling around with a dataset of movie plot descriptions he downloaded from the [Internet Movie Database](https://www.imdb.com/) (IMDb). If I recall correctly, he was taking a stab at the [Netflix Prize](https://www.netflixprize.com/). We discussed this for a while over coffee, but (as usual) our conversations were all over the place; and somewhere along the line we wondered what songs are used most often in movies.
 
 **What is that song they always play? The one that goes like '#****_dun dun dun dun dudun dun dun duuuuun#_'. You know?**
 

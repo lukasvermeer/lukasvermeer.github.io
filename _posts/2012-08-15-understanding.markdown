@@ -16,7 +16,7 @@ header:
   teaser_alt: A teaser image for the Understanding post.
 ---
 
-Derek Jones posits that "[success does not require understanding](http://shape-of-code.coding-guidelines.com/2012/07/23/success-does-not-require-understanding/)".
+Derek Jones posits that "[success does not require understanding](https://shape-of-code.com/2012/07/23/success-does-not-require-understanding/)".
 
 > In my line of work I am constantly trying to understand what is going on (the purpose of this understanding is to control and make things better) and consider anybody who uses machine learning as being clueless, dim witted or just plain lazy; the problem with machine learning is that it gives answers without explanations (ok decision trees do provide some insights).
 

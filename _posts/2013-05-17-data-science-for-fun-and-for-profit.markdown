@@ -13,7 +13,7 @@ header:
   teaser_alt: 'A teaser image for the Data Science: for Fun and for Profit post.'
 ---
 
-In the next few weeks I'll be giving two talks on the topic of Data Science at [Xebicon](http://www.xebicon.nl/programma) and [another event](http://datafun.eventbrite.com/) affiliated with [Xebia](https://xebia.com/). There is an abstract of my spiel available on the Xebicon site.
+In the next few weeks I'll be giving two talks on the topic of Data Science at [Xebicon](https://xebia.com/programma) and [another event](https://www.eventbrite.com/) affiliated with [Xebia](https://xebia.com/). There is an abstract of my spiel available on the Xebicon site.
 
 > Data Science is one of the most exciting developing fields in technology today. Ever expanding data sets and increasing computing power allow statisticians and computing scientists to explore new business opportunities that were simply not possible merely a few years ago. Although their applications are new, the ideas and techniques that form the underpinnings for this evidence-oriented discipline have a solid foundation in hundreds of years of scientific development. In order then to understand the new science of data, one must first understand the science of science.> 
 > 

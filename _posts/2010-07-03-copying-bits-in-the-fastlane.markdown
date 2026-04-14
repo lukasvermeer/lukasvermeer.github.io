@@ -13,12 +13,12 @@ header:
   teaser_alt: A teaser image for the Copying Bits in the Fastlane post.
 ---
 
-I've finally gotten 'round to [rooting](http://wiki.allshadow.com/index.php/G1_Root) my 'old' [G1](https://www.t-mobileg1.com/) phone and installing the [Cyanogen](http://www.cyanogenmod.com/) firmware. I will not bore you with the technical details of flashing firmware, but I would like to share an observation. To illustrate my point, I will need to cite some of the steps involved.
+I've finally gotten 'round to rooting my 'old' [G1](https://www.t-mobileg1.com/) phone and installing the Cyanogen firmware. I will not bore you with the technical details of flashing firmware, but I would like to share an observation. To illustrate my point, I will need to cite some of the steps involved.
 
 **The technicalities of the following citations do not matter all that much, so if you want, you can skip right to the short translation. There will be no pop-quiz at the end, I promise.**
 
-Rooting the G1 is not as complicated as you might expect from the enormous amount of steps involved. The biggest obstacle for me proved to be the fact that I do not have a copy of Windows installed on any of my computers, so the following steps in the ["the unlockr" guide](http://theunlockr.com/2010/03/10/how-to-create-a-goldcard/) (referred to by none other than [Cyanogen](http://wiki.cyanogenmod.com/index.php/Full_Update_Guide_-_G1/Dream_Firmware_to_CyanogenMod#Troubleshooting) himself) were practically impossible for me (underlining is mine; and as promised, there is a short translation below).
-> <span style="color:#c0c0c0;">9. Now, goto </span><span style="color:#c0c0c0;">http://download.cnet.com/HxD-Hex-Editor/3000-2352-10891068.html?part=dl-HxDHexEdi&subj=uo&tag=button</span><span style="color:#888888;"><span style="color:#c0c0c0;"> to </span><span style="text-decoration:underline;"><span style="color:#c0c0c0;">download the HxD Hex Editor</span></span><span style="color:#c0c0c0;">. Save it and install it to your computer.</span></span>> 
+Rooting the G1 is not as complicated as you might expect from the enormous amount of steps involved. The biggest obstacle for me proved to be the fact that I do not have a copy of Windows installed on any of my computers, so the following steps in the ["the unlockr" guide](https://theunlockr.com/2010/03/10/how-to-create-a-goldcard/) (referred to by none other than Cyanogen himself) were practically impossible for me (underlining is mine; and as promised, there is a short translation below).
+> <span style="color:#c0c0c0;">9. Now, goto </span><span style="color:#c0c0c0;">https://download.cnet.com/HxD-Hex-Editor/3000-2352-10891068.html?part=dl-HxDHexEdi&subj=uo&tag=button</span><span style="color:#888888;"><span style="color:#c0c0c0;"> to </span><span style="text-decoration:underline;"><span style="color:#c0c0c0;">download the HxD Hex Editor</span></span><span style="color:#c0c0c0;">. Save it and install it to your computer.</span></span>> 
 > 
 > <span style="color:#c0c0c0;">10. Take your SD card out of your phone and put it into the SD adapter it came with. Then put that into your computer so it shows up on your computer as Removable Disk.</span>> 
 > 
@@ -54,7 +54,7 @@ Translation: figure out which disk you need, copy bits to disk. The [dd command]
 
 **dd** Copy bits
 
-**bs=512** in [chunks of 512 bits](http://unix.derkeiler.com/Mailing-Lists/FreeBSD/questions/2008-09/msg01345.html) ("bs" stands for "block size", in this case, not [cow manure](https://en.wikipedia.org/wiki/Bullshit))
+**bs=512** in chunks of 512 bits ("bs" stands for "block size", in this case, not [cow manure](https://en.wikipedia.org/wiki/Bullshit))
 
 **if=~/goldcard.img** from this file ("if" for "in file" and "~/" just means the file is in my home folder)
 

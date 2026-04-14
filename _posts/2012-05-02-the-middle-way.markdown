@@ -15,7 +15,7 @@ header:
   teaser_alt: A teaser image for the The Middle Way post.
 ---
 
-James Taylor is [spot-on](http://jtonedm.com/2012/04/05/is-machine-learning-v-domain-expertise-the-wrong-question/).
+James Taylor is [spot-on](https://jtonedm.com/2012/04/05/is-machine-learning-v-domain-expertise-the-wrong-question/).
 
 > Too many analytic professionals think that only the data speaks and that business rules are, as someone once said to me, "for people too stupid to analyze their data". Similarly too many IT professionals think that everything can be reduced to business rules or to code using explicit analysis. The reality for most decisions is somewhere in between.
 

@@ -18,7 +18,7 @@ header:
   teaser_alt: A teaser image for the Why Metrics Matter post.
 ---
 
-[Daring Fireball](https://daringfireball.net/linked/2011/12/14/too-many-choices) quotes some interesting [research findings](http://bigthink.com/ideas/19529) related to what [Barry Schwartz](https://www.swarthmore.edu/SocSci/bschwar1/) dubbed [The Paradox Of Choice](https://www.amazon.co.uk/Paradox-Choice-Why-More-Less/dp/0060005696).
+[Daring Fireball](https://daringfireball.net/linked/2011/12/14/too-many-choices) quotes some interesting [research findings](https://bigthink.com/ideas/19529) related to what [Barry Schwartz](https://www.swarthmore.edu/SocSci/bschwar1/) dubbed [The Paradox Of Choice](https://www.amazon.co.uk/Paradox-Choice-Why-More-Less/dp/0060005696).
 
 > About 60% of the people stopped when we had 24 jams on display and then at the times when we had 6 different flavors of jam out on display only 40% of the people actually stopped, so more people were clearly attracted to the larger varieties of options, but then when it came down to buying, so the second thing we looked at is in what case were people more likely to buy a jar of jam.> 
 > 

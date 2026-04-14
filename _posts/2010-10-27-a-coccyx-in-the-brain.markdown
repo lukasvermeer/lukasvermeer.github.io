@@ -25,7 +25,7 @@ If you have no difficulty coming up with six-letter English words that have an n
 
 Just like the "[Linda is a bank teller](https://lukasvermeer.wordpress.com/2010/08/21/the-moral-of-a-good-story/)" example, one answer encompasses the whole of the other answer.
 
-<span style="color:#bbb;">[Note that Mlodinow implicitly (and [correctly](http://wiki.answers.com/Q/What_6_letter_words_has_n_as_the_fifth_letter)) assumes that there exist six-letter English words that have an n as their fifth letter but _do not_ end in ing. Otherwise the two groups would have been equal in size.]</span>
+<span style="color:#bbb;">[Note that Mlodinow implicitly (and [correctly](https://www.answers.com/Q/What_6_letter_words_has_n_as_the_fifth_letter)) assumes that there exist six-letter English words that have an n as their fifth letter but _do not_ end in ing. Otherwise the two groups would have been equal in size.]</span>
 
 Mlodinow explains why we guessed wrong:
 
@@ -35,7 +35,7 @@ Mlodinow explains why we guessed wrong:
 
 Good approximation heuristic for a caveman, maybe not so great for modern man. A [coccyx](https://en.wikipedia.org/wiki/Coccyx) in the brain.
 
-In his book [The Science of Fear](https://www.amazon.com/Science-Fear-Shouldnt-Ourselves-Greater/dp/0525950621) author [Daniel Gardner](http://www.dangardner.ca/) talks about this [availability bias](https://en.wikipedia.org/wiki/Availability_heuristic) (he calls it the 'example rule' and Kahneman and Tversky called it the 'availability heuristic', but they all mean the same thing) in the context of (perceived) security.
+In his book [The Science of Fear](https://www.amazon.com/Science-Fear-Shouldnt-Ourselves-Greater/dp/0525950621) author [Daniel Gardner](https://www.dangardner.ca/) talks about this [availability bias](https://en.wikipedia.org/wiki/Availability_heuristic) (he calls it the 'example rule' and Kahneman and Tversky called it the 'availability heuristic', but they all mean the same thing) in the context of (perceived) security.
 
 > But car crashed aren't like terrorist hijackings. They aren't covered live on CNN. They aren't discussed endlessly by pundits. They don't inpsire Hollywood movies and television shows. They aren't fodder for campaigning politicians.
 

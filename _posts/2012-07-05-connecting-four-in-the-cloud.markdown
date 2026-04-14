@@ -25,6 +25,6 @@ That is why, for the past few months, my good friend [Matt Feigal](https://twitt
 
 I'm mostly kidding, of course, but here is something I cooked up over the weekend. A web service that plays connect four (based on an [earlier post]( {{site.baseurl}}{% post_url 2011-09-24-connect-four-and-minimax %} )) and is looking for worthy sparring partners.
 
-If you think you can code a better connect four algorithm (and you probably can, especially since I've deliberately lobotomized this particular version of my implementation), head on over to [github](https://github.com/lukasvermeer/connectfourservice) and build your own to compete against mine. All the code and an interface description are available there. The service itself is available on [Google App Engine](http://connectfourservice.appspot.com/).
+If you think you can code a better connect four algorithm (and you probably can, especially since I've deliberately lobotomized this particular version of my implementation), head on over to [github](https://github.com/lukasvermeer/connectfourservice) and build your own to compete against mine. All the code and an interface description are available there. The service itself is available on [Google App Engine](https://connectfourservice.appspot.com/).
 
 I've got (part of) my head in the cloud, what about you?

@@ -16,7 +16,7 @@ header:
   teaser_alt: A teaser image for the Simulating Repeated Significance Testing post.
 ---
 
-My colleague Mats has an excellent piece on the topic of repeated significance testing [on his blog](http://www.einarsen.no/is-your-ab-testing-effort-just-chasing-statistical-ghosts/).
+My colleague Mats has an excellent piece on the topic of repeated significance testing [on his blog](https://www.einarsen.no/is-your-ab-testing-effort-just-chasing-statistical-ghosts/).
 
 > To demonstrate how much [repeated significance testing] matters, I've ran a simulation of how much impact you should expect repeat testing errors to have on your success rate.
 
