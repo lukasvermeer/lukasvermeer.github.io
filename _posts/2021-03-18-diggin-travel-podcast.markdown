@@ -1,14 +1,22 @@
 ---
-title: "How Experimentation Helps You Build Better Travel Digital Products"
+title: How Experimentation Helps You Build Better Travel Digital Products
 date: 2021-03-18
-tags: ["Experimentation", "Podcast", "Interview"]
-categories: ["Podcast"]
+tags:
+- Experimentation
+- Podcast
+- Interview
+categories:
+- Podcast
 header:
   image: assets/2021-03-18-diggin-travel-podcast.webp
   overlay_image: assets/2021-03-18-diggin-travel-podcast.webp
   overlay_filter: 0.6
   show_overlay_excerpt: false
   teaser: assets/2021-03-18-diggin-travel-podcast.webp
+  alt: A teaser image for the How Experimentation Helps You Build Better Travel Digital
+    Products post.
+  teaser_alt: A teaser image for the How Experimentation Helps You Build Better Travel
+    Digital Products post.
 ---
 
 I was interviewed for the [Diggin Travel](https://diggintravel.com/travel-digital-products-booking-com-case/) podcast.

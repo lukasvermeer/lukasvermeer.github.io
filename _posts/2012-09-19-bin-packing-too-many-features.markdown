@@ -1,10 +1,18 @@
 ---
-title: "Bin Packing Too Many Features"
+title: Bin Packing Too Many Features
 date: 2012-09-19
-tags: ["Code","excel","lp","Mathematics","solver"]
+tags:
+- Code
+- excel
+- lp
+- Mathematics
+- solver
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/09/19/bin-packing-too-many-features/
+header:
+  alt: A teaser image for the Bin Packing Too Many Features post.
+  teaser_alt: A teaser image for the Bin Packing Too Many Features post.
 ---
 
 My [girlfriend](http://lisannekrens.nl/) has been struggling with an interesting little problem lately. She was asked to determine the optimal distribution of medicine boxes and bottles over a set of adaptable cabinets; under volume as well as weight constraints. Not an easy task for a computer scientist; much less for a hospital pharmacist in training.

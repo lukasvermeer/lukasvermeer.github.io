@@ -1,14 +1,20 @@
 ---
-title: "Datascience can do what?"
+title: Datascience can do what?
 date: 2020-07-24
-tags: ["Experimentation", "Podcast", "Interview"]
-categories: ["Podcast"]
+tags:
+- Experimentation
+- Podcast
+- Interview
+categories:
+- Podcast
 header:
   image: assets/2020-07-24-cro-cafe-podcast.webp
   overlay_image: assets/2020-07-24-cro-cafe-podcast.webp
   overlay_filter: 0.6
   show_overlay_excerpt: false
   teaser: assets/2020-07-24-cro-cafe-podcast.webp
+  alt: A teaser image for the Datascience can do what? post.
+  teaser_alt: A teaser image for the Datascience can do what? post.
 ---
 
 I was interviewed for the [CRO Cafe](https://www.cro.cafe/podcast/datascience-can-do-what) podcast.

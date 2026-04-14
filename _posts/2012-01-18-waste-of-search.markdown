@@ -1,10 +1,18 @@
 ---
-title: "Waste Of Search"
+title: Waste Of Search
 date: 2012-01-18
-tags: ["Meta","Oracle","RTD","search","traffic"]
+tags:
+- Meta
+- Oracle
+- RTD
+- search
+- traffic
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/01/18/waste-of-search/
+header:
+  alt: A teaser image for the Waste Of Search post.
+  teaser_alt: A teaser image for the Waste Of Search post.
 ---
 
 Analyzing website traffic can lead to unexpected insights. This incoming search term caught my eye.

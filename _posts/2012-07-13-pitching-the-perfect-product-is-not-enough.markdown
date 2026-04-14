@@ -1,10 +1,19 @@
 ---
-title: "Pitching The Perfect Product Is Not Enough"
+title: Pitching The Perfect Product Is Not Enough
 date: 2012-07-13
-tags: ["Marketing","personalization","persuasion","Psychology","RTD","sociology"]
+tags:
+- Marketing
+- personalization
+- persuasion
+- Psychology
+- RTD
+- sociology
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/07/13/pitching-the-perfect-product-is-not-enough/
+header:
+  alt: A teaser image for the Pitching The Perfect Product Is Not Enough post.
+  teaser_alt: A teaser image for the Pitching The Perfect Product Is Not Enough post.
 ---
 
 Marketing catchphrases like "recommended by experts" (an appeal to authority), "world-renowned bestseller" (candidly claiming consensus) and "limited supply only" (suggesting scarcity) are widely used to promote many different types of products. To a marketeer, these persuasion tactics are like universally coaxing super supplements that can make just about any offer seem more enticing.

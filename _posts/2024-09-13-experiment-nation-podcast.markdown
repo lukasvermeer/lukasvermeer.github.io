@@ -1,14 +1,20 @@
 ---
-title: "Experiment Nation podcast"
+title: Experiment Nation podcast
 date: 2024-09-13
-tags: ["Experimentation", "Podcast", "Interview"]
-categories: ["Podcast"]
+tags:
+- Experimentation
+- Podcast
+- Interview
+categories:
+- Podcast
 header:
   image: assets/2024-09-13-experiment-nation-podcast.webp
   overlay_image: assets/2024-09-13-experiment-nation-podcast.webp
   overlay_filter: 0.6
   show_overlay_excerpt: false
   teaser: assets/2024-09-13-experiment-nation-podcast.webp
+  alt: A teaser image for the Experiment Nation podcast post.
+  teaser_alt: A teaser image for the Experiment Nation podcast post.
 ---
 
 I was interviewed for the [Experiment Nation](https://www.youtube.com/watch?v=Y2FhgrUR4WQ) podcast.

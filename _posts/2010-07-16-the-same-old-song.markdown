@@ -1,10 +1,14 @@
 ---
-title: "the Same Old Song"
+title: the Same Old Song
 date: 2010-07-16
-tags: ["Datamining"]
+tags:
+- Datamining
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2010/07/16/the-same-old-song/
+header:
+  alt: A teaser image for the the Same Old Song post.
+  teaser_alt: A teaser image for the the Same Old Song post.
 ---
 
 <span style="color:#bbb;">[I've [tweeted ](http://twitter.com/lukasvermeer/status/6962168925)[about ](http://twitter.com/lukasvermeer/status/7029674362)[this ](http://twitter.com/lukasvermeer/status/7029711378)[before](http://twitter.com/lukasvermeer/status/7029745604).]</span>

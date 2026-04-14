@@ -1,7 +1,11 @@
 ---
-title: "Building a Culture of Experimentation"
+title: Building a Culture of Experimentation
 date: 2021-12-21
-tags: ["experimentation", "mission", "vision", "culture"]
+tags:
+- experimentation
+- mission
+- vision
+- culture
 original:
   source_name: Vista DnA Blog
   source_url: https://vistaprint.io/blog/building-a-culture-of-experimentation
@@ -9,7 +13,10 @@ header:
   overlay_image: assets/2022-03-09-diagram.jpeg
   overlay_filter: 0.8
   teaser: assets/2022-03-09-diagram.jpeg
-excerpt: 'I will draw a rough outline of the kind of culture that we are trying to build at Vista, and how we are taking the first steps towards that vision.'
+  alt: A teaser image for the Building a Culture of Experimentation post.
+  teaser_alt: A teaser image for the Building a Culture of Experimentation post.
+excerpt: I will draw a rough outline of the kind of culture that we are trying to
+  build at Vista, and how we are taking the first steps towards that vision.
 ---
 
 Vista’s goal is to deliver jaw-dropping customer value to small business owners looking for design and marketing solutions. To confirm that our execution and delivery do indeed result in jaws being dropped, we have a strong desire to test the validity of every assumption and the impact of every change. Delivery is not our goal. Experimentation is also not our goal. Customer value is our goal. Experimentation is a powerful method through which we can connect delivery to value.

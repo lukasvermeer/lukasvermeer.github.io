@@ -1,10 +1,19 @@
 ---
-title: "All You Need Is a Good Brainwashing"
+title: All You Need Is a Good Brainwashing
 date: 2012-01-23
-tags: ["brainwashing","conditioning","life-hacking","music","productivity","Psychology"]
+tags:
+- brainwashing
+- conditioning
+- life-hacking
+- music
+- productivity
+- Psychology
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/01/23/all-you-need-is-a-good-brainwashing/
+header:
+  alt: A teaser image for the All You Need Is a Good Brainwashing post.
+  teaser_alt: A teaser image for the All You Need Is a Good Brainwashing post.
 ---
 
 [Classical conditioning](http://en.wikipedia.org/wiki/Classical_conditioning) is underrated. Too many bad spy movies have taught us that 'brainwashing' is bad.

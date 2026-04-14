@@ -1,10 +1,15 @@
 ---
-title: "the Trick to 42"
+title: the Trick to 42
 date: 2010-07-10
-tags: ["BI","Oracle"]
+tags:
+- BI
+- Oracle
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2010/07/10/the-trick-to-42/
+header:
+  alt: A teaser image for the the Trick to 42 post.
+  teaser_alt: A teaser image for the the Trick to 42 post.
 ---
 
 [Frank Buytendijk](http://www.frankbuytendijk.com/), in his book [Performance Leadership](http://www.frankbuytendijk.com/performanceleadership.htm), writes the following.

@@ -31,6 +31,13 @@ jobs:
         bundle exec htmlproofer ./_site \
           --allow-hash-href \
           --check-html \
+          --report-invalid-tags \
+          --report-missing-names \
+          --report-script-embeds \
+          --report-missing-doctype \
+          --report-eof-tags \
+          --report-mismatched-tags \
+          --check-opengraph \
           --disable-external \
           --url-ignore "/{{site.baseurl}}{% post_url .*%}/,/https://www.linkedin.com/in/lukasvermeer/" \
           --alt-ignore "/.*/"

@@ -1,10 +1,15 @@
 ---
-title: "Connect Four and Minimax"
+title: Connect Four and Minimax
 date: 2011-09-24
-tags: ["Artificial Intelligence","Javascript"]
+tags:
+- Artificial Intelligence
+- Javascript
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2011/09/24/connect-four-and-minimax/
+header:
+  alt: A teaser image for the Connect Four and Minimax post.
+  teaser_alt: A teaser image for the Connect Four and Minimax post.
 ---
 
 Computers are incredibly fast calculators. That makes them good at maths, but it does not make them smart. People that program computers have to invent clever ways to exploit that arithmetical ability to achieve intelligent behavior.

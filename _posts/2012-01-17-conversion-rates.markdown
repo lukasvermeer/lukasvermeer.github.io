@@ -1,10 +1,18 @@
 ---
-title: "Conversion Rates"
+title: Conversion Rates
 date: 2012-01-17
-tags: ["call to action","inspiration","Meta","Psychology","writer's block"]
+tags:
+- call to action
+- inspiration
+- Meta
+- Psychology
+- writer's block
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/01/17/conversion-rates/
+header:
+  alt: A teaser image for the Conversion Rates post.
+  teaser_alt: A teaser image for the Conversion Rates post.
 ---
 
 In my mind, I write a blog post almost every day. But when I sit down to write, I am at a loss for words.

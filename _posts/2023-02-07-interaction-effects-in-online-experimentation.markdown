@@ -1,7 +1,9 @@
 ---
-title: "Interaction effects in online experimentation"
+title: Interaction effects in online experimentation
 date: 2023-02-27
-tags: ["experimentation", "interaction effects"]
+tags:
+- experimentation
+- interaction effects
 original:
   source_name: Vista DnA Blog
   source_url: https://vista.io/blog/interaction-effects-in-online-experimentation
@@ -9,7 +11,13 @@ header:
   overlay_image: assets/2023-02-27-interaction-effects-in-online-experimentation-header.webp
   overlay_filter: 0.8
   teaser: assets/2023-02-27-interaction-effects-in-online-experimentation-header.webp
-excerpt: 'Experiments allow us to test how changes to our products affect the behavior of our users. We make many such changes in many experiments running at the same time. As we scale up our experimentation volume at Vista, there will be an increased risk of interactions between experiments occurring.'
+  alt: A teaser image for the Interaction effects in online experimentation post.
+  teaser_alt: A teaser image for the Interaction effects in online experimentation
+    post.
+excerpt: Experiments allow us to test how changes to our products affect the behavior
+  of our users. We make many such changes in many experiments running at the same
+  time. As we scale up our experimentation volume at Vista, there will be an increased
+  risk of interactions between experiments occurring.
 ---
 
 We say an interaction has occurred when the effects of two—or more—experiments on a metric combined is different from a linear combination of each of those experiments in isolation. For example, two individual changes help customers find what they need more easily, while the two combined have the opposite effect.

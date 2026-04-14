@@ -1,10 +1,15 @@
 ---
-title: "a Database is not a Box"
+title: a Database is not a Box
 date: 2010-05-14
-tags: ["Database","Oracle"]
+tags:
+- Database
+- Oracle
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2010/05/14/a-database-is-not-a-box/
+header:
+  alt: A teaser image for the a Database is not a Box post.
+  teaser_alt: A teaser image for the a Database is not a Box post.
 ---
 
 I've seen people using and building upon databases in lots of different ways; many of them surprisingly original. However, it seems to me that some people do not fully grasp the concept of a database. Using a database is clearly not the same as understanding how one works.

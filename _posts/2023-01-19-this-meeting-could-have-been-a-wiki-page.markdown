@@ -1,10 +1,17 @@
 ---
-title: "This meeting could have been a wiki page"
+title: This meeting could have been a wiki page
 date: 2023-01-19
-tags: ["Remote Working", "Remote First", "Communication", "Email"]
+tags:
+- Remote Working
+- Remote First
+- Communication
+- Email
 original:
   source_name: LinkedIn
   source_url: https://www.linkedin.com/posts/lukasvermeer_remotefirst-remoteworking-communication-activity-7021790902478065664-AIlO
+header:
+  alt: A teaser image for the This meeting could have been a wiki page post.
+  teaser_alt: A teaser image for the This meeting could have been a wiki page post.
 ---
 
 There is a popular meme which is used as a response to “useless” meetings: “this meeting could have been an email”. I think replacing meetings with emails would be a good start, but replacing it with a wiki page would in many cases be even better.

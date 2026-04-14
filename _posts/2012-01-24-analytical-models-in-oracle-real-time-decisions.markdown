@@ -1,10 +1,22 @@
 ---
-title: "Analytical Models in Oracle Real-Time Decisions"
+title: Analytical Models in Oracle Real-Time Decisions
 date: 2012-01-24
-tags: ["analytics","choice","dynamic","events","implementation","Java","Oracle","RTD"]
+tags:
+- analytics
+- choice
+- dynamic
+- events
+- implementation
+- Java
+- Oracle
+- RTD
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/01/24/analytical-models-in-oracle-real-time-decisions/
+header:
+  alt: A teaser image for the Analytical Models in Oracle Real-Time Decisions post.
+  teaser_alt: A teaser image for the Analytical Models in Oracle Real-Time Decisions
+    post.
 ---
 
 <span style="color:#bbb;">[ [Crossposting](http://blogs.oracle.com/rtd/en/entry/analytical_models) from the [Oracle Real-Time Decisions Blog](http://blogs.oracle.com/rtd/). ]</span>

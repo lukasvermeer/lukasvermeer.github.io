@@ -1,13 +1,19 @@
 ---
-title: "No velocity without speed"
+title: No velocity without speed
 date: 2023-02-02
-tags: ["Experimentation", "Velocity", "Agile", "Scrum"]
+tags:
+- Experimentation
+- Velocity
+- Agile
+- Scrum
 header:
   image: assets/2023-01-11-velocity-gtgt-speed.webp
   overlay_image: assets/2023-01-11-velocity-gtgt-speed.webp
   overlay_filter: 0.6
   show_overlay_excerpt: false
   teaser: assets/2023-01-11-velocity-gtgt-speed.webp
+  alt: A teaser image for the No velocity without speed post.
+  teaser_alt: A teaser image for the No velocity without speed post.
 ---
 
 [Speed is not velocity]( {{site.baseurl}}{% post_url 2023-01-11-velocity-gtgt-speed %} ), but this does not mean that speed is not important. In fact, speed is a prerequisite for velocity: without speed, there can be no velocity. We cannot be moving in the right direction if we are standing still.

@@ -1,10 +1,17 @@
 ---
-title: "Diagnosing Sample Ratio Mismatch in Online Controlled Experiments: A Taxonomy and Rules of Thumb for Practitioners"
+title: 'Diagnosing Sample Ratio Mismatch in Online Controlled Experiments: A Taxonomy
+  and Rules of Thumb for Practitioners'
 date: 2019-07-25
 categories: papers
-tag: ["Paper"]
+tag:
+- Paper
 author: Lukas Vermeer
-link: "https://dl.acm.org/doi/10.1145/3292500.3330722"
+link: https://dl.acm.org/doi/10.1145/3292500.3330722
+header:
+  alt: 'A teaser image for the Diagnosing Sample Ratio Mismatch in Online Controlled
+    Experiments: A Taxonomy and Rules of Thumb for Practitioners post.'
+  teaser_alt: 'A teaser image for the Diagnosing Sample Ratio Mismatch in Online Controlled
+    Experiments: A Taxonomy and Rules of Thumb for Practitioners post.'
 ---
 
 **Abstract:**

@@ -1,10 +1,18 @@
 ---
-title: "Extrapolation"
+title: Extrapolation
 date: 2012-04-12
-tags: ["data quality","Datamining","extrapolation","humour","Statistics"]
+tags:
+- data quality
+- Datamining
+- extrapolation
+- humour
+- Statistics
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/04/12/extrapolation/
+header:
+  alt: A teaser image for the Extrapolation post.
+  teaser_alt: A teaser image for the Extrapolation post.
 ---
 
 > There are two types of people in this world:> 

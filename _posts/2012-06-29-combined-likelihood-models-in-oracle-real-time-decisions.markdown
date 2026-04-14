@@ -1,10 +1,22 @@
 ---
-title: "Combined Likelihood Models in Oracle Real-Time Decisions"
+title: Combined Likelihood Models in Oracle Real-Time Decisions
 date: 2012-06-29
-tags: ["implementation","Java","likelihoods","models","Oracle","RTD","rtd"]
+tags:
+- implementation
+- Java
+- likelihoods
+- models
+- Oracle
+- RTD
+- rtd
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/06/29/combined-likelihood-models-in-oracle-real-time-decisions/
+header:
+  alt: A teaser image for the Combined Likelihood Models in Oracle Real-Time Decisions
+    post.
+  teaser_alt: A teaser image for the Combined Likelihood Models in Oracle Real-Time
+    Decisions post.
 ---
 
 <span style="color:#bbb;">[ [Crossposting](https://blogs.oracle.com/rtd/en/entry/combined_likelihood_models) from the [Oracle Real-Time Decisions Blog](http://blogs.oracle.com/rtd/). ]</span>

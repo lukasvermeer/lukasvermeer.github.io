@@ -1,10 +1,16 @@
 ---
-title: "Flywheel to Fly: Kickstarting and Growing the A/B testing Momentum at Scale"
+title: 'Flywheel to Fly: Kickstarting and Growing the A/B testing Momentum at Scale'
 date: 2021-10-27
 categories: papers
-tag: ["Paper"]
+tag:
+- Paper
 author: Lukas Vermeer
-link: "https://ieeexplore.ieee.org/abstract/document/9582567"
+link: https://ieeexplore.ieee.org/abstract/document/9582567
+header:
+  alt: 'A teaser image for the Flywheel to Fly: Kickstarting and Growing the A/B testing
+    Momentum at Scale post.'
+  teaser_alt: 'A teaser image for the Flywheel to Fly: Kickstarting and Growing the
+    A/B testing Momentum at Scale post.'
 ---
 
 **Abstract:**

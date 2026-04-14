@@ -1,10 +1,18 @@
 ---
-title: "Aligning Experimentation with Product Operations: A Taxonomy for Structuring Experimentation Teams"
+title: 'Aligning Experimentation with Product Operations: A Taxonomy for Structuring
+  Experimentation Teams'
 date: 2025-09-09
-tag: ["Paper"]
-categories: ["Paper"]
+tag:
+- Paper
+categories:
+- Paper
 author: Lukas Vermeer
-link: "https://link.springer.com/chapter/10.1007/978-3-032-04207-1_3"
+link: https://link.springer.com/chapter/10.1007/978-3-032-04207-1_3
+header:
+  alt: 'A teaser image for the Aligning Experimentation with Product Operations: A
+    Taxonomy for Structuring Experimentation Teams post.'
+  teaser_alt: 'A teaser image for the Aligning Experimentation with Product Operations:
+    A Taxonomy for Structuring Experimentation Teams post.'
 ---
 
 **Abstract:**

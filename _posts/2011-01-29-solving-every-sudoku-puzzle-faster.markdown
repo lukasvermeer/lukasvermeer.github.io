@@ -1,10 +1,16 @@
 ---
-title: "Solving Every Sudoku Puzzle Faster"
+title: Solving Every Sudoku Puzzle Faster
 date: 2011-01-29
-tags: ["Code","Mathematics","Python"]
+tags:
+- Code
+- Mathematics
+- Python
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2011/01/29/solving-every-sudoku-puzzle-faster/
+header:
+  alt: A teaser image for the Solving Every Sudoku Puzzle Faster post.
+  teaser_alt: A teaser image for the Solving Every Sudoku Puzzle Faster post.
 ---
 
 [Peter Norvig](http://norvig.com/)'s excellent essay [Solving Every Sudoku Puzzle](http://norvig.com/sudoku.html) is a fascinating read, and I would highly recommend you read it (or at least scan it briefly) before you read the rest of this post.

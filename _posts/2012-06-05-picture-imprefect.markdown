@@ -1,10 +1,19 @@
 ---
-title: "Picture Imprefect"
+title: Picture Imprefect
 date: 2012-06-05
-tags: ["fail","linkedin","Marketing","Meta","Oracle","personalization"]
+tags:
+- fail
+- linkedin
+- Marketing
+- Meta
+- Oracle
+- personalization
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/06/05/picture-imprefect/
+header:
+  alt: A teaser image for the Picture Imprefect post.
+  teaser_alt: A teaser image for the Picture Imprefect post.
 ---
 
 ![Picture yourself with a new job at: Oracle]({{site.baseurl}}{% link assets/2012-06-05-picture-imprefect-screen-shot-2012-06-05-at-9-39-19-am.png %} "Job Recommendation")

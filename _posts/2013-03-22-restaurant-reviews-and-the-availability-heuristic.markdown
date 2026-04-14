@@ -1,10 +1,19 @@
 ---
-title: "Restaurant Reviews and the Availability Heuristic"
+title: Restaurant Reviews and the Availability Heuristic
 date: 2013-03-22
-tags: ["availability heuristic","Psychology","R","Statistics","statistics"]
+tags:
+- availability heuristic
+- Psychology
+- R
+- Statistics
+- statistics
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2013/03/22/restaurant-reviews-and-the-availability-heuristic/
+header:
+  alt: A teaser image for the Restaurant Reviews and the Availability Heuristic post.
+  teaser_alt: A teaser image for the Restaurant Reviews and the Availability Heuristic
+    post.
 ---
 
 You could say fine dining is a bit of a hobby of mine; and as I've [mentioned before]({{site.baseurl}}{% post_url 2012-01-02-from-restaurant-advice-to-recommending-associates %}), I've composed quite a few [restaurant reviews](https://plus.google.com/106518479241050228896/reviews) over the years. I enjoy writing about food almost as much as I love eating it.

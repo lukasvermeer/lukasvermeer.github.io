@@ -1,10 +1,16 @@
 ---
-title: "More Pi"
+title: More Pi
 date: 2010-11-06
-tags: ["Javascript","Mathematics","Statistics"]
+tags:
+- Javascript
+- Mathematics
+- Statistics
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2010/11/06/more-pi/
+header:
+  alt: A teaser image for the More Pi post.
+  teaser_alt: A teaser image for the More Pi post.
 ---
 
 In a [previous post](http://lukasvermeer.wordpress.com/2010/05/06/estimating-pi/) I've explained how we can estimate the number Pi using [Monte Carlo Methods](http://en.wikipedia.org/wiki/Monte_Carlo_method) (basically throwing darts at a circle). I personally think this method is quite elegant, but it is not particularly efficient. It might take a very, very, very long time for it to converge to anything close to the actual number. Still, pretty awesome.

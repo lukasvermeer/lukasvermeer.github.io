@@ -1,10 +1,22 @@
 ---
-title: "Waterfall Predictions in Oracle Real-Time Decisions"
+title: Waterfall Predictions in Oracle Real-Time Decisions
 date: 2012-04-16
-tags: ["implementation","Java","Oracle","predictive accuracy","RTD","rtd","waterfall"]
+tags:
+- implementation
+- Java
+- Oracle
+- predictive accuracy
+- RTD
+- rtd
+- waterfall
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/04/16/waterfall-predictions-in-oracle-real-time-decisions/
+header:
+  alt: A teaser image for the Waterfall Predictions in Oracle Real-Time Decisions
+    post.
+  teaser_alt: A teaser image for the Waterfall Predictions in Oracle Real-Time Decisions
+    post.
 ---
 
 <span style="color:#bbb;">[ [Crossposting](https://blogs.oracle.com/rtd/en/entry/waterfall_predictions) from the [Oracle Real-Time Decisions Blog](http://blogs.oracle.com/rtd/). ]</span>

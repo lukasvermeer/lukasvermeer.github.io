@@ -1,10 +1,18 @@
 ---
-title: "Predicting Pi"
+title: Predicting Pi
 date: 2011-10-30
-tags: ["Artificial Intelligence","Mathematics","Oracle","RTD","Statistics"]
+tags:
+- Artificial Intelligence
+- Mathematics
+- Oracle
+- RTD
+- Statistics
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2011/10/30/predicting-pi/
+header:
+  alt: A teaser image for the Predicting Pi post.
+  teaser_alt: A teaser image for the Predicting Pi post.
 ---
 
 A few weeks ago, I showed a colleague[^1] [my little visual demo](http://www.xs4all.nl/~destack/projects/pi/) of [my favorite algorithm for estimating the number Pi](http://lukasvermeer.wordpress.com/2010/05/06/estimating-pi/). His immediate response was so obvious I am almost ashamed it did not occur to me before he mentioned it.

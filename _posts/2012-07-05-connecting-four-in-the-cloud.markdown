@@ -1,12 +1,20 @@
 ---
-title: "Connecting Four in the Cloud"
+title: Connecting Four in the Cloud
 date: 2012-07-05
-tags: ["Artificial Intelligence","artificial intelligence","cloud","connect four","Java","web service"]
+tags:
+- Artificial Intelligence
+- artificial intelligence
+- cloud
+- connect four
+- Java
+- web service
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/07/05/connecting-four-in-the-cloud/
 header:
   image: assets/2012-07-05-connecting-four-in-the-cloud-clouds.jpg
+  alt: A teaser image for the Connecting Four in the Cloud post.
+  teaser_alt: A teaser image for the Connecting Four in the Cloud post.
 ---
 
 It almost seems like everyone has their head in [the cloud](https://cloud.oracle.com) these days. And it's not all just hot air and [water vapor](http://www.youtube.com/watch?v=UOEFXaWHppE). [Infrastructure as a service](http://en.wikipedia.org/wiki/Infrastructure_as_a_Service#Service_Models) (IaaS), [platform as a service](http://en.wikipedia.org/wiki/Platform_as_a_service) (PaaS) and [software as a service](http://en.wikipedia.org/wiki/Software_as_a_service) (SaaS) are truly revolutionizing the corporate computing industry.

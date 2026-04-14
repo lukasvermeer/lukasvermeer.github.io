@@ -1,7 +1,10 @@
 ---
-title: "Book my time"
-permalink: /booktime/
+title: Book my time
+permalink: "/booktime/"
 layout: single
+header:
+  alt: A teaser image for the Book my time page.
+  teaser_alt: A teaser image for the Book my time page.
 ---
 
 <!-- Calendly inline widget begin -->

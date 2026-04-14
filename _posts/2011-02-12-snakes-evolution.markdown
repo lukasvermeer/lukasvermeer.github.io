@@ -1,10 +1,17 @@
 ---
-title: "Snakes: Evolution"
+title: 'Snakes: Evolution'
 date: 2011-02-12
-tags: ["Artificial Intelligence","Javascript","Standard","Psychology"]
+tags:
+- Artificial Intelligence
+- Javascript
+- Standard
+- Psychology
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2011/02/12/snakes-evolution/
+header:
+  alt: 'A teaser image for the Snakes: Evolution post.'
+  teaser_alt: 'A teaser image for the Snakes: Evolution post.'
 ---
 
 After [one of my previous posts](http://lukasvermeer.wordpress.com/2010/12/17/snakes-on-a-two-dimensional-plane/) about the [snake project](http://www.xs4all.nl/~destack/projects/snake/) Casper [had some questions](http://www.facebook.com/lukas.vermeer/posts/1768491377794).

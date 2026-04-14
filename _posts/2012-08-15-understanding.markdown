@@ -1,10 +1,19 @@
 ---
-title: "Understanding"
+title: Understanding
 date: 2012-08-15
-tags: ["Artificial Intelligence","black box","Datamining","models","problem solving","Statistics"]
+tags:
+- Artificial Intelligence
+- black box
+- Datamining
+- models
+- problem solving
+- Statistics
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/08/15/understanding/
+header:
+  alt: A teaser image for the Understanding post.
+  teaser_alt: A teaser image for the Understanding post.
 ---
 
 Derek Jones posits that "[success does not require understanding](http://shape-of-code.coding-guidelines.com/2012/07/23/success-does-not-require-understanding/)".

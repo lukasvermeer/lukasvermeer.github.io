@@ -1,10 +1,16 @@
 ---
-title: "Copying Bits in the Fastlane"
+title: Copying Bits in the Fastlane
 date: 2010-07-03
-tags: ["Android","Bash","Linux"]
+tags:
+- Android
+- Bash
+- Linux
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2010/07/03/copying-bits-in-the-fastlane/
+header:
+  alt: A teaser image for the Copying Bits in the Fastlane post.
+  teaser_alt: A teaser image for the Copying Bits in the Fastlane post.
 ---
 
 I've finally gotten 'round to [rooting](http://wiki.allshadow.com/index.php/G1_Root) my 'old' [G1](http://www.t-mobileg1.com/) phone and installing the [Cyanogen](http://www.cyanogenmod.com/) firmware. I will not bore you with the technical details of flashing firmware, but I would like to share an observation. To illustrate my point, I will need to cite some of the steps involved.

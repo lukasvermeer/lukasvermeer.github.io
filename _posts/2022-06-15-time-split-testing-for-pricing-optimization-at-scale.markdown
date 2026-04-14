@@ -1,7 +1,9 @@
 ---
-title: "Time-split testing for pricing optimization at scale"
+title: Time-split testing for pricing optimization at scale
 date: 2022-06-15
-tags: ["experimentation", "pricing"]
+tags:
+- experimentation
+- pricing
 original:
   source_name: Vista DnA Blog
   source_url: https://vista.io/blog/time-split-testing-for-pricing-optimization-at-scale
@@ -9,7 +11,13 @@ header:
   overlay_image: assets/2022-06-15-time-split.svg
   overlay_filter: 0.8
   teaser: assets/2022-06-15-time-split.svg
-excerpt: 'We explain some challenges relating to list prices and more traditional modes of experimentation and we look into which testing capabilities we are building moving forward.'
+  alt: A teaser image for the Time-split testing for pricing optimization at scale
+    post.
+  teaser_alt: A teaser image for the Time-split testing for pricing optimization at
+    scale post.
+excerpt: We explain some challenges relating to list prices and more traditional modes
+  of experimentation and we look into which testing capabilities we are building moving
+  forward.
 ---
 
 *Written by Lukas Vermeer and Joshua Tankard.*

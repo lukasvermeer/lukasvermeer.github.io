@@ -1,10 +1,16 @@
 ---
-title: "Handshake Authentication"
+title: Handshake Authentication
 date: 2012-03-16
-tags: ["bruce","Meta","schneier"]
+tags:
+- bruce
+- Meta
+- schneier
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/03/16/handshake-authentication/
+header:
+  alt: A teaser image for the Handshake Authentication post.
+  teaser_alt: A teaser image for the Handshake Authentication post.
 ---
 
 [![Bruce And Me]({{site.baseurl}}{% link assets/2012-03-16-handshake-authentication-bruce.jpg %} "Bruce And Me")](https://twitter.com/#!/lukasvermeer/status/180338968192237568)

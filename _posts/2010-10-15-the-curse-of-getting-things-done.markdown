@@ -1,10 +1,15 @@
 ---
-title: "The Curse of Getting Things Done"
+title: The Curse of Getting Things Done
 date: 2010-10-15
-tags: ["Meta","Psychology"]
+tags:
+- Meta
+- Psychology
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2010/10/15/the-curse-of-getting-things-done/
+header:
+  alt: A teaser image for the The Curse of Getting Things Done post.
+  teaser_alt: A teaser image for the The Curse of Getting Things Done post.
 ---
 
 I consider myself to be well organized. Both in my professional and personal life I use [Remember the Milk](http://www.rememberthemilk.com/) for keeping track of almost everything I do using some of the techniques described in [Getting Things Done](http://en.wikipedia.org/wiki/Getting_Things_Done) and practice Inbox Zero almost religiously.

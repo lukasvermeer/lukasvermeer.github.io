@@ -1,10 +1,15 @@
 ---
-title: "the Moral of a Good Story"
+title: the Moral of a Good Story
 date: 2010-08-21
-tags: ["Psychology","Statistics"]
+tags:
+- Psychology
+- Statistics
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2010/08/21/the-moral-of-a-good-story/
+header:
+  alt: A teaser image for the the Moral of a Good Story post.
+  teaser_alt: A teaser image for the the Moral of a Good Story post.
 ---
 
 I love reading. I love reading about statistics. I love reading about psychology. But most of all, I love reading [quite](http://books.google.com/books?id=7wMuF4A4XF8C) a [few](http://books.google.com/books?id=IrkYIAAACAAJ) [books](http://books.google.com/books?id=UJxRLCq9l3IC) about statistics _and_ psychology. I might just be a little weird, but statistics and psychology do make up a large part of [my job](http://lukasvermeer.wordpress.com/2010/05/07/i-am-a-business-ninja/).

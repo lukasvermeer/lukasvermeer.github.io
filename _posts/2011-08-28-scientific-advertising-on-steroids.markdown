@@ -1,10 +1,17 @@
 ---
-title: "Scientific Advertising on Steroids"
+title: Scientific Advertising on Steroids
 date: 2011-08-28
-tags: ["Marketing","Oracle","RTD","Statistics"]
+tags:
+- Marketing
+- Oracle
+- RTD
+- Statistics
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2011/08/28/scientific-advertising-on-steroids/
+header:
+  alt: A teaser image for the Scientific Advertising on Steroids post.
+  teaser_alt: A teaser image for the Scientific Advertising on Steroids post.
 ---
 
 It seems that [my little rant](http://lukasvermeer.wordpress.com/2011/07/10/come-on-learn/) against the apparent lack of scientific rigor and the use of data to analyse performance in the world of advertising is nothing new. [Scientific Advertising](http://en.wikipedia.org/wiki/Scientific_Advertising), written in 1923 by advertising icon [Claude C. Hopkins](http://en.wikipedia.org/wiki/Claude_C._Hopkins), lays out a convincing argument in favor of the use of an empirical and results-oriented approach in all marketing[^1].

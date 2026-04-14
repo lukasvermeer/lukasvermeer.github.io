@@ -1,142 +1,148 @@
 ---
 layout: single
-permalink: /speaking/mediakit/
+permalink: "/speaking/mediakit/"
 toc: true
-
 title: Media Kit
 header:
   overlay_color: "#000"
-  overlay_filter: "0.6"
-  overlay_image: /assets/images/header-2017-pawb7.webp
-  caption: "Predictive Analytics World, Berlin (2017)"
-excerpt: "Content for use when I am speaking at your event."
-
-intro: 
-  - excerpt: 'Curious to learn more about me? Your audience will be too! That is why I have prepared this speaker media kit with all the information you might need to advertise that I am speaking at your event.'
-
+  overlay_filter: '0.6'
+  overlay_image: "/assets/images/header-2017-pawb7.webp"
+  caption: Predictive Analytics World, Berlin (2017)
+  alt: A teaser image for the Media Kit page.
+  teaser_alt: A teaser image for the Media Kit page.
+excerpt: Content for use when I am speaking at your event.
+intro:
+- excerpt: Curious to learn more about me? Your audience will be too! That is why
+    I have prepared this speaker media kit with all the information you might need
+    to advertise that I am speaking at your event.
 gallery_headshots:
-  - url: /assets/images/originals/headshot-lukas-2017.jpg
-    image_path: /assets/images/headshot-lukas-2017-s.webp
-    alt: "A headshot of Lukas Vermeer (2017)."
-    title: "Lukas (2017)"
-  - url: /assets/images/originals/headshot-lukas-2022-2.jpg
-    image_path: /assets/images/headshot-lukas-2022-2-s.webp
-    alt: "A headshot of Lukas Vermeer (2022)."
-    title: "Lukas (2022)"
-  - url: /assets/images/originals/headshot-lukas-2022.jpg
-    image_path: /assets/images/headshot-lukas-2022-s.webp
-    alt: "A headshot of Lukas Vermeer (2022)."
-    title: "Lukas (2022)"
-  - url: /assets/images/originals/headshot-lukas-2024.jpg
-    image_path: /assets/images/headshot-lukas-2024-s.webp
-    alt: "A headshot of Lukas Vermeer (2024)."
-    title: "Lukas (2022)"
-
+- url: "/assets/images/originals/headshot-lukas-2017.jpg"
+  image_path: "/assets/images/headshot-lukas-2017-s.webp"
+  alt: A headshot of Lukas Vermeer (2017).
+  title: Lukas (2017)
+- url: "/assets/images/originals/headshot-lukas-2022-2.jpg"
+  image_path: "/assets/images/headshot-lukas-2022-2-s.webp"
+  alt: A headshot of Lukas Vermeer (2022).
+  title: Lukas (2022)
+- url: "/assets/images/originals/headshot-lukas-2022.jpg"
+  image_path: "/assets/images/headshot-lukas-2022-s.webp"
+  alt: A headshot of Lukas Vermeer (2022).
+  title: Lukas (2022)
+- url: "/assets/images/originals/headshot-lukas-2024.jpg"
+  image_path: "/assets/images/headshot-lukas-2024-s.webp"
+  alt: A headshot of Lukas Vermeer (2024).
+  title: Lukas (2022)
 gallery_action:
-  - url: /assets/images/originals/action-marketing-festival-ostrava-2016-1.jpg
-    image_path: /assets/images/action-marketing-festival-ostrava-2016-1-s.webp
-    alt: "Lukas speaking in front of a crowd of thousands of people at Marketing Festival in Ostrava, 2016."
-    title: "Marketing Festival, Ostrava (2016)"
-  - url: /assets/images/originals/action-marketing-festival-ostrava-2016-2.jpg
-    image_path: /assets/images/action-marketing-festival-ostrava-2016-2-s.webp
-    alt: "Lukas speaking in front of a crowd of thousands of people at Marketing Festival in Ostrava, 2016."
-    title: "Marketing Festival, Ostrava (2016)"
-  - url: /assets/images/originals/action-marketing-festival-ostrava-2016-3.jpg
-    image_path: /assets/images/action-marketing-festival-ostrava-2016-3-s.webp
-    alt: "Lukas speaking in front of a crowd of thousands of people at Marketing Festival in Ostrava, 2016."
-    title: "Marketing Festival, Ostrava (2016)"
-  - url: /assets/images/originals/action-marketing-festival-ostrava-2016-4.jpg
-    image_path: /assets/images/action-marketing-festival-ostrava-2016-4-s.webp
-    alt: "Lukas speaking in front of a crowd of thousands of people at Marketing Festival in Ostrava, 2016."
-    title: "Marketing Festival, Ostrava (2016)"
-  - url: /assets/images/originals/action-marketing-festival-ostrava-2016-5.jpg
-    image_path: /assets/images/action-marketing-festival-ostrava-2016-5-s.webp
-    alt: "Lukas speaking in front of a crowd of thousands of people at Marketing Festival in Ostrava, 2016."
-    title: "Marketing Festival, Ostrava (2016)"
-  - url: /assets/images/originals/action-digital-growth-unleashed-london-2017-1.jpg
-    image_path: /assets/images/action-digital-growth-unleashed-london-2017-1-s.webp
-    alt: "Lukas speaking at Digital Growth Unleashed in Londen, 2017."
-    title: "Digital Growth Unleashed, London (2017)"
-  - url: /assets/images/originals/action-digital-growth-unleashed-london-2017-2.jpg
-    image_path: /assets/images/action-digital-growth-unleashed-london-2017-2-s.webp
-    alt: "Lukas speaking at Digital Growth Unleashed in Londen, 2017."
-    title: "Digital Growth Unleashed, London (2017)"
-  - url: /assets/images/originals/action-booking-data-science-meetup-amsterdam-2017.jpg
-    image_path: /assets/images/action-booking-data-science-meetup-amsterdam-2017-s.webp
-    alt: "Lukas speaking while standing in the middle of a seated crowd at a Booking Data Science Meetup in Amsterdam, 2017."
-    title: "Booking Data Science Meetup, Amsterdam (2017)"
-  - url: /assets/images/originals/action-predictive-analytics-world-berlin-2017-1.jpg
-    image_path: /assets/images/action-predictive-analytics-world-berlin-2017-1-s.webp
-    alt: "Lukas at Predictive Analytics World, Berlin 2017."
-    title: "Predictive Analytics World, Berlin (2017)"
-  - url: /assets/images/originals/action-predictive-analytics-world-berlin-2017-2.jpg
-    image_path: /assets/images/action-predictive-analytics-world-berlin-2017-2-s.webp
-    alt: "Lukas at Predictive Analytics World, Berlin 2017."
-    title: "Predictive Analytics World, Berlin (2017)"
-  - url: /assets/images/originals/action-predictive-analytics-world-berlin-2017-3.jpg
-    image_path: /assets/images/action-predictive-analytics-world-berlin-2017-3-s.webp
-    alt: "Lukas at Predictive Analytics World, Berlin 2017."
-    title: "Predictive Analytics World, Berlin (2017)"
-  - url: /assets/images/originals/action-predictive-analytics-world-berlin-2017-4.jpg
-    image_path: /assets/images/action-predictive-analytics-world-berlin-2017-4-s.webp
-    alt: "Lukas at Predictive Analytics World, Berlin 2017."
-    title: "Predictive Analytics World, Berlin (2017)"
-  - url: /assets/images/originals/action-predictive-analytics-world-berlin-2017-5.jpg
-    image_path: /assets/images/action-predictive-analytics-world-berlin-2017-5-s.webp
-    alt: "Lukas at Predictive Analytics World, Berlin 2017."
-    title: "Predictive Analytics World, Berlin (2017)"
-  - url: /assets/images/originals/action-predictive-analytics-world-berlin-2017-6.jpg
-    image_path: /assets/images/action-predictive-analytics-world-berlin-2017-6-s.webp
-    alt: "Lukas at Predictive Analytics World, Berlin 2017."
-    title: "Predictive Analytics World, Berlin (2017)"
-  - url: /assets/images/originals/action-predictive-analytics-world-berlin-2017-8.jpg
-    image_path: /assets/images/action-predictive-analytics-world-berlin-2017-8-s.webp
-    alt: "Lukas at Predictive Analytics World, Berlin 2017."
-    title: "Predictive Analytics World, Berlin (2017)"
-  - url: /assets/images/originals/action-growth-marketing-summit-frankfurt-2019.jpg
-    image_path: /assets/images/action-growth-marketing-summit-frankfurt-2019-s.webp
-    alt: "Lukas on stage presenting at Growth Marketing Summit in Frankfurt, 2019."
-    title: "Growth Marketing Summit, Frankfurt (2019)"
-  - url: assets/images/originals/action-conversion-hotel-2019.jpg
-    image_path: assets/images/action-conversion-hotel-2019-s.webp
-    alt: "Lukas on stage presenting at Conversion Hotel in the Netherlands, 2019."
-    title: "Conversion Hotel, Texel (2019)"
-  - url: assets/images/originals/action-exp-elite-2023-1.jpg
-    image_path: assets/images/action-exp-elite-2023-1-s.webp
-    alt: "Lukas on stage presenting at Exp Elite in Birmingham, 2023."
-    title: "Exp Elite, Birmingham (2023)"
-  - url: assets/images/originals/action-exp-elite-2023-2.jpg
-    image_path: assets/images/action-exp-elite-2023-2-s.webp
-    alt: "Lukas on stage presenting at Exp Elite in Birmingham, 2023."
-    title: "Exp Elite, Birmingham (2023)"
-  - url: assets/images/originals/action-nio-summit-2023-1.jpg
-    image_path: assets/images/action-nio-summit-2023-1-s.webp
-    alt: "Lukas on stage presenting at NIO Summit in Dallas, 2023."
-    title: "NIO Summit, Dallas (2023)"
-  - url: assets/images/originals/action-nio-summit-2023-2.jpg
-    image_path: assets/images/action-nio-summit-2023-2-s.webp
-    alt: "Lukas on stage presenting at NIO Summit in Dallas, 2023."
-    title: "NIO Summit, Dallas (2023)"
-  - url: assets/images/originals/action-experimentation-heroes-2023-1.jpg
-    image_path: assets/images/action-experimentation-heroes-2023-1-s.webp
-    alt: "Lukas on stage presenting at Experimentation Heroes in Amsterdam, 2023."
-    title: "Experimentation Heroes, Amsterdam (2023)"
-  - url: assets/images/originals/action-cxl-2024-1.jpg
-    image_path: assets/images/action-cxl-2024-1-s.webp
-    alt: "Lukas on stage presenting at CXL in Austin, 2024."
-    title: "CXL, Austin (2024)"
-  - url: assets/images/originals/action-cxl-2024-2.jpg
-    image_path: assets/images/action-cxl-2024-2-s.webp
-    alt: "Lukas on stage presenting at CXL in Austin, 2024."
-    title: "CXL, Austin (2024)"
-  - url: assets/images/originals/action-cxl-2024-3.jpg
-    image_path: assets/images/action-cxl-2024-3-s.webp
-    alt: "Lukas on stage presenting at CXL in Austin, 2024."
-    title: "CXL, Austin (2024)"
-  - url: assets/images/originals/action-cxl-2024-4.jpg
-    image_path: assets/images/action-cxl-2024-4-s.webp
-    alt: "Lukas on stage presenting at CXL in Austin, 2024."
-    title: "CXL, Austin (2024)"
+- url: "/assets/images/originals/action-marketing-festival-ostrava-2016-1.jpg"
+  image_path: "/assets/images/action-marketing-festival-ostrava-2016-1-s.webp"
+  alt: Lukas speaking in front of a crowd of thousands of people at Marketing Festival
+    in Ostrava, 2016.
+  title: Marketing Festival, Ostrava (2016)
+- url: "/assets/images/originals/action-marketing-festival-ostrava-2016-2.jpg"
+  image_path: "/assets/images/action-marketing-festival-ostrava-2016-2-s.webp"
+  alt: Lukas speaking in front of a crowd of thousands of people at Marketing Festival
+    in Ostrava, 2016.
+  title: Marketing Festival, Ostrava (2016)
+- url: "/assets/images/originals/action-marketing-festival-ostrava-2016-3.jpg"
+  image_path: "/assets/images/action-marketing-festival-ostrava-2016-3-s.webp"
+  alt: Lukas speaking in front of a crowd of thousands of people at Marketing Festival
+    in Ostrava, 2016.
+  title: Marketing Festival, Ostrava (2016)
+- url: "/assets/images/originals/action-marketing-festival-ostrava-2016-4.jpg"
+  image_path: "/assets/images/action-marketing-festival-ostrava-2016-4-s.webp"
+  alt: Lukas speaking in front of a crowd of thousands of people at Marketing Festival
+    in Ostrava, 2016.
+  title: Marketing Festival, Ostrava (2016)
+- url: "/assets/images/originals/action-marketing-festival-ostrava-2016-5.jpg"
+  image_path: "/assets/images/action-marketing-festival-ostrava-2016-5-s.webp"
+  alt: Lukas speaking in front of a crowd of thousands of people at Marketing Festival
+    in Ostrava, 2016.
+  title: Marketing Festival, Ostrava (2016)
+- url: "/assets/images/originals/action-digital-growth-unleashed-london-2017-1.jpg"
+  image_path: "/assets/images/action-digital-growth-unleashed-london-2017-1-s.webp"
+  alt: Lukas speaking at Digital Growth Unleashed in Londen, 2017.
+  title: Digital Growth Unleashed, London (2017)
+- url: "/assets/images/originals/action-digital-growth-unleashed-london-2017-2.jpg"
+  image_path: "/assets/images/action-digital-growth-unleashed-london-2017-2-s.webp"
+  alt: Lukas speaking at Digital Growth Unleashed in Londen, 2017.
+  title: Digital Growth Unleashed, London (2017)
+- url: "/assets/images/originals/action-booking-data-science-meetup-amsterdam-2017.jpg"
+  image_path: "/assets/images/action-booking-data-science-meetup-amsterdam-2017-s.webp"
+  alt: Lukas speaking while standing in the middle of a seated crowd at a Booking
+    Data Science Meetup in Amsterdam, 2017.
+  title: Booking Data Science Meetup, Amsterdam (2017)
+- url: "/assets/images/originals/action-predictive-analytics-world-berlin-2017-1.jpg"
+  image_path: "/assets/images/action-predictive-analytics-world-berlin-2017-1-s.webp"
+  alt: Lukas at Predictive Analytics World, Berlin 2017.
+  title: Predictive Analytics World, Berlin (2017)
+- url: "/assets/images/originals/action-predictive-analytics-world-berlin-2017-2.jpg"
+  image_path: "/assets/images/action-predictive-analytics-world-berlin-2017-2-s.webp"
+  alt: Lukas at Predictive Analytics World, Berlin 2017.
+  title: Predictive Analytics World, Berlin (2017)
+- url: "/assets/images/originals/action-predictive-analytics-world-berlin-2017-3.jpg"
+  image_path: "/assets/images/action-predictive-analytics-world-berlin-2017-3-s.webp"
+  alt: Lukas at Predictive Analytics World, Berlin 2017.
+  title: Predictive Analytics World, Berlin (2017)
+- url: "/assets/images/originals/action-predictive-analytics-world-berlin-2017-4.jpg"
+  image_path: "/assets/images/action-predictive-analytics-world-berlin-2017-4-s.webp"
+  alt: Lukas at Predictive Analytics World, Berlin 2017.
+  title: Predictive Analytics World, Berlin (2017)
+- url: "/assets/images/originals/action-predictive-analytics-world-berlin-2017-5.jpg"
+  image_path: "/assets/images/action-predictive-analytics-world-berlin-2017-5-s.webp"
+  alt: Lukas at Predictive Analytics World, Berlin 2017.
+  title: Predictive Analytics World, Berlin (2017)
+- url: "/assets/images/originals/action-predictive-analytics-world-berlin-2017-6.jpg"
+  image_path: "/assets/images/action-predictive-analytics-world-berlin-2017-6-s.webp"
+  alt: Lukas at Predictive Analytics World, Berlin 2017.
+  title: Predictive Analytics World, Berlin (2017)
+- url: "/assets/images/originals/action-predictive-analytics-world-berlin-2017-8.jpg"
+  image_path: "/assets/images/action-predictive-analytics-world-berlin-2017-8-s.webp"
+  alt: Lukas at Predictive Analytics World, Berlin 2017.
+  title: Predictive Analytics World, Berlin (2017)
+- url: "/assets/images/originals/action-growth-marketing-summit-frankfurt-2019.jpg"
+  image_path: "/assets/images/action-growth-marketing-summit-frankfurt-2019-s.webp"
+  alt: Lukas on stage presenting at Growth Marketing Summit in Frankfurt, 2019.
+  title: Growth Marketing Summit, Frankfurt (2019)
+- url: assets/images/originals/action-conversion-hotel-2019.jpg
+  image_path: assets/images/action-conversion-hotel-2019-s.webp
+  alt: Lukas on stage presenting at Conversion Hotel in the Netherlands, 2019.
+  title: Conversion Hotel, Texel (2019)
+- url: assets/images/originals/action-exp-elite-2023-1.jpg
+  image_path: assets/images/action-exp-elite-2023-1-s.webp
+  alt: Lukas on stage presenting at Exp Elite in Birmingham, 2023.
+  title: Exp Elite, Birmingham (2023)
+- url: assets/images/originals/action-exp-elite-2023-2.jpg
+  image_path: assets/images/action-exp-elite-2023-2-s.webp
+  alt: Lukas on stage presenting at Exp Elite in Birmingham, 2023.
+  title: Exp Elite, Birmingham (2023)
+- url: assets/images/originals/action-nio-summit-2023-1.jpg
+  image_path: assets/images/action-nio-summit-2023-1-s.webp
+  alt: Lukas on stage presenting at NIO Summit in Dallas, 2023.
+  title: NIO Summit, Dallas (2023)
+- url: assets/images/originals/action-nio-summit-2023-2.jpg
+  image_path: assets/images/action-nio-summit-2023-2-s.webp
+  alt: Lukas on stage presenting at NIO Summit in Dallas, 2023.
+  title: NIO Summit, Dallas (2023)
+- url: assets/images/originals/action-experimentation-heroes-2023-1.jpg
+  image_path: assets/images/action-experimentation-heroes-2023-1-s.webp
+  alt: Lukas on stage presenting at Experimentation Heroes in Amsterdam, 2023.
+  title: Experimentation Heroes, Amsterdam (2023)
+- url: assets/images/originals/action-cxl-2024-1.jpg
+  image_path: assets/images/action-cxl-2024-1-s.webp
+  alt: Lukas on stage presenting at CXL in Austin, 2024.
+  title: CXL, Austin (2024)
+- url: assets/images/originals/action-cxl-2024-2.jpg
+  image_path: assets/images/action-cxl-2024-2-s.webp
+  alt: Lukas on stage presenting at CXL in Austin, 2024.
+  title: CXL, Austin (2024)
+- url: assets/images/originals/action-cxl-2024-3.jpg
+  image_path: assets/images/action-cxl-2024-3-s.webp
+  alt: Lukas on stage presenting at CXL in Austin, 2024.
+  title: CXL, Austin (2024)
+- url: assets/images/originals/action-cxl-2024-4.jpg
+  image_path: assets/images/action-cxl-2024-4-s.webp
+  alt: Lukas on stage presenting at CXL in Austin, 2024.
+  title: CXL, Austin (2024)
 ---
 
 {% include feature_row id="intro" type="center" %}

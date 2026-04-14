@@ -1,10 +1,18 @@
 ---
-title: "Power Analysis is Essential: High-Powered Tests Suggest Minimal to No Effect of Rounded Shapes on Click-Through Rates"
+title: 'Power Analysis is Essential: High-Powered Tests Suggest Minimal to No Effect
+  of Rounded Shapes on Click-Through Rates'
 date: 2026-03-31
-tag: ["Paper"]
-categories: ["Paper"]
+tag:
+- Paper
+categories:
+- Paper
 author: Lukas Vermeer
-link: "https://econjwatch.org/articles/power-analysis-is-essential"
+link: https://econjwatch.org/articles/power-analysis-is-essential
+header:
+  alt: 'A teaser image for the Power Analysis is Essential: High-Powered Tests Suggest
+    Minimal to No Effect of Rounded Shapes on Click-Through Rates post.'
+  teaser_alt: 'A teaser image for the Power Analysis is Essential: High-Powered Tests
+    Suggest Minimal to No Effect of Rounded Shapes on Click-Through Rates post.'
 ---
 
 **Abstract:**

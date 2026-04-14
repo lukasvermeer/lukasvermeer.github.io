@@ -1,10 +1,17 @@
 ---
-title: "Snakes on a Two-dimensional Plane"
+title: Snakes on a Two-dimensional Plane
 date: 2010-12-17
-tags: ["Artificial Intelligence","Javascript","Oracle","RTD"]
+tags:
+- Artificial Intelligence
+- Javascript
+- Oracle
+- RTD
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2010/12/17/snakes-on-a-two-dimensional-plane/
+header:
+  alt: A teaser image for the Snakes on a Two-dimensional Plane post.
+  teaser_alt: A teaser image for the Snakes on a Two-dimensional Plane post.
 ---
 
 <span style="color:#bbb;">[This post is based around a very old pet project of mine. I thought it worthwhile to describe this golden oldie some more detail and relate it to my current work.]</span>

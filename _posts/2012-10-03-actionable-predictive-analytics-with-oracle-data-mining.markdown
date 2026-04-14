@@ -1,10 +1,24 @@
 ---
-title: "Actionable Predictive Analytics with Oracle Data Mining"
+title: Actionable Predictive Analytics with Oracle Data Mining
 date: 2012-10-03
-tags: ["analytics","BI","Code","data mining","Database","Datamining","Oracle","RTD","SQL"]
+tags:
+- analytics
+- BI
+- Code
+- data mining
+- Database
+- Datamining
+- Oracle
+- RTD
+- SQL
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/10/03/actionable-predictive-analytics-with-oracle-data-mining/
+header:
+  alt: A teaser image for the Actionable Predictive Analytics with Oracle Data Mining
+    post.
+  teaser_alt: A teaser image for the Actionable Predictive Analytics with Oracle Data
+    Mining post.
 ---
 
 [Oracle Data Mining](http://www.oracle.com/technetwork/database/options/advanced-analytics/odm/index.html) (ODM) provides powerful data mining functionality as native SQL functions within the Oracle Database. This [Oracle By Example Tutorial](http://apex.oracle.com/pls/apex/f?p=44785:24:5873518276883::NO:24:P24_CONTENT_ID,P24_PREV_PAGE:5271,2) gives a good overview of the GUI.

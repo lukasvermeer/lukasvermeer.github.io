@@ -1,13 +1,18 @@
 ---
-title: "Teachers are also forever learning"
+title: Teachers are also forever learning
 date: 2023-02-10
-tags: ["Experimentation", "Teaching", "Hypothesis"]
+tags:
+- Experimentation
+- Teaching
+- Hypothesis
 header:
   image: assets/2023-02-10-teachers-are-also-forever-learning.webp
   overlay_image: assets/2023-02-10-teachers-are-also-forever-learning.webp
   overlay_filter: 0.6
   show_overlay_excerpt: false
   teaser: assets/2023-02-10-teachers-are-also-forever-learning.webp
+  alt: A teaser image for the Teachers are also forever learning post.
+  teaser_alt: A teaser image for the Teachers are also forever learning post.
 ---
 
 This week I learnt that I have been confusing people for years about what a hypothesis really is. A conversation with Erin and Craig helped me understand my mistake (tl;dr I oversimplified, a lot) and [this post by Erin](https://www.linkedin.com/feed/update/urn:li:activity:7029192792186744832/) does a great job of explaining the confusion and why it matters.

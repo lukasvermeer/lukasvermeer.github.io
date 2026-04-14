@@ -1,7 +1,9 @@
 ---
-title: "Avoiding Interaction Effects in Online Experimentation"
+title: Avoiding Interaction Effects in Online Experimentation
 date: 2023-04-04
-tags: ["experimentation", "interaction effects"]
+tags:
+- experimentation
+- interaction effects
 original:
   source_name: Vista DnA Blog
   source_url: https://vista.io/blog/avoiding-interaction-effects-in-online-experimentation
@@ -9,7 +11,14 @@ header:
   overlay_image: assets/2023-04-04-avoiding-interaction-effects-in-online-experimentation-header.webp
   overlay_filter: 0.8
   teaser: assets/2023-04-04-avoiding-interaction-effects-in-online-experimentation-header.webp
-excerpt: 'In the previous post in this series, we defined interaction effects and discussed the potential consequences if they remain undetected. In this post, we will discuss several approaches to avoiding interaction effects and share some tools and processes we use to enable conflict avoidance.'
+  alt: A teaser image for the Avoiding Interaction Effects in Online Experimentation
+    post.
+  teaser_alt: A teaser image for the Avoiding Interaction Effects in Online Experimentation
+    post.
+excerpt: In the previous post in this series, we defined interaction effects and discussed
+  the potential consequences if they remain undetected. In this post, we will discuss
+  several approaches to avoiding interaction effects and share some tools and processes
+  we use to enable conflict avoidance.
 ---
 
 Some may think the ideal solution is never running multiple experiments simultaneously to avoid all possible interactions. However, this is not always feasible and could be prohibitively costly. Moreover, as explained in the previous post, there are occasionally unexpected benefits to detecting interaction effects, meaning avoiding them altogether may not even be desirable.

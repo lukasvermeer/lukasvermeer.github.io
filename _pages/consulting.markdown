@@ -1,43 +1,55 @@
 ---
 layout: splash
-permalink: /consulting/
+permalink: "/consulting/"
 title: Trusted Advisor
-
 header:
   overlay_color: "#000"
-  overlay_filter: "0.6"
-  overlay_image: /assets/images/header-consulting.webp
-  teaser: /assets/images/header-consulting.webp
-  caption: "Marketing Festival, Ostrava (2016)"
-  alt: "Lukas and Craig chatting on stage as part of a Q&A at Marketing Festival in Ostrava, 2016."
-
-excerpt: "Helping clients scale experimentation and avoid common pitfalls."
-
-intro: 
-  - excerpt: "How do we get started with experimentation in our organisation? How can we scale up A/B testing and increase the maturity of our experimentation program? In short but impactful consultation sessions I help clients avoid common pitfalls and ensure that experimentation takes the right place in their company culture."
-
+  overlay_filter: '0.6'
+  overlay_image: "/assets/images/header-consulting.webp"
+  teaser: "/assets/images/header-consulting.webp"
+  caption: Marketing Festival, Ostrava (2016)
+  alt: Lukas and Craig chatting on stage as part of a Q&A at Marketing Festival in
+    Ostrava, 2016.
+  teaser_alt: A teaser image for the Trusted Advisor page.
+excerpt: Helping clients scale experimentation and avoid common pitfalls.
+intro:
+- excerpt: How do we get started with experimentation in our organisation? How can
+    we scale up A/B testing and increase the maturity of our experimentation program?
+    In short but impactful consultation sessions I help clients avoid common pitfalls
+    and ensure that experimentation takes the right place in their company culture.
 feature_row:
-  - image_path: /assets/images/header-2017-pawb5.webp
-    image_caption: "Predictive Analytics World, Berlin (2017)"
-    title: "Office Hours"
-    alt: "Lukas on stage answering questions from the audience at Predictive Analytics World in Berlin, 2017."
-    excerpt: "Ask me anything, and I will do my best to provide actionable answers and meaningful insights. Recurring office hours are a cost effective method for boosting knowlege and efficiency of internal experimentation teams in your company."
-  - image_path: /assets/images/header-2017-dgul2.webp
-    image_caption: "Digital Growth Unleashed, London (2017)"
-    title: "Content Reviews"
-    alt: "Lukas on stage explaining statistics at Digital Growth Unleashed in London, 2017."
-    excerpt: "Drafting a project plan? Creating an educational curriculum? By providing detailed and actionable feedback, I help companies improve their content and develop their in-house skills. This can be done live verbally or asynchronously as comments on a document."
-  - image_path: /assets/images/header-consulting.webp
-    image_caption: "Marketing Festival, Ostrava (2016)"
-    title: "Experimentation Audits"
-    alt: "Lukas and Craig chatting on stage as part of a Q&A at Marketing Festival in Ostrava, 2016."
-    excerpt: "In collaboration with other leading industry experts such as [Craig Sullivan](https://www.linkedin.com/in/craigsullivan/) and [Ben Labay](https://www.linkedin.com/in/benlabay/) I support more extensive experimentation audits. Based on company-wide surveys and interviews we provide companies with a pragmatic plan to evolve their maturity."
-
+- image_path: "/assets/images/header-2017-pawb5.webp"
+  image_caption: Predictive Analytics World, Berlin (2017)
+  title: Office Hours
+  alt: Lukas on stage answering questions from the audience at Predictive Analytics
+    World in Berlin, 2017.
+  excerpt: Ask me anything, and I will do my best to provide actionable answers and
+    meaningful insights. Recurring office hours are a cost effective method for boosting
+    knowlege and efficiency of internal experimentation teams in your company.
+- image_path: "/assets/images/header-2017-dgul2.webp"
+  image_caption: Digital Growth Unleashed, London (2017)
+  title: Content Reviews
+  alt: Lukas on stage explaining statistics at Digital Growth Unleashed in London,
+    2017.
+  excerpt: Drafting a project plan? Creating an educational curriculum? By providing
+    detailed and actionable feedback, I help companies improve their content and develop
+    their in-house skills. This can be done live verbally or asynchronously as comments
+    on a document.
+- image_path: "/assets/images/header-consulting.webp"
+  image_caption: Marketing Festival, Ostrava (2016)
+  title: Experimentation Audits
+  alt: Lukas and Craig chatting on stage as part of a Q&A at Marketing Festival in
+    Ostrava, 2016.
+  excerpt: In collaboration with other leading industry experts such as Craig Sullivan
+    and Ben Labay I support more extensive
+    experimentation audits. Based on company-wide surveys and interviews we provide
+    companies with a pragmatic plan to evolve their maturity.
 pricing:
-  - image_path: /assets/images/header-2017-pawb7.webp
-    image_caption: "Predictive Analytics World, Berlin (2017)"
-    title: "Pricing"
-    excerpt: 'I charge a flat hourly rate starting from &euro;1.000,- excluding VAT.'
+- image_path: "/assets/images/header-2017-pawb7.webp"
+  image_caption: Predictive Analytics World, Berlin (2017)
+  title: Pricing
+  excerpt: I charge a flat hourly rate starting from &euro;1.000,- excluding VAT.
+  alt: An image for the Pricing section.
 ---
 
 {% include feature_row id="intro" type="center" %}

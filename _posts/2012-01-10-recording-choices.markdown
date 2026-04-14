@@ -1,10 +1,22 @@
 ---
-title: "Recording Events"
+title: Recording Events
 date: 2012-01-10
-tags: ["choices","Code","implementation","Java","Oracle","performance","recording","RTD","rtd"]
+tags:
+- choices
+- Code
+- implementation
+- Java
+- Oracle
+- performance
+- recording
+- RTD
+- rtd
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/01/10/recording-choices/
+header:
+  alt: A teaser image for the Recording Events post.
+  teaser_alt: A teaser image for the Recording Events post.
 ---
 
 <span style="color:#bbb;">[ [Crossposting](http://en.wikipedia.org/wiki/Crossposting) here [from](http://blogs.oracle.com/rtd/en/entry/recording_choices) the [Oracle Real-Time Decisions Blog ](http://blogs.oracle.com/rtd/)where I have been [invited](http://blogs.oracle.com/rtd/en/entry/introducing_lukas_vermeer) to contribute. ]</span>

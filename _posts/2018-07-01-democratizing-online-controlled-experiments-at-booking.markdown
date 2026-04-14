@@ -1,11 +1,19 @@
 ---
-title: "Democratizing online controlled experiments at Booking.com"
+title: Democratizing online controlled experiments at Booking.com
 date: 2018-07-01
 categories: papers
-tag: ["Paper"]
-summary: "We describe the experimentation infrastructure and culture at Booking.com, and how democratizing online controlled experiments has enabled rapid innovation and learning at scale."
+tag:
+- Paper
+summary: We describe the experimentation infrastructure and culture at Booking.com,
+  and how democratizing online controlled experiments has enabled rapid innovation
+  and learning at scale.
 author: Lukas Vermeer
-link: "https://arxiv.org/abs/1710.08217"
+link: https://arxiv.org/abs/1710.08217
+header:
+  alt: A teaser image for the Democratizing online controlled experiments at Booking.com
+    post.
+  teaser_alt: A teaser image for the Democratizing online controlled experiments at
+    Booking.com post.
 ---
 
 **Abstract:**

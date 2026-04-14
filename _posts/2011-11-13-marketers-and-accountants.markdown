@@ -1,10 +1,14 @@
 ---
-title: "Marketers and Accountants"
+title: Marketers and Accountants
 date: 2011-11-13
-tags: ["Marketing"]
+tags:
+- Marketing
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2011/11/13/marketers-and-accountants/
+header:
+  alt: A teaser image for the Marketers and Accountants post.
+  teaser_alt: A teaser image for the Marketers and Accountants post.
 ---
 
 [Seth Godin](http://en.wikipedia.org/wiki/Seth_Godin) on the topic of perception, memory and marketing [concludes](http://sethgodin.typepad.com/seths_blog/2011/10/memories-of-bitterness.html).

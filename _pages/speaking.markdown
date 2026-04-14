@@ -1,47 +1,62 @@
 ---
 layout: splash
-permalink: /speaking/
-
+permalink: "/speaking/"
 title: Keynote Speaker
 header:
   overlay_color: "#000"
-  overlay_filter: "0.6"
-  overlay_image: /assets/images/header-bg.webp
-  caption: "Growth Marketing Summit, Frankfurt (2019)"
-  alt: "Lukas on stage presenting at Growth Marketing Summit in Frankfurt, 2019"
-excerpt: "Explaining experimentation for everyone to understand."
-
-intro: 
-  - excerpt: "Statistics sounds scary, but it doesn't have to be. By explaining statistical concepts through compelling stories and concrete examples, I make statistics accessible for any audience. Through practical examples and live simulations, I help audiences understand how data can be used to gain valuable insights and support key business decisions."
-
+  overlay_filter: '0.6'
+  overlay_image: "/assets/images/header-bg.webp"
+  caption: Growth Marketing Summit, Frankfurt (2019)
+  alt: Lukas on stage presenting at Growth Marketing Summit in Frankfurt, 2019
+  teaser_alt: A teaser image for the Keynote Speaker page.
+excerpt: Explaining experimentation for everyone to understand.
+intro:
+- excerpt: Statistics sounds scary, but it doesn't have to be. By explaining statistical
+    concepts through compelling stories and concrete examples, I make statistics accessible
+    for any audience. Through practical examples and live simulations, I help audiences
+    understand how data can be used to gain valuable insights and support key business
+    decisions.
 feature_row:
-  - image_path: /assets/images/header-data.webp
-    image_caption: "Marketing Festival, Ostrava (2016)"
-    title: "Data"
-    excerpt: "Big Data or Small Data; all data tells a story. Through practical examples and live simulations, I help the audience understand how data can be used to gain valuable insights."
-  - image_path: /assets/images/header-science.webp
-    image_caption: "Predictive Analytics World, Berlin (2017)"
-    title: "Science"
-    excerpt: "Doing science might seem straightforward, but the devil is in the details. I use historical narratives to illustrate the numerous practical pitfalls involved in applying the Scientific Method."
-  - image_path: /assets/images/action-booking-data-science-meetup-amsterdam-2017-s.webp
-    image_caption: "Booking Data Science Meetup, Amsterdam (2017)"
-    title: "Statistics"
-    excerpt: "Statistics sounds scary, but it doesn't have to be. By explaining statistical concepts through compelling stories and concrete examples, I make statistics accessible for any audience."
-
+- image_path: "/assets/images/header-data.webp"
+  image_caption: Marketing Festival, Ostrava (2016)
+  title: Data
+  excerpt: Big Data or Small Data; all data tells a story. Through practical examples
+    and live simulations, I help the audience understand how data can be used to gain
+    valuable insights.
+  alt: An image for the Data section.
+- image_path: "/assets/images/header-science.webp"
+  image_caption: Predictive Analytics World, Berlin (2017)
+  title: Science
+  excerpt: Doing science might seem straightforward, but the devil is in the details.
+    I use historical narratives to illustrate the numerous practical pitfalls involved
+    in applying the Scientific Method.
+  alt: An image for the Science section.
+- image_path: "/assets/images/action-booking-data-science-meetup-amsterdam-2017-s.webp"
+  image_caption: Booking Data Science Meetup, Amsterdam (2017)
+  title: Statistics
+  excerpt: Statistics sounds scary, but it doesn't have to be. By explaining statistical
+    concepts through compelling stories and concrete examples, I make statistics accessible
+    for any audience.
+  alt: An image for the Statistics section.
 pricing:
-  - image_path: /assets/images/action-marketing-festival-ostrava-2016-1-s.webp
-    image_caption: "Marketing Festival, Ostrava (2016)"
-    title: "Pricing"
-    excerpt: 'Speaking fee for an in-person 60-minute presentation including Q&A using existing or lightly altered content starting from &euro;10.000,- excluding VAT and travel depending on the nature of the event and the amount of travel involved. There is a 50% discount for virtual events.'
-
+- image_path: "/assets/images/action-marketing-festival-ostrava-2016-1-s.webp"
+  image_caption: Marketing Festival, Ostrava (2016)
+  title: Pricing
+  excerpt: Speaking fee for an in-person 60-minute presentation including Q&A using
+    existing or lightly altered content starting from &euro;10.000,- excluding VAT
+    and travel depending on the nature of the event and the amount of travel involved.
+    There is a 50% discount for virtual events.
+  alt: An image for the Pricing section.
 mediakit:
-  - image_path: /assets/images/header-2017-pawb7-s.webp
-    image_caption: "Predictive Analytics World, Berlin (2017)"
-    title: "Speaker media kit"
-    excerpt: 'Curious to learn more about me? Your audience will be too! That is why I have prepared this speaker media kit with all the information you might need to advertise that I am speaking at your event.'
-    url: "speaking/mediakit/"
-    btn_label: "Get the media kit &#8594;"
-    btn_class: "btn--primary"
+- image_path: "/assets/images/header-2017-pawb7-s.webp"
+  image_caption: Predictive Analytics World, Berlin (2017)
+  title: Speaker media kit
+  excerpt: Curious to learn more about me? Your audience will be too! That is why
+    I have prepared this speaker media kit with all the information you might need
+    to advertise that I am speaking at your event.
+  url: speaking/mediakit/
+  btn_label: Get the media kit &#8594;
+  btn_class: btn--primary
 ---
 
 {% include feature_row id="intro" type="center" %}

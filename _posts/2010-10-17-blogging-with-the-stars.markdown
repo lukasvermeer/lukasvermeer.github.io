@@ -1,10 +1,15 @@
 ---
-title: "Blogging with the Stars"
+title: Blogging with the Stars
 date: 2010-10-17
-tags: ["Meta","Statistics"]
+tags:
+- Meta
+- Statistics
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2010/10/17/blogging-with-the-stars/
+header:
+  alt: A teaser image for the Blogging with the Stars post.
+  teaser_alt: A teaser image for the Blogging with the Stars post.
 ---
 
 I [started a blog](http://lukasvermeer.wordpress.com/2010/05/04/its-about-time-i-started-a-blog/) because I wanted to improve my writing skills; and thought I had something to say. You, as a reader can help me figure out how I am doing by rating each post (preferably after you've actually read it) on a five star scale.

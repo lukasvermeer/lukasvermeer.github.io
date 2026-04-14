@@ -1,10 +1,19 @@
 ---
-title: "Marketing Personalization and the Uncanny Valley"
+title: Marketing Personalization and the Uncanny Valley
 date: 2012-02-02
-tags: ["Marketing","marketing","personalization","Psychology","uncanny valley"]
+tags:
+- Marketing
+- marketing
+- personalization
+- Psychology
+- uncanny valley
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/02/02/marketing-personalization-and-the-uncanny-valley/
+header:
+  alt: A teaser image for the Marketing Personalization and the Uncanny Valley post.
+  teaser_alt: A teaser image for the Marketing Personalization and the Uncanny Valley
+    post.
 ---
 
 Dear `[prospect.first_name]`,

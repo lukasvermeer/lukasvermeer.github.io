@@ -1,10 +1,19 @@
 ---
-title: "Art-Rock Allegory"
+title: Art-Rock Allegory
 date: 2012-05-13
-tags: ["allegory","art-rock","biology","evolution","Meta","species"]
+tags:
+- allegory
+- art-rock
+- biology
+- evolution
+- Meta
+- species
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/05/13/art-rock-allegory/
+header:
+  alt: A teaser image for the Art-Rock Allegory post.
+  teaser_alt: A teaser image for the Art-Rock Allegory post.
 ---
 
 Contrary to what it may seem like, I have been busy writing; just not for this particular blog.

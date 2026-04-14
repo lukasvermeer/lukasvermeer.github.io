@@ -1,14 +1,20 @@
 ---
-title: "Experimentation Masters Podcast"
+title: Experimentation Masters Podcast
 date: 2023-02-10
-tags: ["Experimentation", "Podcast", "Interview"]
-categories: ["Podcast"]
+tags:
+- Experimentation
+- Podcast
+- Interview
+categories:
+- Podcast
 header:
   image: assets/2023-02-10-experimentation-masters-podcast.webp
   overlay_image: assets/2023-02-10-experimentation-masters-podcast.webp
   overlay_filter: 0.6
   show_overlay_excerpt: false
   teaser: assets/2023-02-10-experimentation-masters-podcast.webp
+  alt: A teaser image for the Experimentation Masters Podcast post.
+  teaser_alt: A teaser image for the Experimentation Masters Podcast post.
 ---
 
 I was interviewed for the [Experimentation Masters](https://www.firstprinciples.ventures/ep014-lukas-vermeer-a-global-leader-in-online-experimentation) podcast.

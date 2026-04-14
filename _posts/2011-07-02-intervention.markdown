@@ -1,10 +1,14 @@
 ---
-title: "Intervention"
+title: Intervention
 date: 2011-07-02
-tags: ["Meta"]
+tags:
+- Meta
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2011/07/02/intervention/
+header:
+  alt: A teaser image for the Intervention post.
+  teaser_alt: A teaser image for the Intervention post.
 ---
 
 It's been a while. [Too long](http://www.wolframalpha.com/input/?i=May+7%2C+2011+to+Juli+2%2C+2011), to be precise. I [did not forget](http://lukasvermeer.wordpress.com/2010/10/15/the-curse-of-getting-things-done/), I've simply been postponing writing anything for this blog for days on end. Not that I've been sitting still, doing nothing. I don't think I could, even if I tried. Just that I did not take the time to write about any of it here.

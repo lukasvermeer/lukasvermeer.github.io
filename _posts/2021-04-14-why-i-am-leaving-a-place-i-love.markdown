@@ -1,10 +1,17 @@
 ---
-title: "Why I am leaving a place I love"
+title: Why I am leaving a place I love
 date: 2021-04-14
-tags: ["personal growth","life lessons","philosophy","carreer change"]
+tags:
+- personal growth
+- life lessons
+- philosophy
+- carreer change
 original:
   source_name: Medium
   source_url: https://lukasvermeer.medium.com/why-i-am-leaving-a-place-i-love-4046808d9300
+header:
+  alt: A teaser image for the Why I am leaving a place I love post.
+  teaser_alt: A teaser image for the Why I am leaving a place I love post.
 ---
 
 **FOMO made me do it**

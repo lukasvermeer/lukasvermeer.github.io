@@ -1,10 +1,18 @@
 ---
-title: "A/B testing intuition busters: Common misunderstandings in online controlled experiments"
+title: 'A/B testing intuition busters: Common misunderstandings in online controlled
+  experiments'
 date: 2022-08-14
-tag: ["Paper"]
-categories: ["Paper"]
+tag:
+- Paper
+categories:
+- Paper
 author: Lukas Vermeer
-link: "https://exp-platform.com/abtestingintuitionbusters/"
+link: https://exp-platform.com/abtestingintuitionbusters/
+header:
+  alt: 'A teaser image for the A/B testing intuition busters: Common misunderstandings
+    in online controlled experiments post.'
+  teaser_alt: 'A teaser image for the A/B testing intuition busters: Common misunderstandings
+    in online controlled experiments post.'
 ---
 
 **Abstract:**

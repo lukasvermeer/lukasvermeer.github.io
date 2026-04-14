@@ -1,14 +1,20 @@
 ---
-title: "1,000 Experiments Club"
+title: 1,000 Experiments Club
 date: 2022-01-11
-tags: ["Experimentation", "Podcast", "Interview"]
-categories: ["Podcast"]
+tags:
+- Experimentation
+- Podcast
+- Interview
+categories:
+- Podcast
 header:
   image: assets/2022-01-11-1000-experiments-club.webp
   overlay_image: assets/2022-01-11-1000-experiments-club.webp
   overlay_filter: 0.6
   show_overlay_excerpt: false
   teaser: assets/2022-01-11-1000-experiments-club.webp
+  alt: A teaser image for the 1,000 Experiments Club post.
+  teaser_alt: A teaser image for the 1,000 Experiments Club post.
 ---
 
 I was interviewed for the [1,000 Experiments Club](https://www.abtasty.com/blog/1000-experiments-club-lukas-vermeer/) podcast.

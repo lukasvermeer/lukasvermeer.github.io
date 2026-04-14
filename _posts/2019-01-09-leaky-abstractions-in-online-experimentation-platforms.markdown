@@ -1,10 +1,19 @@
 ---
-title: "Leaky Abstractions In Online Experimentation Platforms"
+title: Leaky Abstractions In Online Experimentation Platforms
 date: 2019-01-09
-tags: ["data science","experimentation","software development","statistics"]
+tags:
+- data science
+- experimentation
+- software development
+- statistics
 original:
   source_name: Medium
   source_url: https://booking.ai/leaky-abstractions-in-online-experimentation-platforms-ae4cf05013f9
+header:
+  alt: A teaser image for the Leaky Abstractions In Online Experimentation Platforms
+    post.
+  teaser_alt: A teaser image for the Leaky Abstractions In Online Experimentation
+    Platforms post.
 ---
 
 **Categorising Common Challenges**

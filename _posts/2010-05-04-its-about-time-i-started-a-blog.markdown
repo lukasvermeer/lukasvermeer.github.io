@@ -1,10 +1,14 @@
 ---
-title: "It's about time I started a blog."
+title: It's about time I started a blog.
 date: 2010-05-04
-tags: ["Meta"]
+tags:
+- Meta
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2010/05/04/its-about-time-i-started-a-blog/
+header:
+  alt: A teaser image for the It's about time I started a blog. post.
+  teaser_alt: A teaser image for the It's about time I started a blog. post.
 ---
 
 It crossed my mind before, but I never felt I had anything to say. I want that to change.

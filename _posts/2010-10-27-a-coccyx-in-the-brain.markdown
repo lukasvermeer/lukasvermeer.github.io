@@ -1,10 +1,16 @@
 ---
-title: "a Coccyx in the Brain"
+title: a Coccyx in the Brain
 date: 2010-10-27
-tags: ["Mathematics","Psychology","Statistics"]
+tags:
+- Mathematics
+- Psychology
+- Statistics
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2010/10/27/a-coccyx-in-the-brain/
+header:
+  alt: A teaser image for the a Coccyx in the Brain post.
+  teaser_alt: A teaser image for the a Coccyx in the Brain post.
 ---
 
 You might not realize it, but your brain is running some pretty wonky [legacy code](http://en.wikipedia.org/wiki/Legacy_system). Stuff that worked fine [back in the day](http://en.wikipedia.org/wiki/Prehistory), but is not very well suited for the challenges of modern life. Let me give you an example.

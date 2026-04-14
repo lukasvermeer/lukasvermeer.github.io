@@ -1,10 +1,17 @@
 ---
-title: "Choosing my own adventure"
+title: Choosing my own adventure
 date: 2021-06-01
-tags: ["personal growth", "life lessons", "philosophy", "career change"]
+tags:
+- personal growth
+- life lessons
+- philosophy
+- career change
 original:
   source_name: Medium
   source_url: https://lukasvermeer.medium.com/choosing-my-own-adventure-53de8dd96360
+header:
+  alt: A teaser image for the Choosing my own adventure post.
+  teaser_alt: A teaser image for the Choosing my own adventure post.
 ---
 
 **Three things I wanted to experience in my next job**

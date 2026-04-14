@@ -1,10 +1,16 @@
 ---
-title: "Benford's Law Revised"
+title: Benford's Law Revised
 date: 2010-06-16
-tags: ["Javascript","Mathematics","Statistics"]
+tags:
+- Javascript
+- Mathematics
+- Statistics
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2010/06/16/benfords-law-revised/
+header:
+  alt: A teaser image for the Benford's Law Revised post.
+  teaser_alt: A teaser image for the Benford's Law Revised post.
 ---
 
 After posting [my previous article](http://lukasvermeer.wordpress.com/2010/05/24/benfords-law/) I started wondering why my transactional data contained a disproportional amount of twos. _Something_ must be distorting the natural spread of first digits that Benford predicts. Later, while discussing this aberration with a friend, I finally figured it out.

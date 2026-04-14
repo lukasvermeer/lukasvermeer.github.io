@@ -1,10 +1,17 @@
 ---
-title: "Future Felony"
+title: Future Felony
 date: 2012-09-17
-tags: ["Artificial Intelligence","driverless car","future","science fiction"]
+tags:
+- Artificial Intelligence
+- driverless car
+- future
+- science fiction
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/09/17/1433/
+header:
+  alt: A teaser image for the Future Felony post.
+  teaser_alt: A teaser image for the Future Felony post.
 ---
 
 Written by [Arthur C. Clarke](http://en.wikipedia.org/wiki/Arthur_C._Clarke) in 1976, [Imperial Earth](http://en.wikipedia.org/wiki/Imperial_Earth) is set in faraway 2276.

@@ -1,10 +1,15 @@
 ---
-title: "Think Big, Start Small"
+title: Think Big, Start Small
 date: 2011-11-21
-tags: ["Oracle","Psychology"]
+tags:
+- Oracle
+- Psychology
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2011/11/21/think-big-start-small/
+header:
+  alt: A teaser image for the Think Big, Start Small post.
+  teaser_alt: A teaser image for the Think Big, Start Small post.
 ---
 
 [I ran into](https://plus.google.com/106518479241050228896/posts/KUGBw4y3jtQ) [the boss](http://www.linkedin.com/pub/maurizio-bobbio/0/a29/715) of the boss of the boss of the boss of my boss at [London City Airport](http://www.londoncityairport.com/). He did not recognize me of course; there are quite a few Oracle consultants in Europe apart from myself. But once properly introduced, he offered to buy me a drink so we could have a chat while we waited for our flights.

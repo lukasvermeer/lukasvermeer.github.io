@@ -1,10 +1,14 @@
 ---
-title: "Back To Back"
+title: Back To Back
 date: 2011-11-16
-tags: ["Android"]
+tags:
+- Android
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2011/11/16/back-to-back/
+header:
+  alt: A teaser image for the Back To Back post.
+  teaser_alt: A teaser image for the Back To Back post.
 ---
 
 [Gruber](http://en.wikipedia.org/wiki/John_Gruber) [asserts](http://daringfireball.net/linked/2011/10/25/back-button).

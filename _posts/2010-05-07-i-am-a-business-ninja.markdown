@@ -1,10 +1,15 @@
 ---
-title: "I am a Corporate Ninja"
+title: I am a Corporate Ninja
 date: 2010-05-07
-tags: ["BI","Oracle"]
+tags:
+- BI
+- Oracle
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2010/05/07/i-am-a-business-ninja/
+header:
+  alt: A teaser image for the I am a Corporate Ninja post.
+  teaser_alt: A teaser image for the I am a Corporate Ninja post.
 ---
 
 At first, the term [Business Intelligence](http://en.wikipedia.org/wiki/Business_intelligence) (abbr. BI) had me a bit confused. Contrary to my initial interpretation, BI does not concern the mental acuity of corporations or their employees[^1].

@@ -1,10 +1,16 @@
 ---
-title: "Benford's Law"
+title: Benford's Law
 date: 2010-05-24
-tags: ["Javascript","Mathematics","Statistics"]
+tags:
+- Javascript
+- Mathematics
+- Statistics
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2010/05/24/benfords-law/
+header:
+  alt: A teaser image for the Benford's Law post.
+  teaser_alt: A teaser image for the Benford's Law post.
 ---
 
 In a (not so) recent [episode](http://www.wnyc.org/shows/radiolab/episodes/2009/10/09/segments/137643) of [Radio Lab](http://www.wnyc.org/shows/radiolab/) (one of my favorite podcasts) I was introduced to [Benford's Law](http://en.wikipedia.org/wiki/Benford). I'd never heard of this phenomenon, which in hindsight is rather strange, because it's effects are so profound. Let me explain.

@@ -1,14 +1,20 @@
 ---
-title: "growth-minded SUPERHEROES"
+title: growth-minded SUPERHEROES
 date: 2024-12-02
-tags: ["Experimentation", "Podcast", "Interview"]
-categories: ["Podcast"]
+tags:
+- Experimentation
+- Podcast
+- Interview
+categories:
+- Podcast
 header:
   image: assets/2024-12-03-growth-minded-SUPERHEROES-podcast.webp
   overlay_image: assets/2024-12-03-growth-minded-SUPERHEROES-podcast.webp
   overlay_filter: 0.6
   show_overlay_excerpt: false
   teaser: assets/2024-12-03-growth-minded-SUPERHEROES-podcast.webp
+  alt: A teaser image for the growth-minded SUPERHEROES post.
+  teaser_alt: A teaser image for the growth-minded SUPERHEROES post.
 ---
 
 I was interviewed for the [growth-minded SUPERHEROES](https://open.spotify.com/episode/2Z7HV9nPpCFKNwTWJioCY3?si=vBe733caSLKMkr41HUzYaA) podcast.

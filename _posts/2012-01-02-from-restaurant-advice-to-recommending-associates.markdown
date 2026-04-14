@@ -1,10 +1,20 @@
 ---
-title: "From Restaurant Advice To Recommending Associates"
+title: From Restaurant Advice To Recommending Associates
 date: 2012-01-02
-tags: ["appraisals","aspiration","learnings","Meta","Psychology","vocabulary"]
+tags:
+- appraisals
+- aspiration
+- learnings
+- Meta
+- Psychology
+- vocabulary
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/01/02/from-restaurant-advice-to-recommending-associates/
+header:
+  alt: A teaser image for the From Restaurant Advice To Recommending Associates post.
+  teaser_alt: A teaser image for the From Restaurant Advice To Recommending Associates
+    post.
 ---
 
 After [writing restaurant reviews](http://maps.google.com/maps/user?uid=203829841339053400258&ptab=1&hl=en) for about a year, I've decided to apply my carefully whetted literary prowess to a new type of assessment: [recommending people](http://learn.linkedin.com/profiles/recommendations/).

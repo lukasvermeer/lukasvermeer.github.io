@@ -1,10 +1,18 @@
 ---
-title: "Relevance is Irrelevant"
+title: Relevance is Irrelevant
 date: 2012-05-28
-tags: ["Datamining","Marketing","recommendation engine","relevance","RTD"]
+tags:
+- Datamining
+- Marketing
+- recommendation engine
+- relevance
+- RTD
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/05/28/relevance-is-irrelevant/
+header:
+  alt: A teaser image for the Relevance is Irrelevant post.
+  teaser_alt: A teaser image for the Relevance is Irrelevant post.
 ---
 
 Without fail, a company will employ a recommendation engine for a purpose (nobody does this for fun, really). Often, that purpose is profit (or something along those line). For most companies, 'relevance' is irrelevant (no pun intended).

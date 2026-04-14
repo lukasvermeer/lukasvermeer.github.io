@@ -1,10 +1,21 @@
 ---
-title: "Why Metrics Matter"
+title: Why Metrics Matter
 date: 2012-01-03
-tags: ["analytics","marketeers","Marketing","metrics","paradox of choice","Psychology","RTD","Statistics"]
+tags:
+- analytics
+- marketeers
+- Marketing
+- metrics
+- paradox of choice
+- Psychology
+- RTD
+- Statistics
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/01/03/why-metrics-matter/
+header:
+  alt: A teaser image for the Why Metrics Matter post.
+  teaser_alt: A teaser image for the Why Metrics Matter post.
 ---
 
 [Daring Fireball](http://daringfireball.net/linked/2011/12/14/too-many-choices) quotes some interesting [research findings](http://bigthink.com/ideas/19529) related to what [Barry Schwartz](http://www.swarthmore.edu/SocSci/bschwar1/) dubbed [The Paradox Of Choice](http://www.amazon.co.uk/Paradox-Choice-Why-More-Less/dp/0060005696).

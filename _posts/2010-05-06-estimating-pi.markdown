@@ -1,10 +1,18 @@
 ---
-title: "Estimating Pi"
+title: Estimating Pi
 date: 2010-05-06
-tags: ["Code","Mathematics","Perl","Pseudo","Statistics"]
+tags:
+- Code
+- Mathematics
+- Perl
+- Pseudo
+- Statistics
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2010/05/06/estimating-pi/
+header:
+  alt: A teaser image for the Estimating Pi post.
+  teaser_alt: A teaser image for the Estimating Pi post.
 ---
 
 <span style="color:#bbb;">[I've [tweeted ](http://twitter.com/lukasvermeer/status/9197883776)about [this](http://twitter.com/lukasvermeer/status/9197886895) before, but I feel the need to explain.]</span>

@@ -1,10 +1,19 @@
 ---
-title: "Understanding Mechanisms of Change in Online Experiments at Booking.com"
+title: Understanding Mechanisms of Change in Online Experiments at Booking.com
 date: 2019-07-16
-tags: ["data science","experimentation","a/b testing","mediation"]
+tags:
+- data science
+- experimentation
+- a/b testing
+- mediation
 original:
   source_name: Medium
   source_url: https://booking.ai/understanding-mechanisms-of-change-in-online-experiments-at-booking-com-629201ec74ee
+header:
+  alt: A teaser image for the Understanding Mechanisms of Change in Online Experiments
+    at Booking.com post.
+  teaser_alt: A teaser image for the Understanding Mechanisms of Change in Online
+    Experiments at Booking.com post.
 ---
 
 **Mediation Analysis to Disentangle Direct and Indirect Effects**

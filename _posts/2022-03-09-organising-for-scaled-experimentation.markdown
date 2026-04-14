@@ -1,7 +1,11 @@
 ---
-title: "Organising for scaled experimentation"
+title: Organising for scaled experimentation
 date: 2022-03-09
-tags: ["experimentation", "mission", "vision", "organisation"]
+tags:
+- experimentation
+- mission
+- vision
+- organisation
 original:
   source_name: Vista DnA Blog
   source_url: https://vista.io/blog/organising-for-scaled-experimentation
@@ -9,7 +13,11 @@ header:
   overlay_image: assets/2022-03-09-diagram.jpeg
   overlay_filter: 0.8
   teaser: assets/2022-03-09-diagram.jpeg
-excerpt: 'The Experimentation Hub is central to our strategy, but it alone is not sufficient to scale experimentation across our organisation. We will describe the hybrid approach we are taking to foster and support a culture of experimentation.'
+  alt: A teaser image for the Organising for scaled experimentation post.
+  teaser_alt: A teaser image for the Organising for scaled experimentation post.
+excerpt: The Experimentation Hub is central to our strategy, but it alone is not sufficient
+  to scale experimentation across our organisation. We will describe the hybrid approach
+  we are taking to foster and support a culture of experimentation.
 ---
 
 *Written by Lukas Vermeer and Flavio De Souza.*

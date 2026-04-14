@@ -1,10 +1,18 @@
 ---
-title: "Gmail Inbox is my to-do-list"
+title: Gmail Inbox is my to-do-list
 date: 2020-07-07
-tags: ["gmail","getting things done","tips and tricks","to do list","email"]
+tags:
+- gmail
+- getting things done
+- tips and tricks
+- to do list
+- email
 original:
   source_name: Medium
   source_url: https://medium.com/@lukasvermeer/gmail-inbox-is-my-to-do-list-cb883a8c3073
+header:
+  alt: A teaser image for the Gmail Inbox is my to-do-list post.
+  teaser_alt: A teaser image for the Gmail Inbox is my to-do-list post.
 ---
 
 **How I learnt to stop worrying and made the inbox-as-to-do-list approach work for me.**

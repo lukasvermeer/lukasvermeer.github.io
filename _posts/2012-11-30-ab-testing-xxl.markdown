@@ -1,10 +1,18 @@
 ---
-title: "A/B Testing XXL"
+title: A/B Testing XXL
 date: 2012-11-30
-tags: ["Marketing","marketing","optimisation","Psychology","testing"]
+tags:
+- Marketing
+- marketing
+- optimisation
+- Psychology
+- testing
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/11/30/ab-testing-xxl/
+header:
+  alt: A teaser image for the A/B Testing XXL post.
+  teaser_alt: A teaser image for the A/B Testing XXL post.
 ---
 
 <span style="color:#bbb;">[I've [tweeted about this before](http://twitter.com/lukasvermeer/status/273360780538281985).]</span>

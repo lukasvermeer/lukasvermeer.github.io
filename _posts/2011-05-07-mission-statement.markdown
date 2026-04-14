@@ -1,10 +1,15 @@
 ---
-title: "Mission Statement"
+title: Mission Statement
 date: 2011-05-07
-tags: ["Artificial Intelligence","Psychology"]
+tags:
+- Artificial Intelligence
+- Psychology
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2011/05/07/mission-statement/
+header:
+  alt: A teaser image for the Mission Statement post.
+  teaser_alt: A teaser image for the Mission Statement post.
 ---
 
 After reading [Performance Leadership](http://www.frankbuytendijk.com/performanceleadership.htm) by [Frank Buytendijk](http://www.frankbuytendijk.com/) it occurred to me that a good [mission statement](http://en.wikipedia.org/wiki/Mission_statement) might not only be beneficial for organizations. The same idea could also be applied to people.

@@ -1,9 +1,15 @@
 ---
-title: "Experimentation growth: Evolving trustworthy A/B testing capabilities in online software companies"
+title: 'Experimentation growth: Evolving trustworthy A/B testing capabilities in online
+  software companies'
 date: 2018-11-05
 categories: papers
 author: Lukas Vermeer
-link: "https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2113"
+link: https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2113
+header:
+  alt: 'A teaser image for the Experimentation growth: Evolving trustworthy A/B testing
+    capabilities in online software companies post.'
+  teaser_alt: 'A teaser image for the Experimentation growth: Evolving trustworthy
+    A/B testing capabilities in online software companies post.'
 ---
 
 Read the full paper: [Experimentation growth: Evolving trustworthy A/B testing capabilities in online software companies](https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2113)

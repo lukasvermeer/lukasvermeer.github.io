@@ -1,7 +1,11 @@
 ---
-title: "Speed is not velocity"
+title: Speed is not velocity
 date: 2023-01-11
-tags: ["Experimentation", "Velocity", "Agile", "Scrum"]
+tags:
+- Experimentation
+- Velocity
+- Agile
+- Scrum
 original:
   source_name: LinkedIn
   source_url: https://www.linkedin.com/posts/lukasvermeer_experimentation-velocity-agile-activity-7018895295996403714-4TFS
@@ -11,6 +15,8 @@ header:
   overlay_filter: 0.6
   show_overlay_excerpt: false
   teaser: assets/2023-01-11-velocity-gtgt-speed.webp
+  alt: A teaser image for the Speed is not velocity post.
+  teaser_alt: A teaser image for the Speed is not velocity post.
 ---
 
 "Won't running all those experiments slow down our product development?" When speaking at conferences, I get this question a lot. And my answer is always the same: yes and no. Let me explain.

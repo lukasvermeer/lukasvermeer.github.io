@@ -1,10 +1,16 @@
 ---
-title: "Data Science: for Fun and for Profit"
+title: 'Data Science: for Fun and for Profit'
 date: 2013-05-17
-tags: ["data science","Data Science","Meta"]
+tags:
+- data science
+- Data Science
+- Meta
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2013/05/17/data-science-for-fun-and-for-profit/
+header:
+  alt: 'A teaser image for the Data Science: for Fun and for Profit post.'
+  teaser_alt: 'A teaser image for the Data Science: for Fun and for Profit post.'
 ---
 
 In the next few weeks I'll be giving two talks on the topic of Data Science at [Xebicon](http://www.xebicon.nl/programma) and [another event](http://datafun.eventbrite.com/) affiliated with [Xebia](http://xebia.com/). There is an abstract of my spiel available on the Xebicon site.

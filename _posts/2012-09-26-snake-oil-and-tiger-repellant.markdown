@@ -1,10 +1,19 @@
 ---
-title: "Snake Oil and Tiger Repellant"
+title: Snake Oil and Tiger Repellant
 date: 2012-09-26
-tags: ["Big Data","big data","data science","Datamining","scientific control","Statistics"]
+tags:
+- Big Data
+- big data
+- data science
+- Datamining
+- scientific control
+- Statistics
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/09/26/snake-oil-and-tiger-repellant/
+header:
+  alt: A teaser image for the Snake Oil and Tiger Repellant post.
+  teaser_alt: A teaser image for the Snake Oil and Tiger Repellant post.
 ---
 
 The Wall Street Journal has [an interesting article](http://online.wsj.com/article/SB10000872396390443890304578006252019616768.html) explaining how companies are starting to use (big) data to support their recruiting efforts. It provides a good example of the more general trend in businesses towards evidence-based decisioning and [data science](http://radar.oreilly.com/2010/06/what-is-data-science.html), but it also shows how some crucial aspects of these techniques are easily overlooked or oversimplified.

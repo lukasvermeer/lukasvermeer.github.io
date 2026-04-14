@@ -1,10 +1,16 @@
 ---
-title: "Come on. Learn!"
+title: Come on. Learn!
 date: 2011-07-10
-tags: ["Marketing","Oracle","RTD"]
+tags:
+- Marketing
+- Oracle
+- RTD
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2011/07/10/come-on-learn/
+header:
+  alt: A teaser image for the Come on. Learn! post.
+  teaser_alt: A teaser image for the Come on. Learn! post.
 ---
 
 > 3: Gratuitous use of Flash.> 

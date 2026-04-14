@@ -1,10 +1,20 @@
 ---
-title: "Big Data is Big"
+title: Big Data is Big
 date: 2012-02-23
-tags: ["Big Data","big data","big data appliance","cloudera","hadoop","Oracle","oracle"]
+tags:
+- Big Data
+- big data
+- big data appliance
+- cloudera
+- hadoop
+- Oracle
+- oracle
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/02/23/big-data-is-big/
+header:
+  alt: A teaser image for the Big Data is Big post.
+  teaser_alt: A teaser image for the Big Data is Big post.
 ---
 
 ![Disks in the Big Data Appliance]({{site.baseurl}}{% link assets/2012-02-23-big-data-is-big-img_1200.jpg %})

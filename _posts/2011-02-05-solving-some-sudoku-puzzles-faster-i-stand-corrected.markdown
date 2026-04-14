@@ -1,10 +1,16 @@
 ---
-title: "Solving Some Sudoku Puzzles Faster (I Stand Corrected)"
+title: Solving Some Sudoku Puzzles Faster (I Stand Corrected)
 date: 2011-02-05
-tags: ["Mathematics"]
+tags:
+- Mathematics
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2011/02/05/solving-some-sudoku-puzzles-faster-i-stand-corrected/
+header:
+  alt: A teaser image for the Solving Some Sudoku Puzzles Faster (I Stand Corrected)
+    post.
+  teaser_alt: A teaser image for the Solving Some Sudoku Puzzles Faster (I Stand Corrected)
+    post.
 ---
 
 Okay. So maybe I was jumping to conclusions a little early in the game.

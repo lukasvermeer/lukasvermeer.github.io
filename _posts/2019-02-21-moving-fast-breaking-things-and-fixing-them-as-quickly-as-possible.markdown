@@ -1,10 +1,19 @@
 ---
-title: "Moving fast, breaking things, and fixing them as quickly as possible"
+title: Moving fast, breaking things, and fixing them as quickly as possible
 date: 2019-02-21
-tags: ["experimentation","software development","lean startup","continuous integration"]
+tags:
+- experimentation
+- software development
+- lean startup
+- continuous integration
 original:
   source_name: Medium
   source_url: https://medium.com/booking-com-development/moving-fast-breaking-things-and-fixing-them-as-quickly-as-possible-a6c16c5a1185
+header:
+  alt: A teaser image for the Moving fast, breaking things, and fixing them as quickly
+    as possible post.
+  teaser_alt: A teaser image for the Moving fast, breaking things, and fixing them
+    as quickly as possible post.
 ---
 
 **How we use online controlled experiments at Booking.com to release new features faster and more safely**

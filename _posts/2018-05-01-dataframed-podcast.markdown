@@ -1,14 +1,20 @@
 ---
-title: "Online Experiments at Booking.com"
+title: Online Experiments at Booking.com
 date: 2018-05-01
-tags: ["Experimentation", "Podcast", "Interview"]
-categories: ["Podcast"]
+tags:
+- Experimentation
+- Podcast
+- Interview
+categories:
+- Podcast
 header:
   image: assets/2018-05-01-dataframed-podcast.webp
   overlay_image: assets/2018-05-01-dataframed-podcast.webp
   overlay_filter: 0.6
   show_overlay_excerpt: false
   teaser: assets/2018-05-01-dataframed-podcast.webp
+  alt: A teaser image for the Online Experiments at Booking.com post.
+  teaser_alt: A teaser image for the Online Experiments at Booking.com post.
 ---
 
 I was interviewed for the [DataFramed](https://www.datacamp.com/podcast/online-experiments-at-bookingcom) podcast.

@@ -1,10 +1,15 @@
 ---
-title: "A New Kind Of Science?"
+title: A New Kind Of Science?
 date: 2013-05-02
-tags: ["data science","Meta"]
+tags:
+- data science
+- Meta
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2013/05/02/a-new-kind-of-science/
+header:
+  alt: A teaser image for the A New Kind Of Science? post.
+  teaser_alt: A teaser image for the A New Kind Of Science? post.
 ---
 
 I am no longer a [Corporate Ninja]({{site.baseurl}}{% post_url 2010-05-07-i-am-a-business-ninja %} ). As of a few weeks ago I can now call myself "[Data Scientist](http://www.linkedin.com/in/lukasvermeer) at [Booking.com](http://www.booking.com/)".

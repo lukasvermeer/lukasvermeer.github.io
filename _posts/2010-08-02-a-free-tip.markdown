@@ -1,10 +1,16 @@
 ---
-title: "a Free Tip"
+title: a Free Tip
 date: 2010-08-02
-tags: ["BI","Database","Oracle"]
+tags:
+- BI
+- Database
+- Oracle
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2010/08/02/a-free-tip/
+header:
+  alt: A teaser image for the a Free Tip post.
+  teaser_alt: A teaser image for the a Free Tip post.
 ---
 
 A representative of a large company (which shall remain unnamed) recently called on me for some advice. They had accidentally loaded polluted data into their data warehouse and wanted to know if there was anything they could do to get rid of it. I told them that restoring their most recent backup and reloading any more recent, unpolluted data was probably the simplest solution. They concurred, but regretted to inform me that they had not made a single backup of their production system since I helped them set it up; many, many months ago.

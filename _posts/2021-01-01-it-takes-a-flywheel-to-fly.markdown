@@ -1,10 +1,17 @@
 ---
-title: "It takes a flywheel to fly"
+title: It takes a flywheel to fly
 date: 2021-01-01
-tags: ["growth", "experimentation", "organisational culture", "product management"]
+tags:
+- growth
+- experimentation
+- organisational culture
+- product management
 original:
   source_name: Medium
   source_url: https://medium.com/booking-product/it-takes-a-flywheel-to-fly-b79ad69a62ee
+header:
+  alt: A teaser image for the It takes a flywheel to fly post.
+  teaser_alt: A teaser image for the It takes a flywheel to fly post.
 ---
 
 **Kickstarting and keeping the A/B testing momentum**

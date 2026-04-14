@@ -1,10 +1,18 @@
 ---
-title: "Evidence-Based Everything"
+title: Evidence-Based Everything
 date: 2012-12-04
-tags: ["evidence","evidence-based","facts","Meta","Psychology"]
+tags:
+- evidence
+- evidence-based
+- facts
+- Meta
+- Psychology
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/12/04/evidence-based-everything/
+header:
+  alt: A teaser image for the Evidence-Based Everything post.
+  teaser_alt: A teaser image for the Evidence-Based Everything post.
 ---
 
 I'm not really interested in an exposition of your facts. I don't very much care to learn about your reasons.

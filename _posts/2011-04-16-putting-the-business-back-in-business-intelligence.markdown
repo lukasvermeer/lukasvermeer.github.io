@@ -1,10 +1,17 @@
 ---
-title: "Putting the Business back in Business Intelligence"
+title: Putting the Business back in Business Intelligence
 date: 2011-04-16
-tags: ["BI","Oracle","RTD"]
+tags:
+- BI
+- Oracle
+- RTD
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2011/04/16/putting-the-business-back-in-business-intelligence/
+header:
+  alt: A teaser image for the Putting the Business back in Business Intelligence post.
+  teaser_alt: A teaser image for the Putting the Business back in Business Intelligence
+    post.
 ---
 
 > The reason why a large percentage of business intelligence (BI) applications fail is not due to technology. To a large degree these applications fail because of organizational, cultural, and infrastructure dysfunctions.

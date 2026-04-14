@@ -1,10 +1,17 @@
 ---
-title: "Selling Ice to Eskimos"
+title: Selling Ice to Eskimos
 date: 2012-02-29
-tags: ["facebook","fail","Marketing","personalization"]
+tags:
+- facebook
+- fail
+- Marketing
+- personalization
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/02/29/selling-ice-to-eskimos/
+header:
+  alt: A teaser image for the Selling Ice to Eskimos post.
+  teaser_alt: A teaser image for the Selling Ice to Eskimos post.
 ---
 
 Facebook has recently discovered that beyond the [uncanny valley of personalized marketing](http://lukasvermeer.wordpress.com/2012/02/02/marketing-personalization-and-the-uncanny-valley/) lies the [bottomless pit of invasive identity misappropriation](http://thenextweb.com/media/2012/02/28/if-youre-not-careful-facebook-could-make-you-a-spokesperson-for-personal-lubricant/).

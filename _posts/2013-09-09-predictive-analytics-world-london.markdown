@@ -1,10 +1,16 @@
 ---
-title: "Predictive Analytics World London "
+title: 'Predictive Analytics World London '
 date: 2013-09-09
-tags: ["data science","Data Science","Meta"]
+tags:
+- data science
+- Data Science
+- Meta
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2013/09/09/predictive-analytics-world-london/
+header:
+  alt: A teaser image for the Predictive Analytics World London  post.
+  teaser_alt: A teaser image for the Predictive Analytics World London  post.
 ---
 
 In October I'll speak at [Predictive Analytics World](http://www.predictiveanalyticsworld.com/london/2013/) in London. [Once again]({{site.baseurl}}{% post_url 2013-05-17-data-science-for-fun-and-for-profit %}), I'll be talking [about Data Science](http://www.predictiveanalyticsworld.com/london/2013/agenda.php#p2005).

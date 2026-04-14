@@ -1,7 +1,9 @@
 ---
-title: "Detecting Interaction Effects in Online Experimentation"
+title: Detecting Interaction Effects in Online Experimentation
 date: 2023-06-26
-tags: ["experimentation", "interaction effects"]
+tags:
+- experimentation
+- interaction effects
 original:
   source_name: Vista DnA Blog
   source_url: https://vista.io/blog/detecting-interaction-effects-in-online-experimentation
@@ -9,7 +11,14 @@ header:
   overlay_image: assets/2023-06-26-detecting-interaction-effects-in-online-experimentation-header.webp
   overlay_filter: 0.8
   teaser: assets/2023-06-26-detecting-interaction-effects-in-online-experimentation-header.webp
-excerpt: 'In the first two posts in this series, we explained what interaction effects are and what their consequences could be if they remain undetected. We also listed several approaches to avoiding interaction effects and shared some of the tools and processes we use to enable conflict avoidance.'
+  alt: A teaser image for the Detecting Interaction Effects in Online Experimentation
+    post.
+  teaser_alt: A teaser image for the Detecting Interaction Effects in Online Experimentation
+    post.
+excerpt: In the first two posts in this series, we explained what interaction effects
+  are and what their consequences could be if they remain undetected. We also listed
+  several approaches to avoiding interaction effects and shared some of the tools
+  and processes we use to enable conflict avoidance.
 ---
 
 In this third and final installment in the series, we will discuss how to detect interactions and share code and tools we built at Vista to address this issue. This post will necessarily be a little more technical than the previous ones because detection relies on statistical methods. However, we have attempted to keep the explanations easy to follow, even for those unfamiliar with the statistical concepts and techniques used.

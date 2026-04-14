@@ -1,10 +1,22 @@
 ---
-title: "Facet Based Predictions in Oracle Real-Time Decisions"
+title: Facet Based Predictions in Oracle Real-Time Decisions
 date: 2012-02-17
-tags: ["facet","implementation","Java","Oracle","predictive accuracy","RTD","rtd"]
+tags:
+- facet
+- implementation
+- Java
+- Oracle
+- predictive accuracy
+- RTD
+- rtd
 original:
   source_name: Wordpress
   source_url: https://lukasvermeer.wordpress.com/2012/02/17/facet-based-predictions-in-oracle-real-time-decisions/
+header:
+  alt: A teaser image for the Facet Based Predictions in Oracle Real-Time Decisions
+    post.
+  teaser_alt: A teaser image for the Facet Based Predictions in Oracle Real-Time Decisions
+    post.
 ---
 
 <span style="color:#bbb;">[ [Crossposting](https://blogs.oracle.com/rtd/en/entry/facet_based_predictions) from the [Oracle Real-Time Decisions Blog](http://blogs.oracle.com/rtd/). ]</span>

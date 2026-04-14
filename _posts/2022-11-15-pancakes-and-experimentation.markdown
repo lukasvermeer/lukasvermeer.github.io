@@ -1,7 +1,10 @@
 ---
-title: "Pancakes and experimentation: Learning by doing"
+title: 'Pancakes and experimentation: Learning by doing'
 date: 2022-11-15
-tags: ["experimentation", "culture", "learning"]
+tags:
+- experimentation
+- culture
+- learning
 original:
   source_name: Vista DnA Blog
   source_url: https://vista.io/blog/pancakes-and-experimentation
@@ -9,7 +12,13 @@ header:
   overlay_image: assets/2022-03-09-diagram.jpeg
   overlay_filter: 0.8
   teaser: assets/2022-03-09-diagram.jpeg
-excerpt: 'We are [building a culture of experimentation]({{site.baseurl}}{% post_url 2021-12-21-building-a-culture-of-experimentation %}) at Vista. We are taking a [scalable, decentralized approach]({{site.baseurl}}{% post_url 2022-03-09-organising-for-scaled-experimentation %}),  requiring people and teams across the organization to learn new skills and adopt new methods. In this post, Ellen and Lukas will share some of their perspectives and experiences on this journey.'
+  alt: 'A teaser image for the Pancakes and experimentation: Learning by doing post.'
+  teaser_alt: 'A teaser image for the Pancakes and experimentation: Learning by doing
+    post.'
+excerpt: We are building a culture of experimentation at Vista. We are taking a scalable,
+  decentralized approach, requiring people and teams across the organization to learn new skills and
+  adopt new methods. In this post, Ellen and Lukas will share some of their perspectives
+  and experiences on this journey.
 ---
 
 *Ellen Greer is the Product Manager for Vista’s Search features. Lukas Vermeer is Vista’s Director of Experimentation.*
