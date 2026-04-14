@@ -12,7 +12,7 @@ header:
   teaser_alt: A teaser image for the Think Big, Start Small post.
 ---
 
-[I ran into](https://plus.google.com/106518479241050228896/posts/KUGBw4y3jtQ) [the boss](http://www.linkedin.com/pub/maurizio-bobbio/0/a29/715) of the boss of the boss of the boss of my boss at [London City Airport](http://www.londoncityairport.com/). He did not recognize me of course; there are quite a few Oracle consultants in Europe apart from myself. But once properly introduced, he offered to buy me a drink so we could have a chat while we waited for our flights.
+[I ran into](https://plus.google.com/106518479241050228896/posts/KUGBw4y3jtQ) [the boss](https://www.linkedin.com/pub/maurizio-bobbio/0/a29/715) of the boss of the boss of the boss of my boss at [London City Airport](https://www.londoncityairport.com/). He did not recognize me of course; there are quite a few Oracle consultants in Europe apart from myself. But once properly introduced, he offered to buy me a drink so we could have a chat while we waited for our flights.
 
 He asked me what I wanted to drink.
 
@@ -26,13 +26,13 @@ Obviously that last statement was a half-hearted lie. This being England, the ba
 
 **Q: What beverages would you have purchased if you were in his position?**
 
-Presumably, one does not become the boss of the boss of the boss of the boss of the boss of me without a lot of effort, skill and hard work. One [does not simply walk ](http://knowyourmeme.com/memes/one-does-not-simply-x-into-mordor)into a top-position at a multi-national cooperation without some special abilities and a lot of experience.
+Presumably, one does not become the boss of the boss of the boss of the boss of the boss of me without a lot of effort, skill and hard work. One [does not simply walk ](https://knowyourmeme.com/memes/one-does-not-simply-x-into-mordor)into a top-position at a multi-national cooperation without some special abilities and a lot of experience.
 
 Technology and tools change fast, but people will be around for some time. I enjoy keeping up with and learning about new technology in my spare time, but _people experience_ takes serious effort and dedicated investment. It is why I do the work I do the way I do it. A chance encounter like this is a great opportunity to leapfrog ahead.
 
 Pay attention to the details, and you might learn a trick or two.
 
-My high-placed patron returned from the bar with two completely different beers, stated he was fond of both and let me choose between a dark ale and a normal lager; thereby maximizing (doubling) the odds of me getting something I liked in the absence of more information. Furthermore, because I was allowed to choose, [the endowment effect](http://en.wikipedia.org/wiki/Endowment_effect) almost guaranteed I would be satisfied with what I got; even if it wasn't really what I wanted. Simple, but effective!
+My high-placed patron returned from the bar with two completely different beers, stated he was fond of both and let me choose between a dark ale and a normal lager; thereby maximizing (doubling) the odds of me getting something I liked in the absence of more information. Furthermore, because I was allowed to choose, [the endowment effect](https://en.wikipedia.org/wiki/Endowment_effect) almost guaranteed I would be satisfied with what I got; even if it wasn't really what I wanted. Simple, but effective!
 
 **A: Buy two diametrically opposed beverages you personally enjoy equally. Let the other choose.**
 

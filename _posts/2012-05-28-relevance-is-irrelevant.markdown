@@ -23,4 +23,4 @@ A/B test your system against a control (often random, might be rules). If your r
 
 Who cares about relevance if you can measure business value?
 
-<span style="color:#bbb;">[ Posted on [Quora](http://www.quora.com/) as answer to _[What is the best way to test the relevance of a recommendation engine?](http://www.quora.com/What-is-the-best-way-to-test-the-relevance-of-a-recommendation-engine)_ ]</span>
+<span style="color:#bbb;">[ Posted on [Quora](https://www.quora.com/) as answer to _[What is the best way to test the relevance of a recommendation engine?](https://www.quora.com/What-is-the-best-way-to-test-the-relevance-of-a-recommendation-engine)_ ]</span>

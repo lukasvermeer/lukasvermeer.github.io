@@ -36,4 +36,4 @@ Every query you send to the database goes through this process. There is no way 
 
 I hope that working together will be easier now you know she exists. Next time, I will discuss some of the decisions the optimizer can take.
 
-[^1]: This article is based on a presentation I prepared for [Ortec](http://www.ortec.com/), the company where I completed my Master thesis.
+[^1]: This article is based on a presentation I prepared for [Ortec](https://www.ortec.com/), the company where I completed my Master thesis.

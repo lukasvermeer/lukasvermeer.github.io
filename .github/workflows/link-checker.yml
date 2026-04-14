@@ -39,5 +39,6 @@ jobs:
           --report-mismatched-tags \
           --check-opengraph \
           --disable-external \
-          --url-ignore "/{{site.baseurl}}{% post_url .*%}/,/https://www.linkedin.com/in/lukasvermeer/" \
+          --url-ignore "/{{site.baseurl}}{% post_url .*%}/,/https://www.linkedin.com/in/lukasvermeer/,/http://www.xebicon.nl/,/http://www.einarsen.no/,/http://www.dangardner.ca/,/http://www.cyanogenmod.com/,/http://www.cornify.com/,/http://wiki.cyanogenmod.com/,/http://wiki.answers.com/,/http://wiki.allshadow.com/,/http://unix.derkeiler.com/,/http://theunlockr.com/,/http://stevehanov.ca/,/http://shape-of-code.coding-guidelines.com/,/http://lukazz.livejournal.com/,/http://laudy.net/,/http://konamicodesites.com/,/http://jtonedm.com/,/http://ieet.org/,/http://ide.mit.edu/,/http://download.cnet.com/,/http://datafun.eventbrite.com/,/http://connectfourservice.appspot.com/,/http://businessintelligence.com/,/http://bigthink.com/" \
+          --enforce-https \
           --alt-ignore "/.*/"

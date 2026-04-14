@@ -17,9 +17,9 @@ header:
   teaser_alt: A teaser image for the Connecting Four in the Cloud post.
 ---
 
-It almost seems like everyone has their head in [the cloud](https://cloud.oracle.com) these days. And it's not all just hot air and [water vapor](http://www.youtube.com/watch?v=UOEFXaWHppE). [Infrastructure as a service](http://en.wikipedia.org/wiki/Infrastructure_as_a_Service#Service_Models) (IaaS), [platform as a service](http://en.wikipedia.org/wiki/Platform_as_a_service) (PaaS) and [software as a service](http://en.wikipedia.org/wiki/Software_as_a_service) (SaaS) are truly revolutionizing the corporate computing industry.
+It almost seems like everyone has their head in [the cloud](https://cloud.oracle.com) these days. And it's not all just hot air and [water vapor](https://www.youtube.com/watch?v=UOEFXaWHppE). [Infrastructure as a service](https://en.wikipedia.org/wiki/Infrastructure_as_a_Service#Service_Models) (IaaS), [platform as a service](https://en.wikipedia.org/wiki/Platform_as_a_service) (PaaS) and [software as a service](https://en.wikipedia.org/wiki/Software_as_a_service) (SaaS) are truly revolutionizing the corporate computing industry.
 
-That is why, for the past few months, my good friend [Matt Feigal](https://twitter.com/#!/mattfgl) and I have been collaborating with budding startup [Cloudular](http://www.ykombinator.com/13144/Cloudular) to bring you the next logical evolutionary step in cloud computing. Inspired by the skyward ascent of hardware, middleware and software, we are proud to bring you vaporized wetware; or "**_artificial intelligence as a service_**" (AIaaS).
+That is why, for the past few months, my good friend [Matt Feigal](https://twitter.com/#!/mattfgl) and I have been collaborating with budding startup Cloudular to bring you the next logical evolutionary step in cloud computing. Inspired by the skyward ascent of hardware, middleware and software, we are proud to bring you vaporized wetware; or "**_artificial intelligence as a service_**" (AIaaS).
 
 ...
 

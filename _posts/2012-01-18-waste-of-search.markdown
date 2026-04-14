@@ -21,4 +21,4 @@ Analyzing website traffic can lead to unexpected insights. This incoming search 
 
 I'm not entirely sure why someone would even search for [something like this](https://www.google.com/search?q=), but I'm pretty confident this person did not find what he or she was looking for.
 
-Oracle Real-Time Decisions is definitely [not a waste of money](http://www.oracle.com/us/corporate/analystreports/infrastructure/forrester-tei-rtd-432543.pdf).
+Oracle Real-Time Decisions is definitely [not a waste of money](https://www.oracle.com/us/corporate/analystreports/infrastructure/forrester-tei-rtd-432543.pdf).

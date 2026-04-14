@@ -23,10 +23,10 @@ header:
 > 
 > Oh, boy! Would we!
 
-Myself and about twenty other Oracle employees are attending a [Cloudera](http://www.cloudera.com/) training on [Hadoop](http://hadoop.apache.org/) in the Oracle Reading office. Five days packed with information covering a whole new ecosystem filled with some pretty crazy beasts. 
+Myself and about twenty other Oracle employees are attending a [Cloudera](https://www.cloudera.com/) training on [Hadoop](https://hadoop.apache.org/) in the Oracle Reading office. Five days packed with information covering a whole new ecosystem filled with some pretty crazy beasts. 
 
-Our heads are spinning like a room full of network-attached storage and our pens are humming like a data center cooling system as we attempt to [map and reduce](http://en.wikipedia.org/wiki/MapReduce) every little piece of data they throw at us.
+Our heads are spinning like a room full of network-attached storage and our pens are humming like a data center cooling system as we attempt to [map and reduce](https://en.wikipedia.org/wiki/MapReduce) every little piece of data they throw at us.
 
-During one of the breaks, we get the opportunity to go see the [Oracle Big Data Appliance](http://www.oracle.com/us/products/database/big-data-appliance/overview/index.html). Standing in front of this enormous machine, it finally dawns on me what a massive bulk of raw power this really is. A seemingly countless number of disks are mounted in a box higher and wider than myself. Each disk can hold three terabytes of data.
+During one of the breaks, we get the opportunity to go see the [Oracle Big Data Appliance](https://www.oracle.com/us/products/database/big-data-appliance/overview/index.html). Standing in front of this enormous machine, it finally dawns on me what a massive bulk of raw power this really is. A seemingly countless number of disks are mounted in a box higher and wider than myself. Each disk can hold three terabytes of data.
 
-[Big Data is Big](http://knowyourmeme.com/memes/x-y-is-x-redundant-adjectives-are-redundant)!
+[Big Data is Big](https://knowyourmeme.com/memes/x-y-is-x-redundant-adjectives-are-redundant)!

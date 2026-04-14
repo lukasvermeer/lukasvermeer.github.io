@@ -15,13 +15,13 @@ header:
   teaser_alt: A teaser image for the Predicting Pi post.
 ---
 
-A few weeks ago, I showed a colleague[^1] [my little visual demo](http://www.xs4all.nl/~destack/projects/pi/) of [my favorite algorithm for estimating the number Pi](http://lukasvermeer.wordpress.com/2010/05/06/estimating-pi/). His immediate response was so obvious I am almost ashamed it did not occur to me before he mentioned it.
+A few weeks ago, I showed a colleague[^1] [my little visual demo](https://www.xs4all.nl/~destack/projects/pi/) of [my favorite algorithm for estimating the number Pi](https://lukasvermeer.wordpress.com/2010/05/06/estimating-pi/). His immediate response was so obvious I am almost ashamed it did not occur to me before he mentioned it.
 
 **"RTD could do that!"**
 
-Turns out, he is of course right. Although [Oracle Real-Time Decisions](http://www.oracle.com/technetwork/middleware/real-time-decisions/index.html) was certainly not designed for the task, it does a pretty good job of _predicting_ Pi, given the right inputs and some mathemagic.
+Turns out, he is of course right. Although [Oracle Real-Time Decisions](https://www.oracle.com/technetwork/middleware/real-time-decisions/index.html) was certainly not designed for the task, it does a pretty good job of _predicting_ Pi, given the right inputs and some mathemagic.
 
-To reiterate, the idea behind the original algorithm is that we throw a bunch (well actually quite a lot) of darts at a square board (uniformly distributed, of course). We then count the number of darts that land in the largest circle we can fit in this square. The ratio between the darts in the circle and the total number of darts thrown, multiplied by four happens to approximate Pi for reasons explained [in an earlier post](http://lukasvermeer.wordpress.com/2010/05/06/estimating-pi/).
+To reiterate, the idea behind the original algorithm is that we throw a bunch (well actually quite a lot) of darts at a square board (uniformly distributed, of course). We then count the number of darts that land in the largest circle we can fit in this square. The ratio between the darts in the circle and the total number of darts thrown, multiplied by four happens to approximate Pi for reasons explained [in an earlier post](https://lukasvermeer.wordpress.com/2010/05/06/estimating-pi/).
 
 The key thing to understand when using RTD to implement this algorithm is that the ratio described above also represents the odds that a single dart will land in the circle. More easily put, the number of darts that land in the circle divided by the total number of darts thrown equals the chance of a dart landing in the circle. If we can predict the odds of hitting the circle we can predict Pi; and RTD is pretty good at making predictions.
 
@@ -63,8 +63,8 @@ The prediction RTD makes seems to be less sensitive to fluctuations resulting fr
 
 ![A screenshot of the RTD logs and the client application]({{site.baseurl}}{% link assets/2011-10-30-predicting-pi-estimatepi.png %})
 
-RTD not only good for [986% ROI](http://www.oracle.com/us/corporate/analystreports/infrastructure/forrester-tei-rtd-432543.pdf), but also for predicting Pi.
+RTD not only good for [986% ROI](https://www.oracle.com/us/corporate/analystreports/infrastructure/forrester-tei-rtd-432543.pdf), but also for predicting Pi.
 
-And this cake is [no lie](http://knowyourmeme.com/memes/the-cake-is-a-lie--5).
+And this cake is [no lie](https://knowyourmeme.com/memes/the-cake-is-a-lie--5).
 
 [^1]: I forget who exactly suggested this. Either Alan, Simon or Tim.

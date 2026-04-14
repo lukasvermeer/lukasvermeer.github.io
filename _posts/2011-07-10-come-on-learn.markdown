@@ -19,11 +19,11 @@ header:
 > 
 > Remember every time you use flash on your website, a cute puppy dies. Think of the puppy!
 
-Most of the items on [this extended list](http://www.kaushik.net/avinash/digital-marketing-analytics-crimes-against-humanity/) compiled by [Avinash Kaushik](http://www.kaushik.net/avinash/) seem pretty obvious to me. Most likely you, my internet-savvy friends, would question even the need for writing these down like Avinash has.
+Most of the items on [this extended list](https://www.kaushik.net/avinash/digital-marketing-analytics-crimes-against-humanity/) compiled by [Avinash Kaushik](https://www.kaushik.net/avinash/) seem pretty obvious to me. Most likely you, my internet-savvy friends, would question even the need for writing these down like Avinash has.
 
 Oh, how ignorance is bliss, my friends!
 
-My work with [Real-time Decisions](http://www.oracle.com/us/solutions/ent-performance-bi/real-time-decisions-066561.html) (RTD) has introduced me into the wonderful world of marketing and advertising. A world where many companies still consider basic concepts like [scientific control](http://en.wikipedia.org/wiki/Scientific_control) to be the latest craze (they call it 'A/B testing', but the idea remains the same). A world where _gut feeling_ and _HiPPO_ _(highest paid person's opinion)_ continue to rule, while _real data_ and _hard evidence_ are readily available.
+My work with [Real-time Decisions](https://www.oracle.com/us/solutions/ent-performance-bi/real-time-decisions-066561.html) (RTD) has introduced me into the wonderful world of marketing and advertising. A world where many companies still consider basic concepts like [scientific control](https://en.wikipedia.org/wiki/Scientific_control) to be the latest craze (they call it 'A/B testing', but the idea remains the same). A world where _gut feeling_ and _HiPPO_ _(highest paid person's opinion)_ continue to rule, while _real data_ and _hard evidence_ are readily available.
 
 The fact that Avinash felt the need to publish his list of truisms might explain some of the difficulty in conveying the concepts behind RTD to customers. Number ten on the list in particular sounds sounds awfully familiar to me.
 
@@ -35,4 +35,4 @@ The fact that Avinash felt the need to publish his list of truisms might explain
 
 If these people are not at ease with the idea of using cold data to measure success, or if they simply do not know how to define 'success' in the first place, how do you think they are going to feel about letting an artificially intelligent computer program improve the rate of that success by learning about customer behavior and preference? Not so good, I guess.
 
-> David Lightman: [to Joshua] [Come on. Learn, goddammit.](http://www.imdb.com/title/tt0086567/quotes?qt=qt0453843)
+> David Lightman: [to Joshua] [Come on. Learn, goddammit.](https://www.imdb.com/title/tt0086567/quotes?qt=qt0453843)

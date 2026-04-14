@@ -17,9 +17,9 @@ header:
     post.
 ---
 
-After [writing restaurant reviews](http://maps.google.com/maps/user?uid=203829841339053400258&ptab=1&hl=en) for about a year, I've decided to apply my carefully whetted literary prowess to a new type of assessment: [recommending people](http://learn.linkedin.com/profiles/recommendations/).
+After [writing restaurant reviews](https://maps.google.com/maps/user?uid=203829841339053400258&ptab=1&hl=en) for about a year, I've decided to apply my carefully whetted literary prowess to a new type of assessment: [recommending people](https://learn.linkedin.com/profiles/recommendations/).
 
-While there remains [a considerable amount of controversy around the transfer of learnings](http://en.wikipedia.org/wiki/Transfer_of_learning), I've always personally believed that [certain mental skills can be transferred](http://ieet.org/index.php/IEET/more/kuszewski20110720) from one domain to another. My aspiration to learn to fashion authentic and articulate appraisals was part of the reason I started writing restaurant reviews in the first place.
+While there remains [a considerable amount of controversy around the transfer of learnings](https://en.wikipedia.org/wiki/Transfer_of_learning), I've always personally believed that [certain mental skills can be transferred](http://ieet.org/index.php/IEET/more/kuszewski20110720) from one domain to another. My aspiration to learn to fashion authentic and articulate appraisals was part of the reason I started writing restaurant reviews in the first place.
 
 To me, it certainly feels like significant progress was made. I've certainly expanded upon my vocabulary of adjectives.
 

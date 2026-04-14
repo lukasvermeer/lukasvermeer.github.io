@@ -32,7 +32,7 @@ Thinking about this, the first negative review that came to my mind was one I wr
 Conversely, the first positive review that popped into my brain was this rather terse piece for ["Opium" in Utrecht, the Netherlands](https://plus.google.com/116496292311938777959/about).
 > Om nom nom.
 
-Judging by this tiny sample there might indeed be something to the hypothesis that review length and review score are negatively correlated. To confirm my hunch, I decided to load my reviews into [R](http://www.r-project.org/) for a proper statistical analysis.
+Judging by this tiny sample there might indeed be something to the hypothesis that review length and review score are negatively correlated. To confirm my hunch, I decided to load my reviews into [R](https://www.r-project.org/) for a proper statistical analysis.
 
 {% highlight r %}
 > cor.test(nn_reviews$char_count, nn_reviews$score)
@@ -57,6 +57,6 @@ A simple plot of the two variables gives some insight into a possible cause for 
 
 The outlier in the bottom right happens to represent my review for the Good View. All my other reviews are much shorter in length and seem to be quite evenly distributed over the different scores.
 
-My misjudgement is an excellent example of the [availability heuristic](http://en.wikipedia.org/wiki/Availability_heuristic). The pair of examples that presented themselves to me upon initial reflection were not representative of the complete set, but that did not stop me from drawing overarching, and incorrect, conclusions based on a sample of two.
+My misjudgement is an excellent example of the [availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic). The pair of examples that presented themselves to me upon initial reflection were not representative of the complete set, but that did not stop me from drawing overarching, and incorrect, conclusions based on a sample of two.
 
 This is why I use statistics, because I am a fallible human being; just like everyone else

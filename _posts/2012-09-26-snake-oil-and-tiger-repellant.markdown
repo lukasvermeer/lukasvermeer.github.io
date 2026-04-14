@@ -16,7 +16,7 @@ header:
   teaser_alt: A teaser image for the Snake Oil and Tiger Repellant post.
 ---
 
-The Wall Street Journal has [an interesting article](http://online.wsj.com/article/SB10000872396390443890304578006252019616768.html) explaining how companies are starting to use (big) data to support their recruiting efforts. It provides a good example of the more general trend in businesses towards evidence-based decisioning and [data science](http://radar.oreilly.com/2010/06/what-is-data-science.html), but it also shows how some crucial aspects of these techniques are easily overlooked or oversimplified.
+The Wall Street Journal has [an interesting article](https://online.wsj.com/article/SB10000872396390443890304578006252019616768.html) explaining how companies are starting to use (big) data to support their recruiting efforts. It provides a good example of the more general trend in businesses towards evidence-based decisioning and [data science](https://www.oreilly.com/radar/what-is-data-science/), but it also shows how some crucial aspects of these techniques are easily overlooked or oversimplified.
 
 My big-data-science-bogus-alarm started ringing upon reading the last sentence in this short paragraph.
 
@@ -24,7 +24,7 @@ My big-data-science-bogus-alarm started ringing upon reading the last sentence i
 
 Sounds smart, right? Well, maybe.
 
-If Xerox never hires any "reds" and only very few "yellows", how will they know the program is actually working? How will they know that all that complicated math is doing something more than simply returning random colour values? An evidence-based approach should always include some form of [scientific control](http://en.wikipedia.org/wiki/Scientific_control). If it doesn't, it might as well be [snake oil](http://en.wikipedia.org/wiki/Snake_oil).
+If Xerox never hires any "reds" and only very few "yellows", how will they know the program is actually working? How will they know that all that complicated math is doing something more than simply returning random colour values? An evidence-based approach should always include some form of [scientific control](https://en.wikipedia.org/wiki/Scientific_control). If it doesn't, it might as well be [snake oil](https://en.wikipedia.org/wiki/Snake_oil).
 
 Of course, this is probably just a simple journalistic crime of omission of a trivial implementation detail, but it reminded me of that old chestnut "the tiger repellant". For your convenience, this blogpost has been equipped with some very strong Tiger Repellant tonic. If you do not see any tigers around you right now, you will know it is working.
 

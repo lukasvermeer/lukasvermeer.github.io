@@ -15,7 +15,7 @@ header:
   teaser_alt: A teaser image for the A/B Testing XXL post.
 ---
 
-<span style="color:#bbb;">[I've [tweeted about this before](http://twitter.com/lukasvermeer/status/273360780538281985).]</span>
+<span style="color:#bbb;">[I've [tweeted about this before](https://twitter.com/lukasvermeer/status/273360780538281985).]</span>
 
 If fashion stores believed in A/B testing, they would probably only sell white XXL shirts. Most customers would fit tent-sized garments; most colours go well with white. Giant colourless shirts would presumably have the better sales conversion rate by far.
 

@@ -14,4 +14,4 @@ header:
 
 I've started uploading some of the projects I've written about on this blog to [Github](https://github.com/lukasvermeer).
 
-Feel free to [fork](http://en.wikipedia.org/wiki/Fork_(software_development)).
+Feel free to [fork](https://en.wikipedia.org/wiki/Fork_(software_development)).

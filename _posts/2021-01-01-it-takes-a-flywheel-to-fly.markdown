@@ -99,7 +99,7 @@ Steps in this flywheel allowed Microsoft, Outreach and Booking.com to scale A/B 
 
 [10] S. Gupta, L. Ulanova, S. Bhardwaj, P. Dmitriev, P. Raff, and A. Fabijan, “The Anatomy of a Large-Scale Experimentation Platform,” in 2018 IEEE International Conference on Software Architecture (ICSA), Apr. 2018, no. May, pp. 1–109, doi: 10.1109/ICSA.2018.00009.
 
-[11] A. Deng, U. Knoblich, and J. Lu, “Applying the Delta method in metric analytics: A practical guide with novel ideas,” no. March, Mar. 2018, [Online]. Available: [http://arxiv.org/abs/1803.06336](http://arxiv.org/abs/1803.06336).
+[11] A. Deng, U. Knoblich, and J. Lu, “Applying the Delta method in metric analytics: A practical guide with novel ideas,” no. March, Mar. 2018, [Online]. Available: [https://arxiv.org/abs/1803.06336](https://arxiv.org/abs/1803.06336).
 
 [12] W. Machmouchi, S. Gupta, R. Zhang, and A. Fabijan, “Patterns of Trustworthy Experimentation: Pre-Experiment Stage,” 2020. [https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/patterns-of-trustworthy-experimentation-pre-experiment-stage/](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/patterns-of-trustworthy-experimentation-pre-experiment-stage/).
 

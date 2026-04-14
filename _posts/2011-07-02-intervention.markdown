@@ -11,11 +11,11 @@ header:
   teaser_alt: A teaser image for the Intervention post.
 ---
 
-It's been a while. [Too long](http://www.wolframalpha.com/input/?i=May+7%2C+2011+to+Juli+2%2C+2011), to be precise. I [did not forget](http://lukasvermeer.wordpress.com/2010/10/15/the-curse-of-getting-things-done/), I've simply been postponing writing anything for this blog for days on end. Not that I've been sitting still, doing nothing. I don't think I could, even if I tried. Just that I did not take the time to write about any of it here.
+It's been a while. [Too long](https://www.wolframalpha.com/input/?i=May+7%2C+2011+to+Juli+2%2C+2011), to be precise. I [did not forget](https://lukasvermeer.wordpress.com/2010/10/15/the-curse-of-getting-things-done/), I've simply been postponing writing anything for this blog for days on end. Not that I've been sitting still, doing nothing. I don't think I could, even if I tried. Just that I did not take the time to write about any of it here.
 
 Keeping up with the bi-weekly blogging schedule I forced upon myself proves to be more difficult than I had anticipated. Something needs to change.
 
-Analogous to the [Project Triangle](http://en.wikipedia.org/wiki/Project_triangle) there are several ways we could fix these non-compliance issues regarding my self-imposed constraint.
+Analogous to the [Project Triangle](https://en.wikipedia.org/wiki/Project_triangle) there are several ways we could fix these non-compliance issues regarding my self-imposed constraint.
 
 **Change the schedule.** Reducing the target frequency would ostensibly have the same net result as my current habit of postponing writing posts, but it would reduce the associated guilt experienced on my part. This change would be almost trivial to implement and would not result in any significant changes to the end result.
 

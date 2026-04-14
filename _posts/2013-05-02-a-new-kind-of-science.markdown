@@ -12,8 +12,8 @@ header:
   teaser_alt: A teaser image for the A New Kind Of Science? post.
 ---
 
-I am no longer a [Corporate Ninja]({{site.baseurl}}{% post_url 2010-05-07-i-am-a-business-ninja %} ). As of a few weeks ago I can now call myself "[Data Scientist](http://www.linkedin.com/in/lukasvermeer) at [Booking.com](http://www.booking.com/)".
+I am no longer a [Corporate Ninja]({{site.baseurl}}{% post_url 2010-05-07-i-am-a-business-ninja %} ). As of a few weeks ago I can now call myself "[Data Scientist](https://www.linkedin.com/in/lukasvermeer) at [Booking.com](https://www.booking.com/)".
 
-Although I am really excited about the new challenges and opportunities that await me in [the sexiest job of the 21st century](http://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/), I must say this new title bothers me ever so slightly. It somehow seems so redundant.
+Although I am really excited about the new challenges and opportunities that await me in [the sexiest job of the 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/), I must say this new title bothers me ever so slightly. It somehow seems so redundant.
 
-**If you're not using data, is it really [science](http://en.wikipedia.org/wiki/Science)?**
+**If you're not using data, is it really [science](https://en.wikipedia.org/wiki/Science)?**

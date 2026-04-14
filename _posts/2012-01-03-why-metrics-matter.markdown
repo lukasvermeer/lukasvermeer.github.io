@@ -18,7 +18,7 @@ header:
   teaser_alt: A teaser image for the Why Metrics Matter post.
 ---
 
-[Daring Fireball](http://daringfireball.net/linked/2011/12/14/too-many-choices) quotes some interesting [research findings](http://bigthink.com/ideas/19529) related to what [Barry Schwartz](http://www.swarthmore.edu/SocSci/bschwar1/) dubbed [The Paradox Of Choice](http://www.amazon.co.uk/Paradox-Choice-Why-More-Less/dp/0060005696).
+[Daring Fireball](https://daringfireball.net/linked/2011/12/14/too-many-choices) quotes some interesting [research findings](http://bigthink.com/ideas/19529) related to what [Barry Schwartz](https://www.swarthmore.edu/SocSci/bschwar1/) dubbed [The Paradox Of Choice](https://www.amazon.co.uk/Paradox-Choice-Why-More-Less/dp/0060005696).
 
 > About 60% of the people stopped when we had 24 jams on display and then at the times when we had 6 different flavors of jam out on display only 40% of the people actually stopped, so more people were clearly attracted to the larger varieties of options, but then when it came down to buying, so the second thing we looked at is in what case were people more likely to buy a jar of jam.> 
 > 
@@ -28,6 +28,6 @@ A fascinating psychological effect with clear implications for display advertisi
 
 In this study, fewer people _stopped_ when there was less choice, but more people actually _bought_ something. If we were only measuring the former (i.e. _attention_), and not the latter (i.e. _sales_), we would be led to think more choice would be about 50% more effective at bringing in customers. And boy, would we be wrong!
 
-[Metrics](http://www.kaushik.net/avinash/best-web-metrics-kpis-small-medium-large-business/) matter; especially when you are using [a system](http://www.oracle.com/technetwork/middleware/real-time-decisions/overview/index.html) which can [automatically optimize your process](http://lukasvermeer.wordpress.com/2011/04/16/putting-the-business-back-in-business-intelligence/) in order to maximize those metrics.
+[Metrics](https://www.kaushik.net/avinash/best-web-metrics-kpis-small-medium-large-business/) matter; especially when you are using [a system](https://www.oracle.com/middleware/technologies/real-time-decisions.html) which can [automatically optimize your process](https://lukasvermeer.wordpress.com/2011/04/16/putting-the-business-back-in-business-intelligence/) in order to maximize those metrics.
 
-Don't get yourself in a jam; remember this next time you decide to measure _click acceptance_ instead of _actual sales_ to drive your online marketing effort. [Clickthrough rates](http://en.wikipedia.org/wiki/Clickthrough_rate) are useful as a [measure by proxy](http://en.wikipedia.org/wiki/Proxy_(statistics)), but they can be misleading.
+Don't get yourself in a jam; remember this next time you decide to measure _click acceptance_ instead of _actual sales_ to drive your online marketing effort. [Clickthrough rates](https://en.wikipedia.org/wiki/Clickthrough_rate) are useful as a [measure by proxy](https://en.wikipedia.org/wiki/Proxy_(statistics)), but they can be misleading.

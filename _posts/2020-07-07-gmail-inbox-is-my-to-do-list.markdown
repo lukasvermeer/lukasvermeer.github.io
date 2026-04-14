@@ -123,7 +123,7 @@ If an email requires an action from me, it should go to my inbox so I can priori
 
 Do or do not, there is no FYI.
 
-(I realise this trick is probably the most controversial of all the tricks listed in this post. If you very strongly disagree - and you want to explain to my why I am wrong - feel free to [send me an email](http://lukasvermeer.nl/#contact). You can be assured it will go straight to my inbox.)
+(I realise this trick is probably the most controversial of all the tricks listed in this post. If you very strongly disagree - and you want to explain to my why I am wrong - feel free to [send me an email](https://lukasvermeer.nl/#contact). You can be assured it will go straight to my inbox.)
 
 ### Trick #9: Use labels as visual cues.
 
@@ -161,4 +161,4 @@ Ending the day snoozing also provides closure for the working day. After this da
 
 ---
 
-I hope these realisations and tricks can be of some use to you. If you have any questions or suggestions, feel free to [email me a task](http://lukasvermeer.nl/#contact).
+I hope these realisations and tricks can be of some use to you. If you have any questions or suggestions, feel free to [email me a task](https://lukasvermeer.nl/#contact).

@@ -19,9 +19,9 @@ header:
     post.
 ---
 
-<span style="color:#bbb;">[ [Crossposting](https://blogs.oracle.com/rtd/en/entry/facet_based_predictions) from the [Oracle Real-Time Decisions Blog](http://blogs.oracle.com/rtd/). ]</span>
+<span style="color:#bbb;">[ [Crossposting](https://blogs.oracle.com/rtd/en/entry/facet_based_predictions) from the [Oracle Real-Time Decisions Blog](https://blogs.oracle.com/rtd/). ]</span>
 
-The analytical models method detailed in [a previous post](http://lukasvermeer.wordpress.com/2012/01/24/analytical-models-in-oracle-real-time-decisions/) are not only extremely valuable for reporting, but can also be used to predict likelihoods for things other than regular choices. We can for instance generate predictions based on statistics for an attribute of a choice, rather than the choice itself. We use the term _facet based prediction_ to describe this advanced form of generating predictions.
+The analytical models method detailed in [a previous post](https://lukasvermeer.wordpress.com/2012/01/24/analytical-models-in-oracle-real-time-decisions/) are not only extremely valuable for reporting, but can also be used to predict likelihoods for things other than regular choices. We can for instance generate predictions based on statistics for an attribute of a choice, rather than the choice itself. We use the term _facet based prediction_ to describe this advanced form of generating predictions.
 
 This novel approach to modeling can be applied to significantly improve predictive accuracy and model quality. It can also facilitate the rapid transfer of existing learnings to newly created choices based on their facet values. These capabilities can be of use to practically all implementations, but they are of utmost importance in cases where the number of choices is very high or individual choices have short shelf life. In these instances, there might simply not be enough time or data to be able to predict likelihoods for individual choices. We could predict likelihoods for certain facets of our choices; as long as their cardinality remains relatively low.
 
@@ -37,7 +37,7 @@ Note that we never intend to return any choices from the _Categories_ choice gro
 
 **Recording Events**
 
-Similar to the [example for analytical models](http://blogs.oracle.com/rtd/en/entry/analytical_models), we will record events against a dynamically generated choice representing a facet value rather than against the actual choice. In this example, both the actual choice and the event to record will be passed through a request represented as Strings.
+Similar to the [example for analytical models](https://blogs.oracle.com/rtd/en/entry/analytical_models), we will record events against a dynamically generated choice representing a facet value rather than against the actual choice. In this example, both the actual choice and the event to record will be passed through a request represented as Strings.
 
 {% highlight java %}
 // create a new choice to represent the category facet

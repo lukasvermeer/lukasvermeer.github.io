@@ -11,11 +11,11 @@ header:
   teaser_alt: A teaser image for the Back To Back post.
 ---
 
-[Gruber](http://en.wikipedia.org/wiki/John_Gruber) [asserts](http://daringfireball.net/linked/2011/10/25/back-button).
+[Gruber](https://en.wikipedia.org/wiki/John_Gruber) [asserts](https://daringfireball.net/linked/2011/10/25/back-button).
 
 > Being able to label the back button is a big reason why the iPhone's on-screen buttons are better than Android's hardware Back button. A dedicated hardware Back button can never answer the question "Where?"
 
-Oh really[‽](http://en.wikipedia.org/wiki/Interrobang)
+Oh really[‽](https://en.wikipedia.org/wiki/Interrobang)
 
 The Back button on my browser is not labeled in any way, nor are the (to Gruber perhaps confusingly labeled) emergency "exit" signs in most buildings. Some things are just so blindingly obvious they do not warrant a label at all.
 
@@ -25,7 +25,7 @@ Conversely.
 
 When I click my Android hardware Back button after moving from one application to the next (for instance when opening a map, webpage or dialing a number from within an app) Android does _exactly_ what I would expect; it goes back to the previous screen. As long as I keep tapping that button, Android will take me back; even if I have been moving acros a multitude of applications. Right up until I return to the Home screen[^1].
 
-[This](http://developer.android.com/guide/topics/fundamentals/tasks-and-back-stack.html) makes total sense to me.
+[This](https://developer.android.com/guide/components/activities/tasks-and-back-stack) makes total sense to me.
 
 > When the user presses the BACK key, the current activity is popped from the top of the stack (the activity is destroyed) and the previous activity resumes (the previous state of its UI is restored). Activities in the stack are never rearranged, only pushed and popped from the stack-pushed onto the stack when started by the current activity and popped off when the user leaves it using the BACK key.
 

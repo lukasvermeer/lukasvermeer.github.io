@@ -24,6 +24,6 @@ The simulation simply runs a series of A/A conversion experiments (e.g. there is
 
 Although the post includes a link to the [Perl code](https://gist.github.com/anonymous/2945361) used for the simulation, I figured that for many people downloading and tweaking a script would be too much of a hassle, so I've ported the simulation to a simple web-based implementation.
 
-[![Repeated Significance Testing Simulation Screenshot]({{site.baseurl}}{% link assets/2013-08-23-repeated-significance-testing-screen-shot-2013-08-23-at-3-44-01-pm.png %})](http://www.lukasvermeer.nl/significance/)
+[![Repeated Significance Testing Simulation Screenshot]({{site.baseurl}}{% link assets/2013-08-23-repeated-significance-testing-screen-shot-2013-08-23-at-3-44-01-pm.png %})](https://www.lukasvermeer.nl/significance/)
 
-You can tweak the variables and run your own simulation [in your browser here](http://www.lukasvermeer.nl/projects/significance/), or fork the code yourself [on Github](https://github.com/lukasvermeer/significance).
+You can tweak the variables and run your own simulation [in your browser here](https://www.lukasvermeer.nl/projects/significance/), or fork the code yourself [on Github](https://github.com/lukasvermeer/significance).

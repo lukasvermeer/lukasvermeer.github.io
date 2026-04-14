@@ -13,7 +13,7 @@ header:
   teaser_alt: A teaser image for the Solving Every Sudoku Puzzle Faster post.
 ---
 
-[Peter Norvig](http://norvig.com/)'s excellent essay [Solving Every Sudoku Puzzle](http://norvig.com/sudoku.html) is a fascinating read, and I would highly recommend you read it (or at least scan it briefly) before you read the rest of this post.
+[Peter Norvig](https://norvig.com/)'s excellent essay [Solving Every Sudoku Puzzle](https://norvig.com/sudoku.html) is a fascinating read, and I would highly recommend you read it (or at least scan it briefly) before you read the rest of this post.
 
 **Playing by the rules.**
 
@@ -24,11 +24,11 @@ The program discussed in the article is able to solve every Sudoku puzzle by rep
 
 These rules will make a lot of sense to anyone who has ever tried his or her hand at a Sudoku puzzle. In essence, they describe the most basic rules of the game. But there are puzzles that cannot be solved using these rules alone. When Peter's program gets stuck (i.e. it cannot make any more progress based on these rules alone) it will apply a technique commonly known as 'making an educated guess'.
 
-As one who has [dabbled in solving Sudoku's puzzles before](http://www.xs4all.nl/~destack/projects/sudoku/sudoku.html), I knew that Peter would probably have to resort to [brute-force](http://en.wikipedia.org/wiki/Brute-force_search) guesswork at some point. Some difficult puzzles simply require the human player or computer program to try different options and see if they result in a contradiction. Peter prefers to call this strategy 'searching', but that does not make the idea more compelling to me; or more efficient, for that matter. However, even though the puristic mathematician in me would _like_ to solve every puzzle in a deterministic way, I have to concede that in some cases a little brute-force, applied at the right time and place, can arguably be quite elegant and actually improve performance.
+As one who has [dabbled in solving Sudoku's puzzles before](https://www.xs4all.nl/~destack/projects/sudoku/sudoku.html), I knew that Peter would probably have to resort to [brute-force](https://en.wikipedia.org/wiki/Brute-force_search) guesswork at some point. Some difficult puzzles simply require the human player or computer program to try different options and see if they result in a contradiction. Peter prefers to call this strategy 'searching', but that does not make the idea more compelling to me; or more efficient, for that matter. However, even though the puristic mathematician in me would _like_ to solve every puzzle in a deterministic way, I have to concede that in some cases a little brute-force, applied at the right time and place, can arguably be quite elegant and actually improve performance.
 
 **I just think Peter is bringing out the Big Guns too early in the game.**
 
-When I built a [Sudoku Solver](http://www.xs4all.nl/~destack/projects/sudoku/sudoku.html) some years ago, my aim was to build a program that could help a player identify possible next moves. This meant that the program should be able to give _a reason_ for each of the values it assigned. At the time, for me, "I checked all the possible alternatives and they didn't work" was not an acceptable explanation. So I spent most of my time searching for rules that I could use to deterministically find the solution to a puzzle. 
+When I built a [Sudoku Solver](https://www.xs4all.nl/~destack/projects/sudoku/sudoku.html) some years ago, my aim was to build a program that could help a player identify possible next moves. This meant that the program should be able to give _a reason_ for each of the values it assigned. At the time, for me, "I checked all the possible alternatives and they didn't work" was not an acceptable explanation. So I spent most of my time searching for rules that I could use to deterministically find the solution to a puzzle. 
 
 <span style="color:#bbbbbb;">[Like so many of my projects, I never got around to actually polishing the Sudoku UI and making the software useable to anyone but myself. Once the program was capable of solving most of the puzzles I could find, I lost interest and moved on.]</span>
 
@@ -94,8 +94,8 @@ Reducing the need for brute-force searching improved performance. Still, there a
 
 * * *
 
-**Update (januari 29th):** [Peter Norvig](http://norvig.com/) has kindly allowed me to share the modified version of his program. You can preview the code and download the source [here](http://www.xs4all.nl/~destack/projects/sudo.py/). Thanks Peter!
+**Update (januari 29th):** [Peter Norvig](https://norvig.com/) has kindly allowed me to share the modified version of his program. You can preview the code and download the source [here](https://www.xs4all.nl/~destack/projects/sudo.py/). Thanks Peter!
 
 * * *
 
-**Update (februari 5th):** Okay. So maybe I was jumping to conclusions a little early in the game. [Mea culpa](http://lukasvermeer.wordpress.com/2011/02/05/solving-some-sudoku-puzzles-faster-i-stand-corrected/).
+**Update (februari 5th):** Okay. So maybe I was jumping to conclusions a little early in the game. [Mea culpa](https://lukasvermeer.wordpress.com/2011/02/05/solving-some-sudoku-puzzles-faster-i-stand-corrected/).

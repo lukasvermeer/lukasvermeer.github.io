@@ -14,7 +14,7 @@ header:
   teaser_alt: A teaser image for the Selling Ice to Eskimos post.
 ---
 
-Facebook has recently discovered that beyond the [uncanny valley of personalized marketing](http://lukasvermeer.wordpress.com/2012/02/02/marketing-personalization-and-the-uncanny-valley/) lies the [bottomless pit of invasive identity misappropriation](http://thenextweb.com/media/2012/02/28/if-youre-not-careful-facebook-could-make-you-a-spokesperson-for-personal-lubricant/).
+Facebook has recently discovered that beyond the [uncanny valley of personalized marketing](https://lukasvermeer.wordpress.com/2012/02/02/marketing-personalization-and-the-uncanny-valley/) lies the [bottomless pit of invasive identity misappropriation](https://thenextweb.com/media/2012/02/28/if-youre-not-careful-facebook-could-make-you-a-spokesperson-for-personal-lubricant/).
 
 But there is a deeper problem here. I've [said it before](https://twitter.com/#!/lukasvermeer/status/171300463952670720) and I will say it again. Facebook has the data, but they do not have users with shopping intent. Nobody goes to Facebook to buy stuff. Facebook is for meeting friends, like a bar or a club.
 

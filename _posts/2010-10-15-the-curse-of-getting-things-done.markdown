@@ -12,7 +12,7 @@ header:
   teaser_alt: A teaser image for the The Curse of Getting Things Done post.
 ---
 
-I consider myself to be well organized. Both in my professional and personal life I use [Remember the Milk](http://www.rememberthemilk.com/) for keeping track of almost everything I do using some of the techniques described in [Getting Things Done](http://en.wikipedia.org/wiki/Getting_Things_Done) and practice Inbox Zero almost religiously.
+I consider myself to be well organized. Both in my professional and personal life I use [Remember the Milk](https://www.rememberthemilk.com/) for keeping track of almost everything I do using some of the techniques described in [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done) and practice Inbox Zero almost religiously.
 
 **If I ever actually _forget_ to do something, it's probably because I forgot to write it down.**
 

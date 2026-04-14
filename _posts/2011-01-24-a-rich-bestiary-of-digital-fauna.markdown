@@ -11,4 +11,4 @@ header:
   teaser_alt: A teaser image for the a Rich Bestiary of Digital Fauna post.
 ---
 
-Speaking of [intelligent critters](http://lukasvermeer.wordpress.com/2010/12/17/snakes-on-a-two-dimensional-plane/), Wired has an [excellent article on the topic](http://www.wired.com/magazine/2010/12/ff_ai_essay_airevolution/).
+Speaking of [intelligent critters](https://lukasvermeer.wordpress.com/2010/12/17/snakes-on-a-two-dimensional-plane/), Wired has an [excellent article on the topic](https://www.wired.com/magazine/2010/12/ff_ai_essay_airevolution/).

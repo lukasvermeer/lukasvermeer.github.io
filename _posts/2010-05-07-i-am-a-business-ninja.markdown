@@ -12,11 +12,11 @@ header:
   teaser_alt: A teaser image for the I am a Corporate Ninja post.
 ---
 
-At first, the term [Business Intelligence](http://en.wikipedia.org/wiki/Business_intelligence) (abbr. BI) had me a bit confused. Contrary to my initial interpretation, BI does not concern the mental acuity of corporations or their employees[^1].
+At first, the term [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence) (abbr. BI) had me a bit confused. Contrary to my initial interpretation, BI does not concern the mental acuity of corporations or their employees[^1].
 
-**Business**, as in '[From that moment on I had a much better idea as to how I should go about my business.](http://en.wikipedia.org/wiki/Herakles_(film))'
+**Business**, as in '[From that moment on I had a much better idea as to how I should go about my business.](https://en.wikipedia.org/wiki/Herakles_(film))'
 
-**Intelligence**, as in '[Feudal Japan often used ninja to gather intelligence.](http://en.wikipedia.org/wiki/Espionage)'
+**Intelligence**, as in '[Feudal Japan often used ninja to gather intelligence.](https://en.wikipedia.org/wiki/Espionage)'
 
 Rather than '_Corporate IQ_' Business Intelligence should thus be interpreted more like '_Decision Information_'.
 

@@ -15,7 +15,7 @@ header:
 
 Okay. So maybe I was jumping to conclusions a little early in the game.
 
-After I [posted my own modified version](http://lukasvermeer.wordpress.com/2011/01/29/solving-every-sudoku-puzzle-faster/) of [Peter Norvig](http://norvig.com/)'s [Sudoku Solver](http://norvig.com/sudoku.html), Peter and I had some brief discussion about my results and conclusions. I had only compared the performance of the two algorithms based on the [ninety-five difficult puzzles](http://www.xs4all.nl/~destack/projects/sudo.py/top95.txt) provided by Peter, but he was not convinced. So I set out to make a more rigorous analysis of the relative strengths of our approaches using the method for generating random puzzles included in the original code. The results were a little unexpected, but not very surprising.
+After I [posted my own modified version](https://lukasvermeer.wordpress.com/2011/01/29/solving-every-sudoku-puzzle-faster/) of [Peter Norvig](https://norvig.com/)'s [Sudoku Solver](https://norvig.com/sudoku.html), Peter and I had some brief discussion about my results and conclusions. I had only compared the performance of the two algorithms based on the [ninety-five difficult puzzles](https://www.xs4all.nl/~destack/projects/sudo.py/top95.txt) provided by Peter, but he was not convinced. So I set out to make a more rigorous analysis of the relative strengths of our approaches using the method for generating random puzzles included in the original code. The results were a little unexpected, but not very surprising.
 
 **Fair game.**
 
@@ -23,7 +23,7 @@ To make this a fair competition, I made some slight modifications.
 
 Firstly, I had to ensure that both algorithms were solving the exact same random puzzles. Otherwise one algorithm might, simply by virtue of some serious bad luck, end up with more difficult puzzles. This is especially important since Peter's experiments showed that long execution times (difficult puzzles) are rare but have an extreme impact; a few puzzles taking more than a minute to solve. 
 
-Secondly, I modified the code so that it uses the [timeit](http://docs.python.org/library/timeit.html) module for measuring execution times. This allowed me to measure execution times more precisely.
+Secondly, I modified the code so that it uses the [timeit](https://docs.python.org/3/library/timeit.html) module for measuring execution times. This allowed me to measure execution times more precisely.
 
 **More pudding.**
 

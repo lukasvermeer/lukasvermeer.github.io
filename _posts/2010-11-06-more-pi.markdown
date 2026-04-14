@@ -13,9 +13,9 @@ header:
   teaser_alt: A teaser image for the More Pi post.
 ---
 
-In a [previous post](http://lukasvermeer.wordpress.com/2010/05/06/estimating-pi/) I've explained how we can estimate the number Pi using [Monte Carlo Methods](http://en.wikipedia.org/wiki/Monte_Carlo_method) (basically throwing darts at a circle). I personally think this method is quite elegant, but it is not particularly efficient. It might take a very, very, very long time for it to converge to anything close to the actual number. Still, pretty awesome.
+In a [previous post](https://lukasvermeer.wordpress.com/2010/05/06/estimating-pi/) I've explained how we can estimate the number Pi using [Monte Carlo Methods](https://en.wikipedia.org/wiki/Monte_Carlo_method) (basically throwing darts at a circle). I personally think this method is quite elegant, but it is not particularly efficient. It might take a very, very, very long time for it to converge to anything close to the actual number. Still, pretty awesome.
 
-This week I've compiled a simple, interactive and more visual example using the [jQuery](http://jquery.com/) library and SVG graphics. You can find it [here](http://www.xs4all.nl/~destack/projects/pi/). Let me know what you think.
+This week I've compiled a simple, interactive and more visual example using the [jQuery](https://jquery.com/) library and SVG graphics. You can find it [here](https://www.xs4all.nl/~destack/projects/pi/). Let me know what you think.
 
 * * *
 

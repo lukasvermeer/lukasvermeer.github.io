@@ -15,4 +15,4 @@ header:
   teaser_alt: A teaser image for the Placebo Punctuation post.
 ---
 
-I know [it's almost never necessary to use a semicolon](http://sethgodin.typepad.com/seths_blog/2011/12/assorted-tips-hope-they-help.html), but I like semicolons; they make me feel smart.
+I know [it's almost never necessary to use a semicolon](https://sethgodin.typepad.com/seths_blog/2011/12/assorted-tips-hope-they-help.html), but I like semicolons; they make me feel smart.

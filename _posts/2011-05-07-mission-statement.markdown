@@ -12,7 +12,7 @@ header:
   teaser_alt: A teaser image for the Mission Statement post.
 ---
 
-After reading [Performance Leadership](http://www.frankbuytendijk.com/performanceleadership.htm) by [Frank Buytendijk](http://www.frankbuytendijk.com/) it occurred to me that a good [mission statement](http://en.wikipedia.org/wiki/Mission_statement) might not only be beneficial for organizations. The same idea could also be applied to people.
+After reading [Performance Leadership](https://www.frankbuytendijk.com/performanceleadership.htm) by [Frank Buytendijk](https://www.frankbuytendijk.com/) it occurred to me that a good [mission statement](https://en.wikipedia.org/wiki/Mission_statement) might not only be beneficial for organizations. The same idea could also be applied to people.
 
 As a professional motto, a personal mission statement could give coworkers and employers an idea of what drives you to perform and perhaps provide some guidance to your career. It could give others an idea of the kind of person you are, without immediately baring your entire soul in public.
 

@@ -19,7 +19,7 @@ header:
   teaser_alt: A teaser image for the Recording Events post.
 ---
 
-<span style="color:#bbb;">[ [Crossposting](http://en.wikipedia.org/wiki/Crossposting) here [from](http://blogs.oracle.com/rtd/en/entry/recording_choices) the [Oracle Real-Time Decisions Blog ](http://blogs.oracle.com/rtd/)where I have been [invited](http://blogs.oracle.com/rtd/en/entry/introducing_lukas_vermeer) to contribute. ]</span>
+<span style="color:#bbb;">[ [Crossposting](https://en.wikipedia.org/wiki/Crossposting) here [from](https://blogs.oracle.com/rtd/en/entry/recording_choices) the [Oracle Real-Time Decisions Blog ](https://blogs.oracle.com/rtd/)where I have been [invited](https://blogs.oracle.com/rtd/en/entry/introducing_lukas_vermeer) to contribute. ]</span>
 
 There is always more than one way to skin a cat; it's just that some ways to excoriate a feline are more efficient than others. This is certainly true for the way in which we can record events against choices in RTD, and the differences in performance can be striking.
 

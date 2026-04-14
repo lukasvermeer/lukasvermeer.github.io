@@ -16,9 +16,9 @@ header:
   teaser_alt: A teaser image for the All You Need Is a Good Brainwashing post.
 ---
 
-[Classical conditioning](http://en.wikipedia.org/wiki/Classical_conditioning) is underrated. Too many bad spy movies have taught us that 'brainwashing' is bad.
+[Classical conditioning](https://en.wikipedia.org/wiki/Classical_conditioning) is underrated. Too many bad spy movies have taught us that 'brainwashing' is bad.
 
-But conditioning can be a&nbsp;powerful&nbsp;tool for self-improvement.&nbsp;I've deliberately been playing the Brian Eno song [Thursday Afternoon](http://en.wikipedia.org/wiki/Thursday_Afternoon) every time I felt myself immersed in '[the zone](http://jacquesmattheij.com/living+in+the+zone)'. In my mind, the track and the mental state have now become intricately linked. This is so much the case that I can now descend into productivity Walhalla simply by listening to my personal work anthem.
+But conditioning can be a&nbsp;powerful&nbsp;tool for self-improvement.&nbsp;I've deliberately been playing the Brian Eno song [Thursday Afternoon](https://en.wikipedia.org/wiki/Thursday_Afternoon) every time I felt myself immersed in 'the zone'. In my mind, the track and the mental state have now become intricately linked. This is so much the case that I can now descend into productivity Walhalla simply by listening to my personal work anthem.
 
 In effect, I've brainwashed myself to work better in response to a particular tune.
 

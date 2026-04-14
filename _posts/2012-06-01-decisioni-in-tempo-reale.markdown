@@ -14,7 +14,7 @@ header:
   teaser_alt: A teaser image for the Decisioni in Tempo Reale post.
 ---
 
-I'll be chairing a [implementation round-table session](http://www.oracle.com/goto/RealTimeDecisions) in Rome next month; involving both customers and partners. Sign up if you want to learn more about implementing RTD
+I'll be chairing a [implementation round-table session](https://www.oracle.com/goto/RealTimeDecisions) in Rome next month; involving both customers and partners. Sign up if you want to learn more about implementing RTD
 
 Looking forward to meeting old friends and new prospects to discuss the latest in the world Oracle Real-Time Decisions.
 

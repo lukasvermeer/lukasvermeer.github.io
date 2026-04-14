@@ -13,11 +13,11 @@ header:
   teaser_alt: A teaser image for the Copying Bits in the Fastlane post.
 ---
 
-I've finally gotten 'round to [rooting](http://wiki.allshadow.com/index.php/G1_Root) my 'old' [G1](http://www.t-mobileg1.com/) phone and installing the [Cyanogen](http://www.cyanogenmod.com/) firmware. I will not bore you with the technical details of flashing firmware, but I would like to share an observation. To illustrate my point, I will need to cite some of the steps involved.
+I've finally gotten 'round to [rooting](http://wiki.allshadow.com/index.php/G1_Root) my 'old' [G1](https://www.t-mobileg1.com/) phone and installing the [Cyanogen](http://www.cyanogenmod.com/) firmware. I will not bore you with the technical details of flashing firmware, but I would like to share an observation. To illustrate my point, I will need to cite some of the steps involved.
 
 **The technicalities of the following citations do not matter all that much, so if you want, you can skip right to the short translation. There will be no pop-quiz at the end, I promise.**
 
-Rooting the G1 is not as complicated as you might expect from the [enormous amount of steps involved](http://mapleator.de/?p=19). The biggest obstacle for me proved to be the fact that I do not have a copy of Windows installed on any of my computers, so the following steps in the ["the unlockr" guide](http://theunlockr.com/2010/03/10/how-to-create-a-goldcard/) (referred to by none other than [Cyanogen](http://wiki.cyanogenmod.com/index.php/Full_Update_Guide_-_G1/Dream_Firmware_to_CyanogenMod#Troubleshooting) himself) were practically impossible for me (underlining is mine; and as promised, there is a short translation below).
+Rooting the G1 is not as complicated as you might expect from the enormous amount of steps involved. The biggest obstacle for me proved to be the fact that I do not have a copy of Windows installed on any of my computers, so the following steps in the ["the unlockr" guide](http://theunlockr.com/2010/03/10/how-to-create-a-goldcard/) (referred to by none other than [Cyanogen](http://wiki.cyanogenmod.com/index.php/Full_Update_Guide_-_G1/Dream_Firmware_to_CyanogenMod#Troubleshooting) himself) were practically impossible for me (underlining is mine; and as promised, there is a short translation below).
 > <span style="color:#c0c0c0;">9. Now, goto </span><span style="color:#c0c0c0;">http://download.cnet.com/HxD-Hex-Editor/3000-2352-10891068.html?part=dl-HxDHexEdi&subj=uo&tag=button</span><span style="color:#888888;"><span style="color:#c0c0c0;"> to </span><span style="text-decoration:underline;"><span style="color:#c0c0c0;">download the HxD Hex Editor</span></span><span style="color:#c0c0c0;">. Save it and install it to your computer.</span></span>> 
 > 
 > <span style="color:#c0c0c0;">10. Take your SD card out of your phone and put it into the SD adapter it came with. Then put that into your computer so it shows up on your computer as Removable Disk.</span>> 
@@ -36,7 +36,7 @@ Translation: download software of dubious origin, run software as Administrator,
 
 **I mean, this is a computer; it copies bits all the time!**
 
-Luckily I was not the only Android enthusiast stumped by these Windows-only (and frankly, rather convoluted, manual  and error-prone) steps. [Someone else had already solved the problem for me](http://mapleator.de/?p=19) (thanks, Sven). The steps in his guide (for Mac or Linux) seems a lot simpler to me (again, underlining mine and translation below).
+Luckily I was not the only Android enthusiast stumped by these Windows-only (and frankly, rather convoluted, manual  and error-prone) steps. Someone else had already solved the problem for me (thanks, Sven). The steps in his guide (for Mac or Linux) seems a lot simpler to me (again, underlining mine and translation below).
 
 > <span style="color:#c0c0c0;">1 .Open your Mac's Terminal under Applications -> Utilities ->Terminal (Or your Linux-Terminal)</span>> 
 > 
@@ -48,20 +48,20 @@ Luckily I was not the only Android enthusiast stumped by these Windows-only (and
 > 
 > <span style="color:#c0c0c0;">5. Now create your goldcard with </span>_<span style="color:#888888;"><span style="text-decoration:underline;"><span style="color:#c0c0c0;">sudo dd bs=512 if=~/goldcard.img of=/dev/disk2</span></span></span>_<span style="color:#c0c0c0;">. If you need to, replace the 2 again. Confirm, wait, enter your users password (or under linux your roots password) and confirm again.</span>
 
-Translation: figure out which disk you need, copy bits to disk. The [dd command](http://en.wikipedia.org/wiki/Dd_(Unix)) used here is available in every flavor of *nix I've ever encountered. Let me break that crucial fifth step down for you.
+Translation: figure out which disk you need, copy bits to disk. The [dd command](https://en.wikipedia.org/wiki/Dd_(Unix)) used here is available in every flavor of *nix I've ever encountered. Let me break that crucial fifth step down for you.
 
-**[sudo](http://xkcd.com/149/)** I am the Administrator, do the following as I say! (normal users are not allowed copy bits this way, that would be a Very Bad Idea)
+**[sudo](https://xkcd.com/149/)** I am the Administrator, do the following as I say! (normal users are not allowed copy bits this way, that would be a Very Bad Idea)
 
 **dd** Copy bits
 
-**bs=512** in [chunks of 512 bits](http://unix.derkeiler.com/Mailing-Lists/FreeBSD/questions/2008-09/msg01345.html) ("bs" stands for "block size", in this case, not [cow manure](http://en.wikipedia.org/wiki/Bullshit))
+**bs=512** in [chunks of 512 bits](http://unix.derkeiler.com/Mailing-Lists/FreeBSD/questions/2008-09/msg01345.html) ("bs" stands for "block size", in this case, not [cow manure](https://en.wikipedia.org/wiki/Bullshit))
 
 **if=~/goldcard.img** from this file ("if" for "in file" and "~/" just means the file is in my home folder)
 
-**of=/dev/disk2** to this disk ("of" for "out file" and "/dev" is the [Device File ](http://en.wikipedia.org/wiki//dev)folder, where *nix pretends devices attached are just files e.g. disk2 for my SD-Card).
+**of=/dev/disk2** to this disk ("of" for "out file" and "/dev" is the [Device File ](https://en.wikipedia.org/wiki//dev)folder, where *nix pretends devices attached are just files e.g. disk2 for my SD-Card).
 
 It could be me, but that looks a lot simpler (and faster and less error-prone) to me than the Windows instructions.
 
 The problem seems to be that, although Windows is perceived to be easy to use (and it probably is, up to some point), the lack of real and raw power under-the-hood can make anything as trivial as copying a few bits impossible without resorting to downloading dubious applications. It's like having a car that is pretty and easy to drive, as long as you stay out of the fastlane.
 
-And that, my friends, is one of the reasons why people like me do not like Windows very much. We nerds, we like living [life in the fastlane](http://www.youtube.com/watch?v=o5FXw0ARBUo).
+And that, my friends, is one of the reasons why people like me do not like Windows very much. We nerds, we like living [life in the fastlane](https://www.youtube.com/watch?v=o5FXw0ARBUo).

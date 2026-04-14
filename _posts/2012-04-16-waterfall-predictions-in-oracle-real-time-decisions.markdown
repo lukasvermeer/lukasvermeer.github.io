@@ -19,9 +19,9 @@ header:
     post.
 ---
 
-<span style="color:#bbb;">[ [Crossposting](https://blogs.oracle.com/rtd/en/entry/waterfall_predictions) from the [Oracle Real-Time Decisions Blog](http://blogs.oracle.com/rtd/). ]</span>
+<span style="color:#bbb;">[ [Crossposting](https://blogs.oracle.com/rtd/en/entry/waterfall_predictions) from the [Oracle Real-Time Decisions Blog](https://blogs.oracle.com/rtd/). ]</span>
 
-Facet Based Predictions are a powerful method to increase predictive accuracy and facilitate rapid learning and knowledge transfer, but the simple approach described in [an earlier post](http://lukasvermeer.wordpress.com/2012/02/17/facet-based-predictions-in-oracle-real-time-decisions/) comes at a price. By using a single facet rather than individual choices for prediction, we decrease the granularity of our predictions. Choices that share the same facet value will be treated as equals by our predictive model; and even when important distinctions could be made after sufficient feedback is collected our simple facet based model will never learn to exploit these differences.
+Facet Based Predictions are a powerful method to increase predictive accuracy and facilitate rapid learning and knowledge transfer, but the simple approach described in [an earlier post](https://lukasvermeer.wordpress.com/2012/02/17/facet-based-predictions-in-oracle-real-time-decisions/) comes at a price. By using a single facet rather than individual choices for prediction, we decrease the granularity of our predictions. Choices that share the same facet value will be treated as equals by our predictive model; and even when important distinctions could be made after sufficient feedback is collected our simple facet based model will never learn to exploit these differences.
 
 In most cases, the advantages of facet based models will outweigh the drawback of a reduction in granularity. This is especially true in implementations where shelf-life is short and no individual choice is ever expected to gather enough responses to build a predictive model. However, sometimes we will want to combine the power of facet based prediction with the accuracy of models defined at the lowest level of granularity; for instance when some choices are expected to collect sufficient feedback while others are not.
 
@@ -31,7 +31,7 @@ The complete and open decision management framework architecture of Oracle Real-
 
 In essence, the waterfall method described here will try to predict a likelihood at the lowest possible level of granularity. If the choice based model at this grade has not received enough feedback to be considered mature, we will resort to a facet based model.
 
-This implementation will build on the example described in [our previous post about facet based prediction](http://lukasvermeer.wordpress.com/2012/02/17/facet-based-predictions-in-oracle-real-time-decisions/).
+This implementation will build on the example described in [our previous post about facet based prediction](https://lukasvermeer.wordpress.com/2012/02/17/facet-based-predictions-in-oracle-real-time-decisions/).
 
 **Product Model Setup**
 
@@ -94,7 +94,7 @@ Similar to before, on the scores tab for the Products choice group we configure 
 
 ![Waterfall Score]({{site.baseurl}}{% link assets/2012-04-16-waterfall-predictions-in-oracle-real-time-decisions-waterfallscore.jpg %} "Waterfall Score")
 
-These simple changes to our previous example empower our new implementation to benefit from two models at varying levels of granularity; leveraging both the accuracy of choice based models and the advantages of [facet based prediction](http://lukasvermeer.wordpress.com/2012/02/17/facet-based-predictions-in-oracle-real-time-decisions/).
+These simple changes to our previous example empower our new implementation to benefit from two models at varying levels of granularity; leveraging both the accuracy of choice based models and the advantages of [facet based prediction](https://lukasvermeer.wordpress.com/2012/02/17/facet-based-predictions-in-oracle-real-time-decisions/).
 
 **The Power of Waterfall Prediction**
 

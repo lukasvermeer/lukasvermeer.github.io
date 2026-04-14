@@ -21,9 +21,9 @@ header:
     Mining post.
 ---
 
-[Oracle Data Mining](http://www.oracle.com/technetwork/database/options/advanced-analytics/odm/index.html) (ODM) provides powerful data mining functionality as native SQL functions within the Oracle Database. This [Oracle By Example Tutorial](http://apex.oracle.com/pls/apex/f?p=44785:24:5873518276883::NO:24:P24_CONTENT_ID,P24_PREV_PAGE:5271,2) gives a good overview of the GUI.
+[Oracle Data Mining](https://www.oracle.com/technetwork/database/options/advanced-analytics/odm/index.html) (ODM) provides powerful data mining functionality as native SQL functions within the Oracle Database. This [Oracle By Example Tutorial](https://apex.oracle.com/pls/apex/f?p=44785:24:5873518276883::NO:24:P24_CONTENT_ID,P24_PREV_PAGE:5271,2) gives a good overview of the GUI.
 
-While being able to build predictive models on mountains of data without moving it out of the database is pretty cool in itself, I feel analysis without action is pretty much pointless. [Tom Davenport](http://www.tomdavenport.com) describes this common data mining conundrum in [Competing on Analytics](http://www.amazon.com/Competing-Analytics-New-Science-Winning/dp/1422103323).
+While being able to build predictive models on mountains of data without moving it out of the database is pretty cool in itself, I feel analysis without action is pretty much pointless. [Tom Davenport](https://www.tomdavenport.com) describes this common data mining conundrum in [Competing on Analytics](https://www.amazon.com/Competing-Analytics-New-Science-Winning/dp/1422103323).
 
 > Many firms are able to segment their customers and determine which ones are most profitable or which are most likely to defect. However, they are reluctant to treat different customers differently-out of tradition or egalitarianism or whatever. With such compunctions, they will have a very difficult time becoming successful analytical competitors-yet it is surprising how often companies initiate analyses without ever acting on them. **The "action" stage of any analytical effort is, of course, the only one that ultimately counts.**
 
@@ -33,7 +33,7 @@ In a classical data mining approach, the predictions of this model would be writ
 
 Output tables are where analytical insight goes to die.
 
-If all we were interested in was building models, we'd be better off [glueing choo-choos](http://www.marklin.com). It is the new ways in which we can utilise these database resident models that makes this technology really interesting. With a few simple additional steps, this same model can be used in real-time to provide inline predictions based on up-to-date customer data; as well as for new customers.
+If all we were interested in was building models, we'd be better off [glueing choo-choos](https://www.marklin.com). It is the new ways in which we can utilise these database resident models that makes this technology really interesting. With a few simple additional steps, this same model can be used in real-time to provide inline predictions based on up-to-date customer data; as well as for new customers.
 
 All we need is a view<del> and a join</del>.
 
@@ -71,6 +71,6 @@ Elapsed: 00:00:00.004
 
 Seamless. Any system that can read data from an Oracle database can now utilise Oracle Data Mining models. No need to move your data. No need to build new applications.
 
-Applications reading data from the view need never know the difference between the original source data and machine generated predictions. [Oracle Business Intelligence Publisher](http://www.oracle.com/us/solutions/business-analytics/business-intelligence/publisher/overview/index.html) can easily display this data in forecasting reports; or use it to power pro-active alerts. In [Oracle Real-Time Decisions](http://www.oracle.com/us/solutions/business-analytics/business-intelligence/real-time-decisions/overview/index.html), rules can be built around the outcomes of these models; or predictions from multiple sources can be fed into [combined likelihood models](https://blogs.oracle.com/rtd/en/entry/combined_likelihood_models) for increased accuracy.
+Applications reading data from the view need never know the difference between the original source data and machine generated predictions. [Oracle Business Intelligence Publisher](https://www.oracle.com/us/solutions/business-analytics/business-intelligence/publisher/overview/index.html) can easily display this data in forecasting reports; or use it to power pro-active alerts. In [Oracle Real-Time Decisions](https://www.oracle.com/us/solutions/business-analytics/business-intelligence/real-time-decisions/overview/index.html), rules can be built around the outcomes of these models; or predictions from multiple sources can be fed into [combined likelihood models](https://blogs.oracle.com/rtd/en/entry/combined_likelihood_models) for increased accuracy.
 
 This is huge. Trust me. Stop over-analysing and start taking action. After all, that's the only step that ultimately counts.

@@ -19,9 +19,9 @@ header:
     post.
 ---
 
-<span style="color:#bbb;">[ [Crossposting](http://blogs.oracle.com/rtd/en/entry/analytical_models) from the [Oracle Real-Time Decisions Blog](http://blogs.oracle.com/rtd/). ]</span>
+<span style="color:#bbb;">[ [Crossposting](https://blogs.oracle.com/rtd/en/entry/analytical_models) from the [Oracle Real-Time Decisions Blog](https://blogs.oracle.com/rtd/). ]</span>
 
-As explained in a [previous post](http://lukasvermeer.wordpress.com/2012/01/10/recording-choices/), we can record events against unsourced dynamic choices created on-the-fly using the getPrototype method. Choices instantiated in this fashion, and the events recorded against them, will be visible in decision center reports.
+As explained in a [previous post](https://lukasvermeer.wordpress.com/2012/01/10/recording-choices/), we can record events against unsourced dynamic choices created on-the-fly using the getPrototype method. Choices instantiated in this fashion, and the events recorded against them, will be visible in decision center reports.
 
 This enables us to create extensive reporting based on arbitrary input from different sources without the need to specify all the possible choice values upfront. Creating so-called analytical models can be very useful for analysis.
 
