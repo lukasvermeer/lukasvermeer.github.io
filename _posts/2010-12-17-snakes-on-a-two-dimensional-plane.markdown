@@ -14,7 +14,7 @@ header:
   teaser_alt: A teaser image for the Snakes on a Two-dimensional Plane post.
 ---
 
-<span style="color:#bbb;">[This post is based around a very old pet project of mine. I thought it worthwhile to describe this golden oldie some more detail and relate it to my current work.]</span>
+> *Note: This post is based around a very old pet project of mine. I thought it worthwhile to describe this golden oldie some more detail and relate it to my current work.*
 
 Do you remember those old [Nokia 3210](https://en.wikipedia.org/wiki/Nokia_3210) phones? Remember what an awesome game [Snake](https://en.wikipedia.org/wiki/Snake_(video_game)#Snake_on_Nokia_phones) used to be?
 

@@ -30,7 +30,7 @@ As one who has [dabbled in solving Sudoku's puzzles before](https://www.xs4all.n
 
 When I built a [Sudoku Solver](https://www.xs4all.nl/~destack/projects/sudoku/sudoku.html) some years ago, my aim was to build a program that could help a player identify possible next moves. This meant that the program should be able to give _a reason_ for each of the values it assigned. At the time, for me, "I checked all the possible alternatives and they didn't work" was not an acceptable explanation. So I spent most of my time searching for rules that I could use to deterministically find the solution to a puzzle. 
 
-<span style="color:#bbbbbb;">[Like so many of my projects, I never got around to actually polishing the Sudoku UI and making the software useable to anyone but myself. Once the program was capable of solving most of the puzzles I could find, I lost interest and moved on.]</span>
+> *Note: Like so many of my projects, I never got around to actually polishing the Sudoku UI and making the software useable to anyone but myself. Once the program was capable of solving most of the puzzles I could find, I lost interest and moved on.*
 
 I found that I could reduce most of the rules I came up with (and rules I found in Sudoku guide books) to two simple rules.
 
@@ -47,7 +47,7 @@ For example when N is two (see image). If there are only two places where the va
 
 I wanted to see if my generalized rule number two could improve the (already impressive) performance of Peter's program. I'd never worked with Python before, but that was no object. Peter's programming and article are so clear it was relatively simple to adapt the logic to implement the generalized rule number two for the case where `N = 2`.
 
-<span style="color:#bbbbbb;">[My implementation is probably a bit crude. I'm open to suggestions. Never too old to learn.]</span>
+> *Note: My implementation is probably a bit crude. I'm open to suggestions. Never too old to learn.*
 
 First, I needed to alter the `assign` method so it can handle multiple possible values.
 

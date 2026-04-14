@@ -19,7 +19,7 @@ header:
     Decisions post.
 ---
 
-<span style="color:#bbb;">[ [Crossposting](https://blogs.oracle.com/rtd/en/entry/combined_likelihood_models) from the [Oracle Real-Time Decisions Blog](https://blogs.oracle.com/rtd/). ]</span>
+> *Note: [Crossposting](https://blogs.oracle.com/rtd/en/entry/combined_likelihood_models) from the [Oracle Real-Time Decisions Blog](https://blogs.oracle.com/rtd/).*
 
 In a series of posts on this blog we have already described a [flexible approach to recording events](https://lukasvermeer.wordpress.com/2012/01/10/recording-choices/), a [technique to create analytical models for reporting](https://lukasvermeer.wordpress.com/2012/01/24/analytical-models-in-oracle-real-time-decisions/), a [method that uses the same principles to generate extremely powerful facet based predictions](https://lukasvermeer.wordpress.com/2012/02/17/facet-based-predictions-in-oracle-real-time-decisions/) and a [waterfall strategy that can be used to blend multiple (possibly facet based) models for increased accuracy](https://lukasvermeer.wordpress.com/2012/04/16/waterfall-predictions-in-oracle-real-time-decisions/).
 

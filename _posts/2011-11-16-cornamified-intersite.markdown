@@ -16,6 +16,6 @@ After consulting [the Interwebs](https://twitter.com/#!/lukasvermeer/status/1364
 
 [Enjoy](https://lukasvermeer.nl)!
 
-<span style="color:#bbb;">[ Video [<span style="color:#bbb;">is related</span>](https://knowyourmeme.com/memes/picture-unrelated). ]</span>
+> *Note: Video [is related](https://knowyourmeme.com/memes/picture-unrelated).*
 
 {% include video id="eWM2joNb9NE" provider="youtube" %}

@@ -15,7 +15,7 @@ header:
   teaser_alt: A teaser image for the Estimating Pi post.
 ---
 
-<span style="color:#bbb;">[I've [tweeted ](https://twitter.com/lukasvermeer/status/9197883776)about [this](https://twitter.com/lukasvermeer/status/9197886895) before, but I feel the need to explain.]</span>
+> *Note: I've [tweeted ](https://twitter.com/lukasvermeer/status/9197883776)about [this](https://twitter.com/lukasvermeer/status/9197886895) before, but I feel the need to explain.*
 
 I want to share with you my favorite algorithm. It may not be pretty, efficient or even practical, but I love it for it's misleading simplicity and hidden complexity. It is a [Probabilistic (Randomized) Algorithm](https://en.wikipedia.org/wiki/Randomized_algorithm) that combines [statistics](https://en.wikipedia.org/wiki/Statistics) and [Euclidean geometry](https://en.wikipedia.org/wiki/Euclidean_geometry) by using the [Pythagorean theorem](https://en.wikipedia.org/wiki/Pythagoras#Pythagorean_theorem) and the [Law of Large Numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers) to estimate [Pi](https://en.wikipedia.org/wiki/Pi). I first learned about this algorithm when I was at [Utrecht University](https://www.uu.nl/) studying [Computing Science](https://www.cs.uu.nl/).
 

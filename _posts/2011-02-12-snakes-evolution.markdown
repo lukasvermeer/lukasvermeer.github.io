@@ -111,7 +111,7 @@ And if you think that the latter is the case, what does this imply for your _own
 
 **You might not want to _think_ about that for too long, because you might not like the answer.**
 
-<span style="color:#bbbbbb;">[I am deeply sorry if I've offended any poodle fanatics with the examples used in this article. You have to admit, they do look rather silly. If evolution were ever to blame for causing something awful it would be those poor poodles.]</span>
+> *Note: I am deeply sorry if I've offended any poodle fanatics with the examples used in this article. You have to admit, they do look rather silly. If evolution were ever to blame for causing something awful it would be those poor poodles.*
 
 * * *
 

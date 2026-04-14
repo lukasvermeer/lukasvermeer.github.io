@@ -25,7 +25,7 @@ If you have no difficulty coming up with six-letter English words that have an n
 
 Just like the "[Linda is a bank teller](https://lukasvermeer.wordpress.com/2010/08/21/the-moral-of-a-good-story/)" example, one answer encompasses the whole of the other answer.
 
-<span style="color:#bbb;">[Note that Mlodinow implicitly (and [correctly](https://www.answers.com/Q/What_6_letter_words_has_n_as_the_fifth_letter)) assumes that there exist six-letter English words that have an n as their fifth letter but _do not_ end in ing. Otherwise the two groups would have been equal in size.]</span>
+> *Note: Note that Mlodinow implicitly (and [correctly](https://www.answers.com/Q/What_6_letter_words_has_n_as_the_fifth_letter)) assumes that there exist six-letter English words that have an n as their fifth letter but _do not_ end in ing. Otherwise the two groups would have been equal in size.*
 
 Mlodinow explains why we guessed wrong:
 

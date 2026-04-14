@@ -19,4 +19,4 @@ header:
 > 
 > 1.  Those who can extrapolate from incomplete data.
 
-<span style="color:#bbb;">[ Via [@professorkitteh](https://twitter.com/#!/professorkitteh/status/190231520215183361). Original source unknown. ]</span>
+> *Note: Via [@professorkitteh](https://twitter.com/#!/professorkitteh/status/190231520215183361). Original source unknown.*

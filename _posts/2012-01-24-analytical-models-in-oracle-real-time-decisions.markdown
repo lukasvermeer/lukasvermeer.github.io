@@ -19,7 +19,7 @@ header:
     post.
 ---
 
-<span style="color:#bbb;">[ [Crossposting](https://blogs.oracle.com/rtd/en/entry/analytical_models) from the [Oracle Real-Time Decisions Blog](https://blogs.oracle.com/rtd/). ]</span>
+> *Note: [Crossposting](https://blogs.oracle.com/rtd/en/entry/analytical_models) from the [Oracle Real-Time Decisions Blog](https://blogs.oracle.com/rtd/).*
 
 As explained in a [previous post](https://lukasvermeer.wordpress.com/2012/01/10/recording-choices/), we can record events against unsourced dynamic choices created on-the-fly using the getPrototype method. Choices instantiated in this fashion, and the events recorded against them, will be visible in decision center reports.
 
@@ -60,7 +60,7 @@ In order to actually find and report on correlations, we will need to define at 
 
 The reports in decision center will show the reason codes sent to the informant as if they were dynamic choices and calculate statistics and correlations against session attributes.
 
-<span style="color:#bbb;">(In this example, an Oracle Real-Time Decisions Load Balancer script was used to send four different codes to the ILS with a severe bias towards certain age groups.)</span>
+*(In this example, an Oracle Real-Time Decisions Load Balancer script was used to send four different codes to the ILS with a severe bias towards certain age groups.)*
 
 ![Decision center report for Reason choice, analysis tab.]({{site.baseurl}}{% link assets/2012-01-24-analytical-models-in-oracle-real-time-decisions-reasonsreport.jpg %})
 

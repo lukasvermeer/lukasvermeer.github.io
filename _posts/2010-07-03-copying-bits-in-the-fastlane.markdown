@@ -18,19 +18,19 @@ I've finally gotten 'round to rooting my 'old' [G1](https://www.t-mobileg1.com/)
 **The technicalities of the following citations do not matter all that much, so if you want, you can skip right to the short translation. There will be no pop-quiz at the end, I promise.**
 
 Rooting the G1 is not as complicated as you might expect from the enormous amount of steps involved. The biggest obstacle for me proved to be the fact that I do not have a copy of Windows installed on any of my computers, so the following steps in the ["the unlockr" guide](https://theunlockr.com/2010/03/10/how-to-create-a-goldcard/) (referred to by none other than Cyanogen himself) were practically impossible for me (underlining is mine; and as promised, there is a short translation below).
-> <span style="color:#c0c0c0;">9. Now, goto </span><span style="color:#c0c0c0;">https://download.cnet.com/HxD-Hex-Editor/3000-2352-10891068.html?part=dl-HxDHexEdi&subj=uo&tag=button</span><span style="color:#888888;"><span style="color:#c0c0c0;"> to </span><span style="text-decoration:underline;"><span style="color:#c0c0c0;">download the HxD Hex Editor</span></span><span style="color:#c0c0c0;">. Save it and install it to your computer.</span></span>> 
+> *9. Now, goto**https://download.cnet.com/HxD-Hex-Editor/3000-2352-10891068.html?part=dl-HxDHexEdi&subj=uo&tag=button** to***download the HxD Hex Editor***. Save it and install it to your computer.*> 
 > 
-> <span style="color:#c0c0c0;">10. Take your SD card out of your phone and put it into the SD adapter it came with. Then put that into your computer so it shows up on your computer as Removable Disk.</span>> 
+> *10. Take your SD card out of your phone and put it into the SD adapter it came with. Then put that into your computer so it shows up on your computer as Removable Disk.*> 
 > 
-> <span style="color:#888888;"><span style="color:#c0c0c0;">11. Open the Hex Editor (</span><span style="text-decoration:underline;"><span style="color:#c0c0c0;">Run as Administrator</span></span><span style="color:#c0c0c0;"> if one Vista or Windows 7) and click on the Extra tab, then click on Open Disk. </span></span>**<span style="color:#c0c0c0;">Under Physical Disk</span>**<span style="color:#c0c0c0;"> select Removable Disk (your SD card you just put into the computer). Make sure to UNcheck "Open as ReadOnly". Click OK.</span>> 
+> *11. Open the Hex Editor (***Run as Administrator***if one Vista or Windows 7) and click on the Extra tab, then click on Open Disk.****Under Physical Disk****select Removable Disk (your SD card you just put into the computer). Make sure to UNcheck "Open as ReadOnly". Click OK.*> 
 > 
-> <span style="color:#c0c0c0;">12. Goto the Extra tab again and click Open Disk Image. Open up the goldcard.img that you saved from your email. You should now have two tabs, one is the SD card (Removable Disk) and the other is the goldcard.img. Press OK when prompted for Sector Size 512 (Hard Disks/Floppy Disks).</span>> 
+> *12. Goto the Extra tab again and click Open Disk Image. Open up the goldcard.img that you saved from your email. You should now have two tabs, one is the SD card (Removable Disk) and the other is the goldcard.img. Press OK when prompted for Sector Size 512 (Hard Disks/Floppy Disks).*> 
 > 
-> <span style="color:#888888;"><span style="color:#c0c0c0;">13. Click on the Goldcard.img tab and click on the Edit tab and click Select All. Then click on the Edit tab again and click </span><span style="text-decoration:underline;"><span style="color:#c0c0c0;">Copy</span></span><span style="color:#c0c0c0;">.</span></span>> 
+> *13. Click on the Goldcard.img tab and click on the Edit tab and click Select All. Then click on the Edit tab again and click***Copy***.*> 
 > 
-> <span style="color:#888888;"><span style="color:#c0c0c0;">14. Click on the Removable Disk tab (Your SD Card) and select offset 00000000 to 00000170 then click on the Edit tab and click </span><span style="text-decoration:underline;"><span style="color:#c0c0c0;">Paste</span></span><span style="color:#c0c0c0;"> Write.</span></span>> 
+> *14. Click on the Removable Disk tab (Your SD Card) and select offset 00000000 to 00000170 then click on the Edit tab and click***Paste***Write.*> 
 > 
-> <span style="color:#888888;"><span style="color:#c0c0c0;">15. Click on File then click </span><span style="text-decoration:underline;"><span style="color:#c0c0c0;">Save</span></span><span style="color:#c0c0c0;">.</span></span>
+> *15. Click on File then click***Save***.*
 
 Translation: download software of dubious origin, run software as Administrator, open disk, click a few things, copy/paste a few bits, save. Apparently all we want to do here is copy some bits from a file to (the beginning of) a disk. Copying a few bits can't be this hard, right?
 
@@ -38,15 +38,15 @@ Translation: download software of dubious origin, run software as Administrator,
 
 Luckily I was not the only Android enthusiast stumped by these Windows-only (and frankly, rather convoluted, manual  and error-prone) steps. Someone else had already solved the problem for me (thanks, Sven). The steps in his guide (for Mac or Linux) seems a lot simpler to me (again, underlining mine and translation below).
 
-> <span style="color:#c0c0c0;">1 .Open your Mac's Terminal under Applications -> Utilities ->Terminal (Or your Linux-Terminal)</span>> 
+> *1 .Open your Mac's Terminal under Applications -> Utilities ->Terminal (Or your Linux-Terminal)*> 
 > 
-> <span style="color:#c0c0c0;">2. Enter </span>_<span style="color:#c0c0c0;">diskutil list </span>_<span style="color:#c0c0c0;">and confirm</span>> 
+> *2. Enter*_*diskutil list*_*and confirm*> 
 > 
-> <span style="color:#c0c0c0;">3. You should be able to see your SD-Card now. You can recognize it from its size (mine is 2GB) and that its type is </span>_<span style="color:#c0c0c0;">DOS_FAT_32</span>_<span style="color:#c0c0c0;">. As IDENTIFIER it says disk2s1.Remember this identifier.</span>> 
+> *3. You should be able to see your SD-Card now. You can recognize it from its size (mine is 2GB) and that its type is*_*DOS_FAT_32*_*. As IDENTIFIER it says disk2s1.Remember this identifier.*> 
 > 
-> <span style="color:#c0c0c0;">4. Now unmount the card the folowing way: If your identifier was disk2s1 enter </span>_<span style="color:#c0c0c0;">diskutil unmountDisk /dev/disk2</span>_<span style="color:#c0c0c0;"> and confirm. If not, you have to replace the 2 with your value (the value that is written right after the word disk).</span>> 
+> *4. Now unmount the card the folowing way: If your identifier was disk2s1 enter*_*diskutil unmountDisk /dev/disk2*_*and confirm. If not, you have to replace the 2 with your value (the value that is written right after the word disk).*> 
 > 
-> <span style="color:#c0c0c0;">5. Now create your goldcard with </span>_<span style="color:#888888;"><span style="text-decoration:underline;"><span style="color:#c0c0c0;">sudo dd bs=512 if=~/goldcard.img of=/dev/disk2</span></span></span>_<span style="color:#c0c0c0;">. If you need to, replace the 2 again. Confirm, wait, enter your users password (or under linux your roots password) and confirm again.</span>
+> *5. Now create your goldcard with*_**sudo dd bs=512 if=~/goldcard.img of=/dev/disk2**_*. If you need to, replace the 2 again. Confirm, wait, enter your users password (or under linux your roots password) and confirm again.*
 
 Translation: figure out which disk you need, copy bits to disk. The [dd command](https://en.wikipedia.org/wiki/Dd_(Unix)) used here is available in every flavor of *nix I've ever encountered. Let me break that crucial fifth step down for you.
 

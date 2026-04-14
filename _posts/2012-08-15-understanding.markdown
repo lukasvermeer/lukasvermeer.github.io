@@ -40,4 +40,4 @@ There will always be limits to our understanding. The fact that we have a model 
 
 Reality is simply much too complicated to be captured in a manageable set of rules, but even incomplete (or incorrect) models can provide insight and help us better navigate this world. Machine learning is successful, precisely because it can help us find such models.
 
-<span style="color:#c0c0c0;">[ Peter Norvig has written an [<span style="color:#c0c0c0;">excellent piece</span>](https://norvig.com/chomsky.html) on this subject in relation to language models. ]</span>
+> *Note: Peter Norvig has written an [excellent piece](https://norvig.com/chomsky.html) on this subject in relation to language models.*

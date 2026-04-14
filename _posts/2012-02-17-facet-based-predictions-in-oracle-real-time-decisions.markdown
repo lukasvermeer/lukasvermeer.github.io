@@ -19,7 +19,7 @@ header:
     post.
 ---
 
-<span style="color:#bbb;">[ [Crossposting](https://blogs.oracle.com/rtd/en/entry/facet_based_predictions) from the [Oracle Real-Time Decisions Blog](https://blogs.oracle.com/rtd/). ]</span>
+> *Note: [Crossposting](https://blogs.oracle.com/rtd/en/entry/facet_based_predictions) from the [Oracle Real-Time Decisions Blog](https://blogs.oracle.com/rtd/).*
 
 The analytical models method detailed in [a previous post](https://lukasvermeer.wordpress.com/2012/01/24/analytical-models-in-oracle-real-time-decisions/) are not only extremely valuable for reporting, but can also be used to predict likelihoods for things other than regular choices. We can for instance generate predictions based on statistics for an attribute of a choice, rather than the choice itself. We use the term _facet based prediction_ to describe this advanced form of generating predictions.
 

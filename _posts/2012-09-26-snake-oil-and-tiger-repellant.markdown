@@ -32,4 +32,4 @@ See? No tigers?
 
 Proven to work like a charm. Order yours today! Great prices! Limited availability! Now taking applications in the comments.
 
-<span style="color:#c0c0c0;">[ Disclaimer: Tiger Repellant is not certified for use in South-East Asia or zoological parks. Tiger Repellant inc. and its employees and subsidiaries cannot be held liable for any damage caused to your person in the event of being eaten by a tiger. ]</span>
+> *Note: Disclaimer: Tiger Repellant is not certified for use in South-East Asia or zoological parks. Tiger Repellant inc. and its employees and subsidiaries cannot be held liable for any damage caused to your person in the event of being eaten by a tiger.*

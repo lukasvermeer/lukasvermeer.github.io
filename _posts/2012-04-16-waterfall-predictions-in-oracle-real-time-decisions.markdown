@@ -19,7 +19,7 @@ header:
     post.
 ---
 
-<span style="color:#bbb;">[ [Crossposting](https://blogs.oracle.com/rtd/en/entry/waterfall_predictions) from the [Oracle Real-Time Decisions Blog](https://blogs.oracle.com/rtd/). ]</span>
+> *Note: [Crossposting](https://blogs.oracle.com/rtd/en/entry/waterfall_predictions) from the [Oracle Real-Time Decisions Blog](https://blogs.oracle.com/rtd/).*
 
 Facet Based Predictions are a powerful method to increase predictive accuracy and facilitate rapid learning and knowledge transfer, but the simple approach described in [an earlier post](https://lukasvermeer.wordpress.com/2012/02/17/facet-based-predictions-in-oracle-real-time-decisions/) comes at a price. By using a single facet rather than individual choices for prediction, we decrease the granularity of our predictions. Choices that share the same facet value will be treated as equals by our predictive model; and even when important distinctions could be made after sufficient feedback is collected our simple facet based model will never learn to exploit these differences.
 

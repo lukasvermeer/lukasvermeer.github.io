@@ -18,7 +18,7 @@ header:
 
 Contrary to what it may seem like, I have been busy writing; just not for this particular blog.
 
-<span style="color:#bbb;">[ [Crossposting](https://www.quora.com/Evolutionary-Biology/Why-hasnt-anyone-ever-seen-an-an-animal-give-birth-to-an-animal-of-a-different-species/answer/Lukas-Vermeer) from [Quora](https://www.quora.com/) where I tried to answer the question "_Why hasn't anyone ever seen an an animal give birth to an animal of a different species?_" ]</span>
+> *Note: [Crossposting](https://www.quora.com/Evolutionary-Biology/Why-hasnt-anyone-ever-seen-an-an-animal-give-birth-to-an-animal-of-a-different-species/answer/Lukas-Vermeer) from [Quora](https://www.quora.com/) where I tried to answer the question "_Why hasn't anyone ever seen an an animal give birth to an animal of a different species?_"*
 
 An answer in an art-rock allegory.
 

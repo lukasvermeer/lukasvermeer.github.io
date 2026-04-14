@@ -31,7 +31,7 @@ I'll run through the RTD setup briefly. If you're interested in a more detailed 
 
 RTD can only predict the likelihoods related to choices, so we'll need a couple of those. For this experiment, we'll pretend we have a choice of landing the dart inside or outside the circle. We'll then diligently record whichever of those two happened to be the case each time we throw a dart so that RTD will learn to predict how likely either outcome is.
 
-<span style="color:#bbb;">[ You can click on the screenshots below for a closer look. ]</span>
+> *Note: You can click on the screenshots below for a closer look.*
 
 ![Two choices modeled in RTD representing a dart landing inside or outside the circle.]({{site.baseurl}}{% link assets/2011-10-30-predicting-pi-choice.png %})
 
@@ -53,7 +53,7 @@ Each request to this advisor will tell RTD about a single dart thrown. The _Dart
 
 This is all that is needed to allow RTD to build a model that can predict the likelihoods for the darts landing inside or outside the circle.
 
-<span style="color:#bbb;">[ Of course we also need so performance goal and decisions to allow the advisor request to return the two choices created, but we're not really interested in that here. As long as the request returns the _In Circle_ choice and its _Likelihood_ attribute we're happy. I'll leave this part of the configuration as an exercise for the reader. ]</span>
+> *Note: Of course we also need so performance goal and decisions to allow the advisor request to return the two choices created, but we're not really interested in that here. As long as the request returns the _In Circle_ choice and its _Likelihood_ attribute we're happy. I'll leave this part of the configuration as an exercise for the reader.*
 
 **The Result.**
 

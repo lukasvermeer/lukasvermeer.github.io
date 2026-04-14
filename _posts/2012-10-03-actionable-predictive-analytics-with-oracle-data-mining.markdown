@@ -35,13 +35,13 @@ Output tables are where analytical insight goes to die.
 
 If all we were interested in was building models, we'd be better off [glueing choo-choos](https://www.marklin.com). It is the new ways in which we can utilise these database resident models that makes this technology really interesting. With a few simple additional steps, this same model can be used in real-time to provide inline predictions based on up-to-date customer data; as well as for new customers.
 
-All we need is a view<del> and a join</del>.
+All we need is a view ~~and a join~~.
 
 **Update (October 3rd, 2012)**: as Marcos points out in the comments, I was making things far too complicated. No need for a separate join; simply select the output columns you need and pass everything directly to the view.
 
 ![]({{site.baseurl}}{% link assets/2012-10-03-actionable-predictive-analytics-with-oracle-data-mining-odm_view.jpg %} "Oracle Data Mining Model Columns in a View")
 
-<del>The join operations glues the original data and the prediction models together;</del> The view allows us to look at the harmonised results directly. When a customer record is selected from the view the source data for this record is passed to the model to generate the predicted values in real-time. When source data changes so does the prediction. When new source records are added they are automatically processed in the same way.
+~~The join operations glues the original data and the prediction models together;~~ The view allows us to look at the harmonised results directly. When a customer record is selected from the view the source data for this record is passed to the model to generate the predicted values in real-time. When source data changes so does the prediction. When new source records are added they are automatically processed in the same way.
 
 {% highlight sql %}
 -- Create a new customer.
