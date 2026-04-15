@@ -85,7 +85,6 @@ mediakit:
 </div>
 </div>
 
-</div>
 
 <div class="feature__item">
 <div class="archive__item">
