@@ -8,7 +8,7 @@ header:
   caption: Marketing Festival, Ostrava (2016)
   alt: Lukas speaking in front of a crowd of thousands of people at Marketing Festival
     in Ostrava, 2016.
-  teaser_alt: A teaser image for the this page.
+  teaser_alt: Lukas Vermeer speaking at Marketing Festival in Ostrava, 2016.
 excerpt: Helping people run experiments to make better products for their customers.
   I explain science using historical narratives and teach statistics through storytelling.
 intro:

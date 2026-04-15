@@ -8,7 +8,7 @@ header:
   overlay_image: "/assets/images/header-bg.webp"
   caption: Growth Marketing Summit, Frankfurt (2019)
   alt: Lukas on stage presenting at Growth Marketing Summit in Frankfurt, 2019
-  teaser_alt: A teaser image for the Keynote Speaker page.
+  teaser_alt: Lukas Vermeer on stage at Growth Marketing Summit in Frankfurt, 2019.
 excerpt: Explaining experimentation for everyone to understand.
 intro:
 - excerpt: Statistics sounds scary, but it doesn't have to be. By explaining statistical
@@ -23,21 +23,21 @@ feature_row:
   excerpt: Big Data or Small Data; all data tells a story. Through practical examples
     and live simulations, I help the audience understand how data can be used to gain
     valuable insights.
-  alt: An image for the Data section.
+  alt: Lukas Vermeer on stage presenting his Data Science for Fun and for Profit talk at Marketing Festival in Ostrava, 2016.
 - image_path: "/assets/images/header-science.webp"
   image_caption: Predictive Analytics World, Berlin (2017)
   title: Science
   excerpt: Doing science might seem straightforward, but the devil is in the details.
     I use historical narratives to illustrate the numerous practical pitfalls involved
     in applying the Scientific Method.
-  alt: An image for the Science section.
+  alt: Lukas Vermeer on stage next to a Thomas Kuhn quote about progress in science at Predictive Analytics World in Berlin, 2017.
 - image_path: "/assets/images/action-booking-data-science-meetup-amsterdam-2017-s.webp"
   image_caption: Booking Data Science Meetup, Amsterdam (2017)
   title: Statistics
   excerpt: Statistics sounds scary, but it doesn't have to be. By explaining statistical
     concepts through compelling stories and concrete examples, I make statistics accessible
     for any audience.
-  alt: An image for the Statistics section.
+  alt: Lukas Vermeer standing among the audience holding a microphone, with a slide about experiment results behind him, at the Booking Data Science Meetup in Amsterdam, 2017.
 pricing:
 - image_path: "/assets/images/action-marketing-festival-ostrava-2016-1-s.webp"
   image_caption: Marketing Festival, Ostrava (2016)
@@ -46,10 +46,11 @@ pricing:
     existing or lightly altered content starting from &euro;10.000,- excluding VAT
     and travel depending on the nature of the event and the amount of travel involved.
     There is a 50% discount for virtual events.
-  alt: An image for the Pricing section.
+  alt: Lukas Vermeer on stage presenting to a large packed auditorium at Marketing Festival in Ostrava, 2016.
 mediakit:
 - image_path: "/assets/images/header-2017-pawb7-s.webp"
   image_caption: Predictive Analytics World, Berlin (2017)
+  alt: Lukas Vermeer laughing and chatting with fellow attendees at Predictive Analytics World in Berlin, 2017.
   title: Speaker media kit
   excerpt: Curious to learn more about me? Your audience will be too! That is why
     I have prepared this speaker media kit with all the information you might need

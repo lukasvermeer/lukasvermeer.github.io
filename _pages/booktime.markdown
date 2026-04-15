@@ -3,8 +3,8 @@ title: Book my time
 permalink: "/booktime/"
 layout: single
 header:
-  alt: A teaser image for the Book my time page.
-  teaser_alt: A teaser image for the Book my time page.
+  alt: Lukas Vermeer on stage at Growth Marketing Summit in Frankfurt, 2019.
+  teaser_alt: Lukas Vermeer on stage at Growth Marketing Summit in Frankfurt, 2019.
 ---
 
 <!-- Calendly inline widget begin -->

@@ -2,8 +2,8 @@
 permalink: "/404.html"
 layout: default
 header:
-  alt: A teaser image for the this page.
-  teaser_alt: A teaser image for the this page.
+  alt: Lukas Vermeer on stage at Growth Marketing Summit in Frankfurt, 2019.
+  teaser_alt: Lukas Vermeer on stage at Growth Marketing Summit in Frankfurt, 2019.
 ---
 
 <style type="text/css" media="screen">

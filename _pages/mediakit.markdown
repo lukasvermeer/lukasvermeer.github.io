@@ -8,8 +8,8 @@ header:
   overlay_filter: '0.6'
   overlay_image: "/assets/images/header-2017-pawb7.webp"
   caption: Predictive Analytics World, Berlin (2017)
-  alt: A teaser image for the Media Kit page.
-  teaser_alt: A teaser image for the Media Kit page.
+  alt: Lukas Vermeer laughing and gesturing while chatting with two attendees at Predictive Analytics World in Berlin, 2017.
+  teaser_alt: Lukas Vermeer chatting with attendees at Predictive Analytics World in Berlin, 2017.
 excerpt: Content for use when I am speaking at your event.
 intro:
 - excerpt: Curious to learn more about me? Your audience will be too! That is why

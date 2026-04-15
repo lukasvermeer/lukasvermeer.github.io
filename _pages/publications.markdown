@@ -4,8 +4,8 @@ layout: posts
 permalink: "/publications/"
 author_profile: true
 header:
-  alt: A teaser image for the Publications page.
-  teaser_alt: A teaser image for the Publications page.
+  alt: Lukas Vermeer on stage at Growth Marketing Summit in Frankfurt, 2019.
+  teaser_alt: Lukas Vermeer on stage at Growth Marketing Summit in Frankfurt, 2019.
 ---
 
 <a href="/publications/podcast" class="btn btn--inverse">Podcasts &#8594;</a>

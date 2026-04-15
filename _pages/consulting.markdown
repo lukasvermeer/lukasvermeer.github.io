@@ -10,7 +10,7 @@ header:
   caption: Marketing Festival, Ostrava (2016)
   alt: Lukas and Craig chatting on stage as part of a Q&A at Marketing Festival in
     Ostrava, 2016.
-  teaser_alt: A teaser image for the Trusted Advisor page.
+  teaser_alt: Lukas and Craig chatting on stage at Marketing Festival in Ostrava, 2016.
 excerpt: Helping clients scale experimentation and avoid common pitfalls.
 intro:
 - excerpt: How do we get started with experimentation in our organisation? How can
@@ -49,7 +49,7 @@ pricing:
   image_caption: Predictive Analytics World, Berlin (2017)
   title: Pricing
   excerpt: I charge a flat hourly rate starting from &euro;1.000,- excluding VAT.
-  alt: An image for the Pricing section.
+  alt: Lukas Vermeer laughing and gesturing while chatting with two attendees at Predictive Analytics World in Berlin, 2017.
 ---
 
 {% include feature_row id="intro" type="center" %}
