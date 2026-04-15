@@ -33,7 +33,8 @@ jobs:
       - name: Format Lighthouse results
         id: format_results
         run: |
-          echo "Debug Outputs: ${{ toJSON(steps.lighthouse.outputs) }}"
+          echo "Processing Lighthouse reports..."
+          ls .lighthouseci/lhr-*.json || echo "No reports found in .lighthouseci/"
           
           links_json='${{ steps.lighthouse.outputs.links }}'
           
