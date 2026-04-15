@@ -1,0 +1,67 @@
+name: Lighthouse CI
+
+on:
+  push:
+    branches: [ master, main ]
+  pull_request:
+    branches: [ master, main ]
+
+jobs:
+  lighthouse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '2.7'
+          bundler-cache: true
+
+      - name: Build site
+        run: bundle exec jekyll build
+
+      - name: Run Lighthouse
+        id: lighthouse
+        uses: treosh/lighthouse-ci-action@v12
+        with:
+          configPath: ./.lighthouserc.json
+          uploadArtifacts: true
+          temporaryPublicStorage: true
+
+      - name: Format Lighthouse results
+        if: github.event_name == 'pull_request'
+        id: format_results
+        run: |
+          results='${{ steps.lighthouse.outputs.results }}'
+          links='${{ steps.lighthouse.outputs.links }}'
+          
+          # Use python to format the table since it's easier to handle JSON
+          python3 -c "
+          import json, os
+          from urllib.parse import urlparse
+          results = json.loads('''$results''')
+          links = json.loads('''$links''')
+          
+          body = '### ⚡️ Lighthouse CI Report\n\n'
+          body += '| URL | Perf | Acc | B.P. | SEO | PWA | Report |\n'
+          body += '| :--- | :---: | :---: | :---: | :---: | :---: | :---: |\n'
+          
+          for url, scores in results.items():
+              s = lambda k: round(scores.get(k, 0) * 100)
+              link = links.get(url, '')
+              # Clean up URL for display
+              display_url = urlparse(url).path or '/'
+              body += f'| {display_url} | {s(\"performance\")} | {s(\"accessibility\")} | {s(\"bestPractices\")} | {s(\"seo\")} | {s(\"pwa\")} | [🔗]({link}) |\n'
+          
+          with open('comment.md', 'w') as f:
+              f.write(body)
+          "
+      
+      - name: Comment on PR
+        if: github.event_name == 'pull_request'
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          filePath: comment.md
+          comment_tag: lighthouse_report

@@ -1,0 +1,18 @@
+{
+  "ci": {
+    "collect": {
+      "staticDistDir": "./_site",
+      "url": [
+        "/",
+        "/speaking/",
+        "/consulting/",
+        "/publications/",
+        "/publications/paper/2026/03/31/power-analysis-is-essential.html"
+      ],
+      "numberOfRuns": 1
+    },
+    "upload": {
+      "target": "temporary-public-storage"
+    }
+  }
+}
