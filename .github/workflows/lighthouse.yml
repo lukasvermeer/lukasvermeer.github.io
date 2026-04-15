@@ -33,43 +33,63 @@ jobs:
       - name: Format Lighthouse results
         id: format_results
         run: |
-          echo "Debug: results = ${{ steps.lighthouse.outputs.results }}"
-          echo "Debug: links = ${{ steps.lighthouse.outputs.links }}"
+          echo "Debug Outputs: ${{ toJSON(steps.lighthouse.outputs) }}"
+          ls -R .lighthouseci || echo ".lighthouseci not found"
           
-          results='${{ steps.lighthouse.outputs.results }}'
-          links='${{ steps.lighthouse.outputs.links }}'
+          # Try to use the manifest file if the output is empty
+          if [ -f .lighthouseci/manifest.json ]; then
+            results_json=$(cat .lighthouseci/manifest.json)
+          else
+            results_json='${{ steps.lighthouse.outputs.results }}'
+          fi
           
-          # Use python to format the table since it's easier to handle JSON
+          links_json='${{ steps.lighthouse.outputs.links }}'
+          
+          # Use python to format the table
           python3 -c "
           import json, os, sys
           from urllib.parse import urlparse
           
-          results_raw = '''$results'''.strip()
-          links_raw = '''$links'''.strip()
+          def load_json(raw):
+              if not raw or raw == 'null': return {}
+              try:
+                  return json.loads(raw)
+              except:
+                  # Handle cases where it might be a string representation of a JS object
+                  try:
+                      # This is a hack for the non-quoted format seen in debug
+                      import ast
+                      return ast.literal_eval(raw)
+                  except:
+                      return {}
+
+          results_data = load_json('''$results_json''')
+          links_data = load_json('''$links_json''')
           
-          if not results_raw:
-              print('No Lighthouse results found.')
+          if not results_data:
+              print('No Lighthouse results data found.')
               with open('comment.md', 'w') as f:
-                  f.write('### ⚡️ Lighthouse CI Report\n\nNo results were generated. Please check the action logs.')
+                  f.write('### ⚡️ Lighthouse CI Report\n\nNo results were found. Debug outputs have been logged.')
               sys.exit(0)
-          
-          try:
-              results = json.loads(results_raw)
-              links = json.loads(links_raw) if links_raw else {}
-          except Exception as e:
-              print(f'Error parsing JSON: {e}')
-              with open('comment.md', 'w') as f:
-                  f.write(f'### ⚡️ Lighthouse CI Report\n\nError parsing results: {e}')
-              sys.exit(0)
-          
+
+          # If it's a manifest (list of runs), we need to extract scores
+          # Manifest structure: [ { \"url\": \"...\", \"summary\": { \"performance\": 0.9, ... } } ]
+          if isinstance(results_data, list):
+              table_data = {}
+              for run in results_data:
+                  url = run.get('url')
+                  summary = run.get('summary')
+                  if url and summary:
+                      table_data[url] = summary
+              results_data = table_data
+
           body = '### ⚡️ Lighthouse CI Report\n\n'
           body += '| URL | Perf | Acc | B.P. | SEO | PWA | Report |\n'
           body += '| :--- | :---: | :---: | :---: | :---: | :---: | :---: |\n'
           
-          for url, scores in results.items():
-              s = lambda k: round(scores.get(k, 0) * 100)
-              link = links.get(url, '')
-              # Clean up URL for display
+          for url, scores in results_data.items():
+              s = lambda k: round(scores.get(k, 0) * 100) if scores.get(k) is not None else '--'
+              link = links_data.get(url, '')
               display_url = urlparse(url).path or '/'
               body += f'| {display_url} | {s(\"performance\")} | {s(\"accessibility\")} | {s(\"bestPractices\")} | {s(\"seo\")} | {s(\"pwa\")} | [🔗]({link}) |\n'
           
