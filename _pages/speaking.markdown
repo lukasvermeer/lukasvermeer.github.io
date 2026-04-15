@@ -78,6 +78,8 @@ mediakit:
 <div class="archive__item-body">
 <div class="archive__item-excerpt" markdown="1">
 
+### One neat trick to run better experiments
+
 [One neat trick to run better experiments](https://vimeo.com/376028124) at [Conversion Hotel](https://conversionhotel.com/session/keynote-2019-run-better-experiments-srm-checks/).
 
 </div>
@@ -94,6 +96,8 @@ mediakit:
 <div class="archive__item-body">
 <div class="archive__item-excerpt" markdown="1">
 
+### Democratising Online Controlled Experiments at Booking.com
+
 [Democratising Online Controlled Experiments at Booking.com](https://vimeo.com/271252248) at [Mind the Product](https://www.mindtheproduct.com/2018/05/democratising-online-controlled-experiments-at-booking-com-by-lukas-vermeer/).
 
 </div>
@@ -108,6 +112,8 @@ mediakit:
 </div>
 <div class="archive__item-body">
 <div class="archive__item-excerpt" markdown="1">
+
+### Data Science vs. Data Alchemy
 
 [Data Science vs. Data Alchemy](https://www.youtube.com/watch?v=wcNwUNqTYc8) at [GOTO Conference](https://gotopia.tech/).
 
