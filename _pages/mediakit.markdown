@@ -115,14 +115,6 @@ gallery_action:
   image_path: assets/images/action-exp-elite-2023-2-s.webp
   alt: Lukas on stage presenting at Exp Elite in Birmingham, 2023.
   title: Exp Elite, Birmingham (2023)
-- url: assets/images/originals/action-nio-summit-2023-1.jpg
-  image_path: assets/images/action-nio-summit-2023-1-s.webp
-  alt: Lukas on stage presenting at NIO Summit in Dallas, 2023.
-  title: NIO Summit, Dallas (2023)
-- url: assets/images/originals/action-nio-summit-2023-2.jpg
-  image_path: assets/images/action-nio-summit-2023-2-s.webp
-  alt: Lukas on stage presenting at NIO Summit in Dallas, 2023.
-  title: NIO Summit, Dallas (2023)
 - url: assets/images/originals/action-experimentation-heroes-2023-1.jpg
   image_path: assets/images/action-experimentation-heroes-2023-1-s.webp
   alt: Lukas on stage presenting at Experimentation Heroes in Amsterdam, 2023.
@@ -170,16 +162,6 @@ This biography was written such that it can be easily adapted to the length appr
 {% include gallery id="gallery_action" caption="Some rights reserved. Limited use only." %}
 
 # Videos of previous talks
-
-## Building A Culture Of Experimentation
-
-<p><a href="https://www.niosummit.com/videos-2023/?wchannelid=ydlt845b3o&amp;wmediaid=6v2u9dph7s&amp;wvideo=6v2u9dph7s"><img src="https://embed-ssl.wistia.com/deliveries/a824e5f10adc439d62fb4441630fb4f31bc225d7.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=f5c635e0" style="width: 636px; height: 358px;" width="400" height="225"></a></p>
-
-[Building A Culture Of Experimentation](https://www.niosummit.com/videos-2023/?wchannelid=ydlt845b3o&amp;wmediaid=6v2u9dph7s&amp;wvideo=6v2u9dph7s) at [NIO Summit](https://www.niosummit.com/videos-2023/) (2023).
-
-> In this talk, you will learn why you should care about business experimentation, and what you can do to foster experimentation inside your organisation. Using practical examples and anecdotes from industry experience, as well as original academic work, we will dive into what makes a culture of experimentation work. We will also highlight some key levers that will help you start fostering your own experimentation culture.
-
-*Audience rating 4.82 out of 5.*
 
 ## Moving fast, breaking things, and fixing them as quickly as possible
 
