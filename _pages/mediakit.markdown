@@ -165,7 +165,7 @@ This biography was written such that it can be easily adapted to the length appr
 
 ## Moving fast, breaking things, and fixing them as quickly as possible
 
-{% include video id="648968790" provider="vimeo" title="Moving fast, breaking things, and fixing them as quickly as possible" %}
+{% include video id="648968790" provider="vimeo" %}
 
 [Moving fast, breaking things, and fixing them as quickly as possible](https://vimeo.com/648968790) at [Conversion Hotel](https://conversionhotel.com/session/keynote-2021-moving-fast-breaking-things/) (2021).
 
@@ -173,7 +173,7 @@ This biography was written such that it can be easily adapted to the length appr
 
 ## One neat trick to run better experiments
 
-{% include video id="376028124" provider="vimeo" title="One neat trick to run better experiments" %}
+{% include video id="376028124" provider="vimeo" %}
 
 [One neat trick to run better experiments](https://vimeo.com/376028124) at [Conversion Hotel](https://conversionhotel.com/session/keynote-2019-run-better-experiments-srm-checks/) (2019).
 
@@ -183,7 +183,7 @@ This biography was written such that it can be easily adapted to the length appr
 
 ## Democratising Online Controlled Experiments at Booking.com
 
-{% include video id="271252248" provider="vimeo" title="Democratising Online Controlled Experiments at Booking.com" %}
+{% include video id="271252248" provider="vimeo" %}
 
 [Democratising Online Controlled Experiments at Booking.com](https://vimeo.com/271252248) at [Mind the Product](https://www.mindtheproduct.com/2018/05/democratising-online-controlled-experiments-at-booking-com-by-lukas-vermeer/) (2018).
 
@@ -195,7 +195,7 @@ This biography was written such that it can be easily adapted to the length appr
 
 ## Data Science vs. Data Alchemy
 
-{% include video id="wcNwUNqTYc8" provider="youtube" title="Data Science vs. Data Alchemy" %}
+{% include video id="wcNwUNqTYc8" provider="youtube" %}
 
 [Data Science vs. Data Alchemy](https://www.youtube.com/watch?v=wcNwUNqTYc8) at [GOTO Conference](https://gotopia.tech/) (2016).
 

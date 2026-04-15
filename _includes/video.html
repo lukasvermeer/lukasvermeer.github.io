@@ -1,5 +1,0 @@
-{% if include.provider == "youtube" %}
-  <iframe src="https://www.youtube-nocookie.com/embed/{{ include.id }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen title="{{ include.title | default: 'Video' }}"></iframe>
-{% elsif include.provider == "vimeo" %}
-  <iframe src="https://player.vimeo.com/video/{{ include.id }}?dnt=true" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen title="{{ include.title | default: 'Video' }}"></iframe>
-{% endif %}
