@@ -33,15 +33,34 @@ jobs:
       - name: Format Lighthouse results
         id: format_results
         run: |
+          echo "Debug: results = ${{ steps.lighthouse.outputs.results }}"
+          echo "Debug: links = ${{ steps.lighthouse.outputs.links }}"
+          
           results='${{ steps.lighthouse.outputs.results }}'
           links='${{ steps.lighthouse.outputs.links }}'
           
           # Use python to format the table since it's easier to handle JSON
           python3 -c "
-          import json, os
+          import json, os, sys
           from urllib.parse import urlparse
-          results = json.loads('''$results''')
-          links = json.loads('''$links''')
+          
+          results_raw = '''$results'''.strip()
+          links_raw = '''$links'''.strip()
+          
+          if not results_raw:
+              print('No Lighthouse results found.')
+              with open('comment.md', 'w') as f:
+                  f.write('### ⚡️ Lighthouse CI Report\n\nNo results were generated. Please check the action logs.')
+              sys.exit(0)
+          
+          try:
+              results = json.loads(results_raw)
+              links = json.loads(links_raw) if links_raw else {}
+          except Exception as e:
+              print(f'Error parsing JSON: {e}')
+              with open('comment.md', 'w') as f:
+                  f.write(f'### ⚡️ Lighthouse CI Report\n\nError parsing results: {e}')
+              sys.exit(0)
           
           body = '### ⚡️ Lighthouse CI Report\n\n'
           body += '| URL | Perf | Acc | B.P. | SEO | PWA | Report |\n'
