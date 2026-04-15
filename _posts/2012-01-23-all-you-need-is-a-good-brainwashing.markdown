@@ -22,7 +22,7 @@ But conditioning can be a powerful tool for self-improvement. I've deliberately 
 
 In effect, I've brainwashed myself to work better in response to a particular tune.
 
-{% include video id="pZ6V8pH4HPY" provider="youtube" %}
+{% include video id="pZ6V8pH4HPY" provider="youtube" title="Brian Eno - Thursday Afternoon" %}
 
 There is nothing special about this trick. Anyone can do it and almost no real effort is required.
 

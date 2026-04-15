@@ -73,7 +73,7 @@ mediakit:
 <div class="feature__item">
 <div class="archive__item">
 <div class="archive__item-teaser">
-{% include video id="376028124" provider="vimeo" %}
+{% include video id="376028124" provider="vimeo" title="One neat trick to run better experiments - Conversion Hotel" %}
 </div>
 <div class="archive__item-body">
 <div class="archive__item-excerpt" markdown="1">
@@ -89,7 +89,7 @@ mediakit:
 <div class="feature__item">
 <div class="archive__item">
 <div class="archive__item-teaser">
-{% include video id="271252248" provider="vimeo" %}
+{% include video id="271252248" provider="vimeo" title="Democratising Online Controlled Experiments at Booking.com - Mind the Product" %}
 </div>
 <div class="archive__item-body">
 <div class="archive__item-excerpt" markdown="1">
@@ -104,7 +104,7 @@ mediakit:
 <div class="feature__item">
 <div class="archive__item">
 <div class="archive__item-teaser">
-{% include video id="wcNwUNqTYc8" provider="youtube" %}
+{% include video id="wcNwUNqTYc8" provider="youtube" title="Data Science vs. Data Alchemy - GOTO Conference" %}
 </div>
 <div class="archive__item-body">
 <div class="archive__item-excerpt" markdown="1">

@@ -23,4 +23,4 @@ Analysis without action is a crippling affliction that affects individuals as we
 
 Time to stop thinking and start typing.
 
-{% include video id="16fBF3Bgd3M" provider="youtube" %}
+{% include video id="16fBF3Bgd3M" provider="youtube" title="Shia LaBeouf - Just Do It" %}

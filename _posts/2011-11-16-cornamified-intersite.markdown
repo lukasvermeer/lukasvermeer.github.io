@@ -18,4 +18,4 @@ After consulting [the Interwebs](https://twitter.com/#!/lukasvermeer/status/1364
 
 > *Note: Video [is related](https://knowyourmeme.com/memes/picture-unrelated).*
 
-{% include video id="eWM2joNb9NE" provider="youtube" %}
+{% include video id="eWM2joNb9NE" provider="youtube" title="Nyan Cat" %}
