@@ -262,6 +262,10 @@ This presentation on A/B testing statistics elucidates the importance of using p
 
 This is a selection of past public engagements. Internal company events for clients are not included.
 
+- Experimentation Island, St. Simons Island (February 26th, 2026)
+- CXL, Austin (2024)
+- Experimentation Heroes, Amsterdam (October 31st, 2023)
+- Exp Elite, Birmingham (2023)
 - NIO Summit, Dallas (September 20th, 2023)
 - Conversion Hotel, Texel (November 20th, 2021)
 - UXRConf Anywhere 2021, Online Event (February 24th, 2021)
@@ -279,6 +283,8 @@ This is a selection of past public engagements. Internal company events for clie
 - Mind the Product Engage, Hamburg (April 20th, 2018)
 - KDD, Halifax (August 13th, 2017)
 - SIGIR, Tokyo (August 7th, 2017)
+- Predictive Analytics World, Berlin (2017)
+- Digital Growth Unleashed, London (2017)
 - Marketing Festival, Ostrava (October 21st, 2016)
 - GOTO Conference, Amsterdam (June 14th, 2016)
 - Skyscanner Technical Thought Leader Series, London (May 23rd, 2016)
