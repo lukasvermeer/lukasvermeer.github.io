@@ -31,7 +31,6 @@ jobs:
           temporaryPublicStorage: true
 
       - name: Format Lighthouse results
-        if: github.event_name == 'pull_request'
         id: format_results
         run: |
           results='${{ steps.lighthouse.outputs.results }}'
@@ -58,6 +57,9 @@ jobs:
           with open('comment.md', 'w') as f:
               f.write(body)
           "
+      
+      - name: Add Job Summary
+        run: cat comment.md >> $GITHUB_STEP_SUMMARY
       
       - name: Comment on PR
         if: github.event_name == 'pull_request'
