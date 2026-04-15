@@ -7,7 +7,8 @@
         "/speaking/",
         "/consulting/",
         "/publications/",
-        "/publications/paper/2026/03/31/power-analysis-is-essential.html"
+        "/publications/paper/2026/03/31/power-analysis-is-essential.html",
+        "/publications/2023/04/04/avoiding-interaction-effects-in-online-experimentation.html"
       ],
       "numberOfRuns": 1
     },
