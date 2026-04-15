@@ -34,64 +34,60 @@ jobs:
         id: format_results
         run: |
           echo "Debug Outputs: ${{ toJSON(steps.lighthouse.outputs) }}"
-          ls -R .lighthouseci || echo ".lighthouseci not found"
-          
-          # Try to use the manifest file if the output is empty
-          if [ -f .lighthouseci/manifest.json ]; then
-            results_json=$(cat .lighthouseci/manifest.json)
-          else
-            results_json='${{ steps.lighthouse.outputs.results }}'
-          fi
           
           links_json='${{ steps.lighthouse.outputs.links }}'
           
           # Use python to format the table
           python3 -c "
-          import json, os, sys
+          import json, os, sys, glob
           from urllib.parse import urlparse
           
-          def load_json(raw):
-              if not raw or raw == 'null': return {}
-              try:
-                  return json.loads(raw)
-              except:
-                  # Handle cases where it might be a string representation of a JS object
-                  try:
-                      # This is a hack for the non-quoted format seen in debug
-                      import ast
-                      return ast.literal_eval(raw)
-                  except:
-                      return {}
+          links_data = {}
+          try:
+              links_raw = '''$links_json'''.strip()
+              if links_raw and links_raw != 'null':
+                  links_data = json.loads(links_raw)
+          except Exception as e:
+              print(f'Error parsing links JSON: {e}')
 
-          results_data = load_json('''$results_json''')
-          links_data = load_json('''$links_json''')
+          table_data = {}
+          reports = glob.glob('.lighthouseci/lhr-*.json')
           
-          if not results_data:
+          for report_path in reports:
+              try:
+                  with open(report_path, 'r') as f:
+                      data = json.load(f)
+                      url = data.get('finalDisplayedUrl') or data.get('finalUrl')
+                      cats = data.get('categories', {})
+                      # LH categories are performance, accessibility, best-practices, seo, pwa
+                      summary = {
+                          'perf': cats.get('performance', {}).get('score'),
+                          'acc': cats.get('accessibility', {}).get('score'),
+                          'bp': cats.get('best-practices', {}).get('score'),
+                          'seo': cats.get('seo', {}).get('score'),
+                          'pwa': cats.get('pwa', {}).get('score'),
+                      }
+                      if url:
+                          table_data[url] = summary
+              except Exception as e:
+                  print(f'Error processing {report_path}: {e}')
+
+          if not table_data:
               print('No Lighthouse results data found.')
               with open('comment.md', 'w') as f:
-                  f.write('### ⚡️ Lighthouse CI Report\n\nNo results were found. Debug outputs have been logged.')
+                  f.write('### ⚡️ Lighthouse CI Report\n\nNo results were found. Please check the action logs.')
               sys.exit(0)
-
-          # If it's a manifest (list of runs), we need to extract scores
-          # Manifest structure: [ { \"url\": \"...\", \"summary\": { \"performance\": 0.9, ... } } ]
-          if isinstance(results_data, list):
-              table_data = {}
-              for run in results_data:
-                  url = run.get('url')
-                  summary = run.get('summary')
-                  if url and summary:
-                      table_data[url] = summary
-              results_data = table_data
 
           body = '### ⚡️ Lighthouse CI Report\n\n'
           body += '| URL | Perf | Acc | B.P. | SEO | PWA | Report |\n'
           body += '| :--- | :---: | :---: | :---: | :---: | :---: | :---: |\n'
           
-          for url, scores in results_data.items():
-              s = lambda k: round(scores.get(k, 0) * 100) if scores.get(k) is not None else '--'
+          for url in sorted(table_data.keys()):
+              scores = table_data[url]
+              fmt = lambda v: str(round(v * 100)) if v is not None else '--'
               link = links_data.get(url, '')
               display_url = urlparse(url).path or '/'
-              body += f'| {display_url} | {s(\"performance\")} | {s(\"accessibility\")} | {s(\"bestPractices\")} | {s(\"seo\")} | {s(\"pwa\")} | [🔗]({link}) |\n'
+              body += f'| {display_url} | {fmt(scores[\"perf\"])} | {fmt(scores[\"acc\"])} | {fmt(scores[\"bp\"])} | {fmt(scores[\"seo\"])} | {fmt(scores[\"pwa\"])} | [🔗]({link}) |\n'
           
           with open('comment.md', 'w') as f:
               f.write(body)
