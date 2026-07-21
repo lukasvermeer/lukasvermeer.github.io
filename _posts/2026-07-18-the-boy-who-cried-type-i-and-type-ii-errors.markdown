@@ -54,7 +54,7 @@ The villagers committed both a type-I and a type-II error, in that order.
 
 A small terminology trap worth flagging: the words "positive" and "negative" here refer to the result of the significance test (significant: yes or no), *not* to the direction of the observed effect. A result can be both negative (e.g. we observe fewer visitors click a link) and simultaneously a false positive (e.g. the observed difference is significant by chance, while in reality there is no underlying effect).
 
-The deeper point of the story, however, is one that technical audiences too often miss. Some say that "there is no believing a liar, even when he speaks the truth", but this is a mistake. The truth does not care whether it is spoken by a liar or a truth-teller, much like the horn does not care whether it is blown in error or not. We cannot fault a young boy for being bored. Rather we should blame the villagers for believing their error-prone methodology would help them catch *The Alternative Hypothesis*. Type-I and type-II errors are properties of the procedure, not failures of the analyst.
+The deeper point is that we cannot fault a young boy for being bored; rather, we should blame the villagers for relying on an error-prone methodology. Type-I and type-II errors are properties of a procedure, not failures of the analyst. Because no method is perfect, we must always be mindful of potential error rates when making decisions. We should seek methods with controlled error rates. For example, sending two boys instead of one provides much-needed redundancy; a single experiment can be a fluke, but two measurements are better than one.
 
 ## Why a story?
 
